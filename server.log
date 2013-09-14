@@ -1164,3 +1164,59 @@ java.lang.IllegalArgumentException: Too big view radius!
 2013-09-13 23:45:18 [INFO] Saving chunks for level 'world_nether'/Nether
 2013-09-13 23:45:18 [INFO] Saving chunks for level 'world_the_end'/The End
 2013-09-13 23:45:18 [INFO] Stopping server
+2013-09-14 12:03:45 [INFO] Starting minecraft server version 1.6.2
+2013-09-14 12:03:45 [INFO] Loading properties
+2013-09-14 12:03:45 [INFO] Default game type: SURVIVAL
+2013-09-14 12:03:45 [INFO] Generating keypair
+2013-09-14 12:03:46 [INFO] Starting Minecraft server on *:25565
+2013-09-14 12:03:46 [INFO] This server is running CraftBukkit version git-Bukkit-1.6.2-R1.0-b2879jnks (MC: 1.6.2) (Implementing API version 1.6.2-R1.0)
+2013-09-14 12:03:47 [INFO] [dynmap] Loading dynmap v1.8-786
+2013-09-14 12:03:47 [INFO] Preparing level "world"
+2013-09-14 12:03:48 [INFO] Preparing start region for level 0 (Seed: 4943191395051569586)
+2013-09-14 12:03:49 [INFO] Preparing spawn area: 46%
+2013-09-14 12:03:49 [INFO] Preparing start region for level 1 (Seed: -4110950347534694326)
+2013-09-14 12:03:50 [INFO] Preparing spawn area: 53%
+2013-09-14 12:03:50 [INFO] Preparing start region for level 2 (Seed: -4110950347534694326)
+2013-09-14 12:03:51 [INFO] [dynmap] Enabling dynmap v1.8-786
+2013-09-14 12:03:51 [INFO] [dynmap] Using Bukkit Permissions (superperms) for access control
+2013-09-14 12:03:51 [INFO] [dynmap] Web interface permissions only available for online users
+2013-09-14 12:03:52 [INFO] [dynmap] Extracted files upgraded
+2013-09-14 12:03:53 [INFO] [dynmap] Loaded 21 shaders.
+2013-09-14 12:03:53 [INFO] [dynmap] Loaded 82 perspectives.
+2013-09-14 12:03:53 [INFO] [dynmap] Loaded 12 lightings.
+2013-09-14 12:03:53 [INFO] [dynmap] Web server started on address 0.0.0.0:8123
+2013-09-14 12:03:53 [INFO] [dynmap] version 1.8-786 is enabled - core version 1.8-1746
+2013-09-14 12:03:53 [INFO] [dynmap] Loaded 3 maps of world 'world'.
+2013-09-14 12:03:54 [INFO] [dynmap] Loaded 36 pending tile renders for world 'world
+2013-09-14 12:03:54 [INFO] [dynmap] Loaded 2 maps of world 'world_nether'.
+2013-09-14 12:03:54 [INFO] [dynmap] Loaded 2 maps of world 'world_the_end'.
+2013-09-14 12:03:54 [INFO] [dynmap] Enabled
+2013-09-14 12:03:54 [INFO] Server permissions file permissions.yml is empty, ignoring it
+2013-09-14 12:03:54 [INFO] Done (6.760s)! For help, type "help" or "?"
+2013-09-14 12:03:55 [INFO] [dynmap] Loading default resource pack
+2013-09-14 12:03:58 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-09-14 14:10:47 [INFO] /127.0.0.1:46024 lost connection
+2013-09-14 14:10:51 [INFO] OzBarry[/127.0.0.1:46027] logged in with entity id 388 at ([world] 60.74424151089093, 67.0, 265.7513746766037)
+2013-09-14 14:11:34 [INFO] Connection reset
+2013-09-14 14:11:34 [INFO] OzBarry lost connection: disconnect.quitting
+2013-09-14 14:11:34 [INFO] §eOzBarry left the game.
+2013-09-14 14:12:55 [INFO] OzBarry[/127.0.0.1:46062] logged in with entity id 863 at ([world] 61.07624612296947, 67.0, 265.96852755740423)
+2013-09-14 14:50:14 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-09-14 15:37:10 [INFO] Connection reset
+2013-09-14 15:37:10 [INFO] OzBarry lost connection: disconnect.quitting
+2013-09-14 15:37:10 [INFO] §eOzBarry left the game.
+2013-09-14 16:10:27 [INFO] CONSOLE: Stopping the server..[m
+2013-09-14 16:10:27 [INFO] Stopping server
+2013-09-14 16:10:27 [INFO] [dynmap] Disabling dynmap v1.8-786
+2013-09-14 16:10:28 [INFO] [dynmap] Unloaded 11 components.
+2013-09-14 16:10:28 [INFO] [dynmap] Stopping map renderer...
+2013-09-14 16:10:28 [INFO] [dynmap] Saved 181 pending tile renders in world 'world
+2013-09-14 16:10:28 [INFO] [dynmap] Disabled
+2013-09-14 16:10:28 [INFO] Saving players
+2013-09-14 16:10:28 [WARNING] DSCT: Socket closed
+2013-09-14 16:10:28 [INFO] Saving worlds
+2013-09-14 16:10:28 [INFO] Closing listening thread
+2013-09-14 16:10:28 [INFO] Saving chunks for level 'world'/Overworld
+2013-09-14 16:10:38 [INFO] Saving chunks for level 'world_nether'/Nether
+2013-09-14 16:10:38 [INFO] Saving chunks for level 'world_the_end'/The End
+2013-09-14 16:10:38 [INFO] Stopping server
