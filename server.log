@@ -1438,4 +1438,96 @@ java.lang.IllegalArgumentException: Too big view radius!
 2013-09-14 23:38:40 [INFO] Read timed out
 2013-09-14 23:38:55 [INFO] /209.213.246.191:43846 lost connection
 2013-09-14 23:39:27 [INFO] OzBarry lost connection: disconnect.endOfStream
-                                                                                                                                 
+                                                                                                                                 2013-09-15 15:00:14 [INFO] Starting minecraft server version 1.6.2
+2013-09-15 15:00:14 [INFO] Loading properties
+2013-09-15 15:00:14 [INFO] Default game type: SURVIVAL
+2013-09-15 15:00:14 [INFO] Generating keypair
+2013-09-15 15:00:15 [INFO] Starting Minecraft server on *:25565
+2013-09-15 15:00:15 [INFO] This server is running CraftBukkit version git-Bukkit-1.6.2-R1.0-b2879jnks (MC: 1.6.2) (Implementing API version 1.6.2-R1.0)
+2013-09-15 15:00:16 [INFO] [dynmap] Loading dynmap v1.8-786
+2013-09-15 15:00:16 [INFO] Preparing level "world"
+2013-09-15 15:00:16 [INFO] Preparing start region for level 0 (Seed: 4943191395051569586)
+2013-09-15 15:00:17 [INFO] Preparing spawn area: 45%
+2013-09-15 15:00:18 [INFO] Preparing start region for level 1 (Seed: -4110950347534694326)
+2013-09-15 15:00:18 [INFO] Preparing start region for level 2 (Seed: -4110950347534694326)
+2013-09-15 15:00:19 [INFO] [dynmap] Enabling dynmap v1.8-786
+2013-09-15 15:00:19 [INFO] [dynmap] Using Bukkit Permissions (superperms) for access control
+2013-09-15 15:00:19 [INFO] [dynmap] Web interface permissions only available for online users
+2013-09-15 15:00:20 [INFO] [dynmap] Extracted files upgraded
+2013-09-15 15:00:20 [INFO] [dynmap] Loaded 21 shaders.
+2013-09-15 15:00:21 [INFO] [dynmap] Loaded 82 perspectives.
+2013-09-15 15:00:21 [INFO] [dynmap] Loaded 12 lightings.
+2013-09-15 15:00:21 [INFO] [dynmap] Web server started on address 0.0.0.0:8123
+2013-09-15 15:00:21 [INFO] [dynmap] version 1.8-786 is enabled - core version 1.8-1746
+2013-09-15 15:00:21 [INFO] [dynmap] Loaded 3 maps of world 'world'.
+2013-09-15 15:00:21 [INFO] [dynmap] Loaded 2 maps of world 'world_nether'.
+2013-09-15 15:00:21 [INFO] [dynmap] Loaded 2 maps of world 'world_the_end'.
+2013-09-15 15:00:21 [INFO] [dynmap] Enabled
+2013-09-15 15:00:21 [INFO] Server permissions file permissions.yml is empty, ignoring it
+2013-09-15 15:00:21 [INFO] Done (5.335s)! For help, type "help" or "?"
+2013-09-15 15:00:25 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-09-15 15:04:21 [INFO] jemmrich[/209.213.246.191:48282] logged in with entity id 264 at ([world] 56.858008230434585, 67.0, 265.46179230599625)
+2013-09-15 15:04:59 [INFO] [dynmap] Loading default resource pack
+2013-09-15 15:07:16 [INFO] jemmrich lost connection: disconnect.quitting
+2013-09-15 15:07:16 [INFO] Connection reset
+2013-09-15 15:07:16 [INFO] §ejemmrich left the game.
+2013-09-15 15:37:16 [INFO] jemmrich[/209.213.246.191:48675] logged in with entity id 7911 at ([world] 242.6262626833269, 28.0, 179.50247225817168)
+2013-09-15 15:55:05 [INFO] [CONSOLE->jemmrich] i'll be on in a second[m
+2013-09-15 15:55:17 [INFO] <jemmrich> it seems to be an old version of the server[m
+2013-09-15 15:55:37 [INFO] [CONSOLE->jemmrich] yeah, i suspect the crash didn't keep some of our changes :([m
+2013-09-15 15:56:57 [INFO] [CONSOLE->jemmrich] on the brighter side, i was able to resolve the root device boot issue in the process[m
+2013-09-15 15:57:09 [WARNING] Failed to load player data for OzBarry
+2013-09-15 15:57:09 [INFO] OzBarry[/127.0.0.1:39478] logged in with entity id 41307 at ([world] 35.5, 70.0, 262.5)
+2013-09-15 15:57:29 [INFO] <jemmrich> k[m
+2013-09-15 15:57:36 [INFO] <jemmrich> too bad[m
+2013-09-15 15:57:38 [INFO] <jemmrich> oh wells[m
+2013-09-15 15:57:38 [INFO] <OzBarry> it must have wiped out my inventory :([m
+2013-09-15 15:57:51 [INFO] <jemmrich> yeah it seems it didnt save a single thing[m
+2013-09-15 15:58:06 [INFO] <OzBarry> oh no[m
+2013-09-15 15:58:11 [INFO] <OzBarry> brb[m
+2013-09-15 15:58:13 [INFO] Connection reset
+2013-09-15 15:58:13 [INFO] OzBarry lost connection: disconnect.quitting
+2013-09-15 15:58:13 [INFO] §eOzBarry left the game.
+2013-09-15 16:01:59 [INFO] OzBarry[/127.0.0.1:39683] logged in with entity id 52248 at ([world] 61.852876832676834, 67.0, 266.1105862953607)
+2013-09-15 16:02:07 [INFO] <jemmrich> lol nice skin[m
+2013-09-15 16:02:10 [INFO] <OzBarry> ;)[m
+2013-09-15 16:02:15 [INFO] <OzBarry> my mother gave it to me[m
+2013-09-15 16:02:20 [INFO] <jemmrich> lol[m
+2013-09-15 16:02:21 [INFO] <OzBarry> oh, in minecraft[m
+2013-09-15 16:02:23 [INFO] <OzBarry> :P[m
+2013-09-15 16:02:40 [INFO] <jemmrich> oops[m
+2013-09-15 16:05:33 [INFO] <jemmrich> so we should commit this[m
+2013-09-15 16:05:39 [INFO] <jemmrich> and ill put it on my server[m
+2013-09-15 16:05:50 [INFO] <OzBarry> like right now, or for monday?[m
+2013-09-15 16:05:50 [INFO] <jemmrich> should be as simple as doing a git clone?[m
+2013-09-15 16:06:04 [INFO] <jemmrich> now :) i forgot i had a port already available[m
+2013-09-15 16:06:30 [INFO] <OzBarry> awesome - yeah, i'll do that - any other plugins (other than the map one) that we should cover[m
+2013-09-15 16:06:50 [INFO] <jemmrich> i dont know anything about plugins[m
+2013-09-15 16:07:07 [INFO] <jemmrich> i think i have two ports, so we can use one for the map[m
+2013-09-15 16:07:10 [INFO] <OzBarry> well, the map one should be fine, i don't think we'd need anything else[m
+2013-09-15 16:07:36 [INFO] <OzBarry> cool - if not, we can just clear the plugins directory after we clone it[m
+2013-09-15 16:07:54 [INFO] <OzBarry> also, for the map plugin to work, you'll need to run launch-bukkit.sh rather than just launch.sh[m
+2013-09-15 16:08:01 [INFO] <jemmrich> k i just need to look up how to clone.. i forget[m
+2013-09-15 16:08:09 [INFO] <OzBarry> git clone git://.....[m
+2013-09-15 16:08:34 [INFO] <jemmrich> k, chat in hangouts[m
+2013-09-15 16:08:38 [INFO] Connection reset
+2013-09-15 16:08:38 [INFO] jemmrich lost connection: disconnect.quitting
+2013-09-15 16:08:38 [INFO] §ejemmrich left the game.
+2013-09-15 16:09:20 [INFO] Connection reset
+2013-09-15 16:09:20 [INFO] OzBarry lost connection: disconnect.quitting
+2013-09-15 16:09:20 [INFO] §eOzBarry left the game.
+2013-09-15 16:09:23 [INFO] CONSOLE: Stopping the server..[m
+2013-09-15 16:09:23 [INFO] Stopping server
+2013-09-15 16:09:23 [INFO] [dynmap] Disabling dynmap v1.8-786
+2013-09-15 16:09:23 [INFO] [dynmap] Unloaded 11 components.
+2013-09-15 16:09:23 [INFO] [dynmap] Stopping map renderer...
+2013-09-15 16:09:23 [INFO] [dynmap] Saved 19 pending tile renders in world 'world
+2013-09-15 16:09:23 [INFO] [dynmap] Disabled
+2013-09-15 16:09:23 [INFO] Saving players
+2013-09-15 16:09:23 [WARNING] DSCT: Socket closed
+2013-09-15 16:09:23 [INFO] Saving worlds
+2013-09-15 16:09:23 [INFO] Closing listening thread
+2013-09-15 16:09:23 [INFO] Saving chunks for level 'world'/Overworld
+2013-09-15 16:09:24 [INFO] Saving chunks for level 'world_nether'/Nether
+2013-09-15 16:09:24 [INFO] Saving chunks for level 'world_the_end'/The End
+2013-09-15 16:09:24 [INFO] Stopping server
