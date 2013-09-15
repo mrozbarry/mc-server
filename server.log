@@ -1220,3 +1220,222 @@ java.lang.IllegalArgumentException: Too big view radius!
 2013-09-14 16:10:38 [INFO] Saving chunks for level 'world_nether'/Nether
 2013-09-14 16:10:38 [INFO] Saving chunks for level 'world_the_end'/The End
 2013-09-14 16:10:38 [INFO] Stopping server
+2013-09-14 16:49:02 [INFO] Starting minecraft server version 1.6.2
+2013-09-14 16:49:02 [INFO] Loading properties
+2013-09-14 16:49:02 [INFO] Default game type: SURVIVAL
+2013-09-14 16:49:02 [INFO] Generating keypair
+2013-09-14 16:49:03 [INFO] Starting Minecraft server on *:25565
+2013-09-14 16:49:04 [INFO] This server is running CraftBukkit version git-Bukkit-1.6.2-R1.0-b2879jnks (MC: 1.6.2) (Implementing API version 1.6.2-R1.0)
+2013-09-14 16:49:04 [INFO] [dynmap] Loading dynmap v1.8-786
+2013-09-14 16:49:04 [INFO] Preparing level "world"
+2013-09-14 16:49:04 [INFO] Preparing start region for level 0 (Seed: 4943191395051569586)
+2013-09-14 16:49:05 [INFO] Preparing start region for level 1 (Seed: -4110950347534694326)
+2013-09-14 16:49:06 [INFO] Preparing start region for level 2 (Seed: -4110950347534694326)
+2013-09-14 16:49:06 [INFO] [dynmap] Enabling dynmap v1.8-786
+2013-09-14 16:49:06 [INFO] [dynmap] Using Bukkit Permissions (superperms) for access control
+2013-09-14 16:49:06 [INFO] [dynmap] Web interface permissions only available for online users
+2013-09-14 16:49:07 [INFO] [dynmap] Extracted files upgraded
+2013-09-14 16:49:09 [INFO] [dynmap] Loaded 21 shaders.
+2013-09-14 16:49:09 [INFO] [dynmap] Loaded 82 perspectives.
+2013-09-14 16:49:09 [INFO] [dynmap] Loaded 12 lightings.
+2013-09-14 16:49:10 [INFO] [dynmap] Web server started on address 0.0.0.0:8123
+2013-09-14 16:49:10 [INFO] [dynmap] version 1.8-786 is enabled - core version 1.8-1746
+2013-09-14 16:49:10 [INFO] [dynmap] Loaded 3 maps of world 'world'.
+2013-09-14 16:49:10 [INFO] [dynmap] Loaded 181 pending tile renders for world 'world
+2013-09-14 16:49:10 [INFO] [dynmap] Loaded 2 maps of world 'world_nether'.
+2013-09-14 16:49:10 [INFO] [dynmap] Loaded 2 maps of world 'world_the_end'.
+2013-09-14 16:49:11 [INFO] [dynmap] Enabled
+2013-09-14 16:49:11 [INFO] Server permissions file permissions.yml is empty, ignoring it
+2013-09-14 16:49:11 [INFO] Done (6.920s)! For help, type "help" or "?"
+2013-09-14 16:49:12 [INFO] [dynmap] Loading default resource pack
+2013-09-14 16:50:03 [INFO] jemmrich[/209.213.246.191:48701] logged in with entity id 730 at ([world] 60.96147687500091, 65.5625, 260.3216747959552)
+2013-09-14 16:50:36 [INFO] Read timed out
+2013-09-14 16:50:36 [INFO] jemmrich lost connection: disconnect.endOfStream
+2013-09-14 16:50:36 [INFO] §ejemmrich left the game.
+2013-09-14 16:53:12 [INFO] jemmrich[/209.213.246.191:48759] logged in with entity id 1218 at ([world] 60.96147687500091, 65.5625, 260.3216747959552)
+2013-09-14 16:55:59 [INFO] [CONSOLE->jemmrich] vagina[m
+2013-09-14 16:56:07 [INFO] <jemmrich> :o[m
+2013-09-14 17:02:35 [INFO] OzBarry[/127.0.0.1:50395] logged in with entity id 9759 at ([world] 57.98834524329822, 67.0, 266.1141199850107)
+2013-09-14 17:03:01 [INFO] <OzBarry> my inlaws are coming over for a visit, so i'm here temporarily until they make their way here[m
+2013-09-14 17:03:15 [INFO] <jemmrich> acckk[m
+2013-09-14 17:03:29 [INFO] <OzBarry> well, they're pretty cool for the most part[m
+2013-09-14 17:03:30 [INFO] <jemmrich> they will understand the importance of transportation in oz world[m
+2013-09-14 17:04:01 [INFO] <OzBarry> the worst part is they just called to drop by and Erinn and I had supper plans that we pushed back..[m
+2013-09-14 17:04:04 [INFO] <OzBarry> ..for them[m
+2013-09-14 17:04:09 [INFO] <OzBarry> lol[m
+2013-09-14 17:04:12 [INFO] <jemmrich> :/[m
+2013-09-14 17:04:15 [INFO] <OzBarry> transportation is important[m
+2013-09-14 17:04:29 [INFO] <jemmrich> indeed my furry friend[m
+2013-09-14 17:04:46 [INFO] <OzBarry> ;)[m
+2013-09-14 17:05:23 [INFO] <OzBarry> see how far along my tracks go?[m
+2013-09-14 17:05:25 [INFO] <OzBarry> lol[m
+2013-09-14 17:05:41 [INFO] <jemmrich> ill check[m
+2013-09-14 17:06:10 [WARNING] jemmrich moved too quickly! 0.21810469345655292,0.001335979112141672,44.183525224925006 (0.21810469345655292, 0.0784000015258789, 44.183525224925006)
+2013-09-14 17:06:39 [INFO] <jemmrich> lol wow!!!![m
+2013-09-14 17:07:38 [INFO] <jemmrich> daaaaaamn you been busy!![m
+2013-09-14 17:07:53 [INFO] <OzBarry> it's probably going to drop down past this next hill[m
+2013-09-14 17:07:57 [INFO] <jemmrich> i guess you need me back in the mine to get more tracks :o[m
+2013-09-14 17:08:00 [INFO] <OzBarry> or go up the hill, i'm not sure[m
+2013-09-14 17:08:07 [INFO] <OzBarry> lol - and i'll be building some[m
+2013-09-14 17:08:27 [INFO] <OzBarry> might start making some powered rails and a train car[m
+2013-09-14 17:08:27 [INFO] Read timed out
+2013-09-14 17:08:27 [INFO] jemmrich lost connection: disconnect.endOfStream
+2013-09-14 17:08:27 [INFO] §ejemmrich left the game.
+2013-09-14 17:08:38 [INFO] jemmrich[/209.213.246.191:48828] logged in with entity id 16603 at ([world] 57.16181429991926, 71.0, 643.6424301623733)
+2013-09-14 17:09:28 [WARNING] jemmrich moved too quickly! -0.2727761998100746,0.0,14.82805501509631 (0.2727761998100746, 0.0784000015258789, 14.82805501509631)
+2013-09-14 17:10:22 [INFO] <jemmrich> have to enclose this all in glass or something[m
+2013-09-14 17:10:33 [INFO] <OzBarry> yeah, i was thinking about it[m
+2013-09-14 17:10:38 [INFO] <jemmrich> so monsters dont walk on the tracks and stop our carts[m
+2013-09-14 17:12:13 [INFO] <OzBarry> you're really laggy :([m
+2013-09-14 17:12:19 [INFO] <jemmrich> yeahhh big time[m
+2013-09-14 17:12:36 [INFO] <jemmrich> its still loading the world[m
+2013-09-14 17:13:27 [INFO] <OzBarry> i'm going to jump off, but i'll keep the server going[m
+2013-09-14 17:13:33 [INFO] <OzBarry> i also have it on github now[m
+2013-09-14 17:13:46 [INFO] <jemmrich> k thanks[m
+2013-09-14 17:13:55 [INFO] <OzBarry> so that should make moving it back and forth easier[m
+2013-09-14 17:14:05 [INFO] <jemmrich> *thumbs up*[m
+2013-09-14 17:14:11 [INFO] <OzBarry> ;)[m
+2013-09-14 17:14:14 [INFO] <OzBarry> later gater[m
+2013-09-14 17:14:46 [INFO] Connection reset
+2013-09-14 17:14:46 [INFO] OzBarry lost connection: disconnect.quitting
+2013-09-14 17:14:46 [INFO] §eOzBarry left the game.
+2013-09-14 17:15:14 [INFO] [CONSOLE->jemmrich] ah, probably laggy because i'm doing a backup of a usb drive[m
+2013-09-14 17:20:35 [INFO] Read timed out
+2013-09-14 17:20:36 [INFO] jemmrich lost connection: disconnect.endOfStream
+2013-09-14 17:20:36 [INFO] §ejemmrich left the game.
+2013-09-14 17:21:37 [INFO] jemmrich[/209.213.246.191:48935] logged in with entity id 32270 at ([world] 61.31911490822141, 67.0, 265.7432210226955)
+2013-09-14 17:39:48 [INFO] jemmrich lost connection: disconnect.quitting
+2013-09-14 17:39:48 [INFO] Connection reset
+2013-09-14 17:39:48 [INFO] §ejemmrich left the game.
+2013-09-14 17:39:55 [INFO] jemmrich[/209.213.246.191:49049] logged in with entity id 49662 at ([world] 91.07208051535807, 64.0, 243.541524507366)
+2013-09-14 17:40:44 [INFO] Read timed out
+2013-09-14 17:40:44 [INFO] jemmrich lost connection: disconnect.endOfStream
+2013-09-14 17:40:44 [INFO] §ejemmrich left the game.
+2013-09-14 17:40:51 [INFO] jemmrich[/209.213.246.191:49068] logged in with entity id 50120 at ([world] 95.49185924027937, 64.0, 241.32377955411252)
+2013-09-14 17:41:25 [INFO] Read timed out
+2013-09-14 17:41:25 [INFO] jemmrich lost connection: disconnect.endOfStream
+2013-09-14 17:41:25 [INFO] §ejemmrich left the game.
+2013-09-14 17:41:59 [INFO] jemmrich[/209.213.246.191:49082] logged in with entity id 50592 at ([world] 98.62531762543765, 64.0, 239.52753677736945)
+2013-09-14 17:42:48 [INFO] Read timed out
+2013-09-14 17:42:48 [INFO] jemmrich lost connection: disconnect.endOfStream
+2013-09-14 17:42:48 [INFO] §ejemmrich left the game.
+2013-09-14 17:49:37 [INFO] jemmrich[/209.213.246.191:49138] logged in with entity id 51020 at ([world] 98.62531762543765, 64.0, 239.52753677736945)
+2013-09-14 17:50:16 [INFO] Read timed out
+2013-09-14 17:50:16 [INFO] jemmrich lost connection: disconnect.endOfStream
+2013-09-14 17:50:16 [INFO] §ejemmrich left the game.
+2013-09-14 17:52:18 [INFO] jemmrich[/209.213.246.191:49185] logged in with entity id 51587 at ([world] 98.62531762543765, 64.0, 239.52753677736945)
+2013-09-14 17:57:08 [INFO] Read timed out
+2013-09-14 17:57:08 [INFO] jemmrich lost connection: disconnect.endOfStream
+2013-09-14 17:57:09 [INFO] §ejemmrich left the game.
+2013-09-14 17:57:21 [INFO] jemmrich[/209.213.246.191:49196] logged in with entity id 55371 at ([world] 104.84456627406414, 64.0, 242.41186784485961)
+2013-09-14 18:10:09 [INFO] Read timed out
+2013-09-14 18:10:09 [INFO] jemmrich lost connection: disconnect.endOfStream
+2013-09-14 18:10:09 [INFO] §ejemmrich left the game.
+2013-09-14 18:10:23 [INFO] jemmrich[/209.213.246.191:49210] logged in with entity id 63229 at ([world] 57.68079045694392, 67.0, 265.98076343318456)
+2013-09-14 18:15:29 [INFO] jemmrich lost connection: disconnect.endOfStream
+2013-09-14 18:15:29 [INFO] §ejemmrich left the game.
+2013-09-14 18:30:09 [INFO] jemmrich[/209.213.246.191:39960] logged in with entity id 67051 at ([world] 64.26483463427701, 67.0, 267.32604175472943)
+2013-09-14 18:32:43 [INFO] Connection reset
+2013-09-14 18:32:43 [INFO] jemmrich lost connection: disconnect.genericReason
+2013-09-14 18:32:43 [INFO] §ejemmrich left the game.
+2013-09-14 18:57:50 [INFO] jemmrich[/209.213.246.191:40675] logged in with entity id 69184 at ([world] 56.052760053562274, 67.0, 266.21185432199695)
+2013-09-14 18:58:22 [INFO] jemmrich lost connection: disconnect.endOfStream
+2013-09-14 18:58:22 [INFO] §ejemmrich left the game.
+2013-09-14 21:54:58 [INFO] CONSOLE: Stopping the server..[m
+2013-09-14 21:54:58 [INFO] Stopping server
+2013-09-14 21:54:58 [INFO] [dynmap] Disabling dynmap v1.8-786
+2013-09-14 21:54:59 [INFO] [dynmap] Unloaded 11 components.
+2013-09-14 21:54:59 [INFO] [dynmap] Stopping map renderer...
+2013-09-14 21:54:59 [INFO] [dynmap] Saved 15 pending tile renders in world 'world
+2013-09-14 21:54:59 [INFO] [dynmap] Disabled
+2013-09-14 21:54:59 [INFO] Saving players
+2013-09-14 21:54:59 [WARNING] DSCT: Socket closed
+2013-09-14 21:54:59 [INFO] Saving worlds
+2013-09-14 21:54:59 [INFO] Closing listening thread
+2013-09-14 21:54:59 [INFO] Saving chunks for level 'world'/Overworld
+2013-09-14 21:55:11 [INFO] Saving chunks for level 'world_nether'/Nether
+2013-09-14 21:55:11 [INFO] Saving chunks for level 'world_the_end'/The End
+2013-09-14 21:55:20 [INFO] Starting minecraft server version 1.6.2
+2013-09-14 21:55:20 [INFO] Loading properties
+2013-09-14 21:55:20 [INFO] Default game type: SURVIVAL
+2013-09-14 21:55:20 [INFO] Generating keypair
+2013-09-14 21:55:21 [INFO] Starting Minecraft server on *:25565
+2013-09-14 21:55:22 [INFO] This server is running CraftBukkit version git-Bukkit-1.6.2-R1.0-b2879jnks (MC: 1.6.2) (Implementing API version 1.6.2-R1.0)
+2013-09-14 21:55:23 [INFO] [dynmap] Loading dynmap v1.8-786
+2013-09-14 21:55:24 [INFO] Preparing level "world"
+2013-09-14 21:55:24 [INFO] Preparing start region for level 0 (Seed: 4943191395051569586)
+2013-09-14 21:55:25 [INFO] Preparing spawn area: 16%
+2013-09-14 21:55:26 [INFO] Preparing spawn area: 22%
+2013-09-14 21:55:27 [INFO] Preparing start region for level 1 (Seed: -4110950347534694326)
+2013-09-14 21:55:28 [INFO] Preparing spawn area: 6%
+2013-09-14 21:55:30 [INFO] Preparing spawn area: 48%
+2013-09-14 21:55:31 [INFO] Preparing spawn area: 55%
+2013-09-14 21:55:31 [INFO] Preparing start region for level 2 (Seed: -4110950347534694326)
+2013-09-14 21:55:32 [INFO] Preparing spawn area: 5%
+2013-09-14 21:55:34 [INFO] Preparing spawn area: 17%
+2013-09-14 21:55:35 [INFO] Preparing spawn area: 51%
+2013-09-14 21:55:36 [INFO] Preparing spawn area: 59%
+2013-09-14 21:55:36 [INFO] [dynmap] Enabling dynmap v1.8-786
+2013-09-14 21:55:36 [INFO] [dynmap] Using Bukkit Permissions (superperms) for access control
+2013-09-14 21:55:36 [INFO] [dynmap] Web interface permissions only available for online users
+2013-09-14 21:55:38 [INFO] [dynmap] Extracted files upgraded
+2013-09-14 21:55:39 [INFO] [dynmap] Loaded 21 shaders.
+2013-09-14 21:55:40 [INFO] [dynmap] Loaded 82 perspectives.
+2013-09-14 21:55:40 [INFO] [dynmap] Loaded 12 lightings.
+2013-09-14 21:55:40 [INFO] [dynmap] Web server started on address 0.0.0.0:8123
+2013-09-14 21:55:40 [INFO] [dynmap] version 1.8-786 is enabled - core version 1.8-1746
+2013-09-14 21:55:41 [INFO] [dynmap] Loaded 3 maps of world 'world'.
+2013-09-14 21:55:41 [INFO] [dynmap] Loaded 15 pending tile renders for world 'world
+2013-09-14 21:55:41 [INFO] [dynmap] Loaded 2 maps of world 'world_nether'.
+2013-09-14 21:55:41 [INFO] [dynmap] Loaded 2 maps of world 'world_the_end'.
+2013-09-14 21:55:41 [INFO] [dynmap] Enabled
+2013-09-14 21:55:41 [INFO] Server permissions file permissions.yml is empty, ignoring it
+2013-09-14 21:55:41 [INFO] Done (17.272s)! For help, type "help" or "?"
+2013-09-14 21:55:42 [INFO] [dynmap] Loading default resource pack
+2013-09-14 21:56:09 [INFO] OzBarry[/127.0.0.1:50526] logged in with entity id 265 at ([world] 58.06635860520155, 67.0, 265.6351240264727)
+2013-09-14 22:05:32 [INFO] jemmrich[/209.213.246.191:43786] logged in with entity id 9617 at ([world] 56.858008230434585, 67.0, 265.46179230599625)
+2013-09-14 22:05:39 [INFO] <jemmrich> hai[m
+2013-09-14 22:05:44 [INFO] <OzBarry> HEY[m
+2013-09-14 22:05:56 [INFO] <OzBarry> nice link you sent me[m
+2013-09-14 22:06:01 [INFO] <jemmrich> :)[m
+2013-09-14 22:06:09 [INFO] <jemmrich> its AWESOME[m
+2013-09-14 22:10:06 [INFO] <jemmrich> i had terrible lag when you left[m
+2013-09-14 22:10:13 [INFO] <OzBarry> that's unfortunate[m
+2013-09-14 22:10:20 [INFO] <jemmrich> tis[m
+2013-09-14 22:23:24 [INFO] <OzBarry> found the edge of the jngle finally[m
+2013-09-14 22:24:07 [INFO] <jemmrich> wow[m
+2013-09-14 22:24:19 [INFO] <jemmrich> took a bit of work didnt it[m
+2013-09-14 22:30:53 [INFO] <OzBarry> yeah...frig[m
+2013-09-14 22:40:40 [INFO] Peznek[/206.126.92.85:55328] logged in with entity id 83416 at ([world] 35.5, 72.0, 254.5)
+2013-09-14 22:42:08 [INFO] <OzBarry> James....Erinn is playing[m
+2013-09-14 22:42:15 [INFO] <jemmrich> oh hai[m
+2013-09-14 22:42:22 [INFO] <OzBarry> it's a festivus miracle[m
+2013-09-14 22:42:35 [INFO] <jemmrich> lets gather around the pole and celebrate[m
+2013-09-14 22:42:44 [INFO] <OzBarry> feats of strength![m
+2013-09-14 22:43:04 [INFO] <jemmrich> lol[m
+2013-09-14 22:45:09 [INFO] Peznek issued server command: /titty sprinkles
+2013-09-14 22:45:15 [INFO] Peznek issued server command: /help
+2013-09-14 22:45:30 [INFO] Peznek issued server command: /help
+2013-09-14 22:45:57 [INFO] <OzBarry> t to talk[m
+2013-09-14 22:46:34 [INFO] <Peznek> titty sprinkles[m
+2013-09-14 22:47:45 [INFO] <jemmrich> lol[m
+2013-09-14 22:50:01 [INFO] <jemmrich> sorry i think i hit you[m
+2013-09-14 22:50:06 [INFO] <OzBarry> it happens[m
+2013-09-14 22:50:07 [INFO] <jemmrich> i have tracks for you[m
+2013-09-14 22:50:23 [INFO] <OzBarry> thanks[m
+2013-09-14 22:50:25 [INFO] <jemmrich> :)[m
+2013-09-14 22:50:25 [INFO] <OzBarry> :)[m
+2013-09-14 22:54:44 [INFO] Connection reset
+2013-09-14 22:54:44 [INFO] Peznek lost connection: disconnect.quitting
+2013-09-14 22:54:44 [INFO] §ePeznek left the game.
+2013-09-14 22:55:59 [INFO] <OzBarry> Erinn's just moving to the desktop so she has a mouse[m
+2013-09-14 22:56:07 [INFO] <jemmrich> ok[m
+2013-09-14 22:58:27 [INFO] <jemmrich> we will need to make her some armor[m
+2013-09-14 23:10:15 [INFO] <OzBarry> yar[m
+2013-09-14 23:10:37 [INFO] <jemmrich> i like that cave spiders are not longer poisonious[m
+2013-09-14 23:10:56 [INFO] <OzBarry> me too[m
+2013-09-14 23:38:16 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-09-14 23:38:40 [INFO] Read timed out
+2013-09-14 23:38:55 [INFO] /209.213.246.191:43846 lost connection
+2013-09-14 23:39:27 [INFO] OzBarry lost connection: disconnect.endOfStream
+                                                                                                                                 
