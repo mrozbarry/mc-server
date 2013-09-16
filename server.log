@@ -1531,3 +1531,192 @@ java.lang.IllegalArgumentException: Too big view radius!
 2013-09-15 16:09:24 [INFO] Saving chunks for level 'world_nether'/Nether
 2013-09-15 16:09:24 [INFO] Saving chunks for level 'world_the_end'/The End
 2013-09-15 16:09:24 [INFO] Stopping server
+2013-09-15 16:45:11 [INFO] Starting minecraft server version 1.6.2
+2013-09-15 16:45:11 [INFO] Loading properties
+2013-09-15 16:45:11 [INFO] Default game type: SURVIVAL
+2013-09-15 16:45:11 [INFO] Generating keypair
+2013-09-15 16:45:11 [INFO] Starting Minecraft server on *:25565
+2013-09-15 16:45:11 [INFO] This server is running CraftBukkit version git-Bukkit-1.6.2-R1.0-b2879jnks (MC: 1.6.2) (Implementing API version 1.6.2-R1.0)
+2013-09-15 16:45:12 [INFO] [dynmap] Loading dynmap v1.8-786
+2013-09-15 16:45:12 [INFO] Preparing level "world"
+2013-09-15 16:45:12 [INFO] Preparing start region for level 0 (Seed: 4943191395051569586)
+2013-09-15 16:45:12 [INFO] Preparing start region for level 1 (Seed: -4110950347534694326)
+2013-09-15 16:45:13 [INFO] Preparing start region for level 2 (Seed: -4110950347534694326)
+2013-09-15 16:45:13 [INFO] [dynmap] Enabling dynmap v1.8-786
+2013-09-15 16:45:13 [INFO] [dynmap] Using Bukkit Permissions (superperms) for access control
+2013-09-15 16:45:13 [INFO] [dynmap] Web interface permissions only available for online users
+2013-09-15 16:45:13 [INFO] [dynmap] Extracted files upgraded
+2013-09-15 16:45:14 [INFO] [dynmap] Loaded 21 shaders.
+2013-09-15 16:45:14 [INFO] [dynmap] Loaded 82 perspectives.
+2013-09-15 16:45:14 [INFO] [dynmap] Loaded 12 lightings.
+2013-09-15 16:45:14 [INFO] [dynmap] Web server started on address 0.0.0.0:8123
+2013-09-15 16:45:14 [INFO] [dynmap] version 1.8-786 is enabled - core version 1.8-1746
+2013-09-15 16:45:14 [INFO] [dynmap] Loaded 3 maps of world 'world'.
+2013-09-15 16:45:14 [INFO] [dynmap] Loaded 19 pending tile renders for world 'world
+2013-09-15 16:45:14 [INFO] [dynmap] Loaded 2 maps of world 'world_nether'.
+2013-09-15 16:45:14 [INFO] [dynmap] Loaded 2 maps of world 'world_the_end'.
+2013-09-15 16:45:14 [INFO] [dynmap] Enabled
+2013-09-15 16:45:14 [INFO] Server permissions file permissions.yml is empty, ignoring it
+2013-09-15 16:45:15 [INFO] Done (3.043s)! For help, type "help" or "?"
+2013-09-15 16:45:15 [INFO] [dynmap] Loading default resource pack
+2013-09-15 16:45:18 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-09-15 16:45:19 [INFO] /127.0.0.1:40244 lost connection
+2013-09-15 16:45:32 [INFO] OzBarry[/127.0.0.1:40248] logged in with entity id 269 at ([world] 59.23750001192093, 67.0, 264.94675556737076)
+2013-09-15 16:46:19 [INFO] jemmrich[/209.213.246.191:50608] logged in with entity id 626 at ([world] 62.37076038067586, 67.0, 265.3286363225378)
+2013-09-15 16:50:39 [INFO] <OzBarry> got two more diamond[m
+2013-09-15 16:52:32 [INFO] <OzBarry> wooo! gold[m
+2013-09-15 17:03:39 [INFO] <OzBarry> we have officially filled an entire double-chest with cobble[m
+2013-09-15 17:03:41 [INFO] <OzBarry> lol[m
+2013-09-15 17:03:59 [INFO] <jemmrich> lol[m
+2013-09-15 17:05:06 [INFO] <OzBarry> found more gold, and i think i'm going to put a rail-car down to our bedrock mining facility[m
+2013-09-15 17:05:15 [INFO] <OzBarry> not immediately, but in the future[m
+2013-09-15 17:05:18 [INFO] <jemmrich> k[m
+2013-09-15 17:07:05 [INFO] OzBarry tried to swim in lava
+2013-09-15 17:13:47 [INFO] <OzBarry> working on that barn i see[m
+2013-09-15 17:13:59 [INFO] <OzBarry> secy[m
+2013-09-15 17:14:02 [INFO] <OzBarry> sexy even[m
+2013-09-15 17:14:08 [INFO] <jemmrich> hoping for a stable[m
+2013-09-15 17:19:19 [INFO] <OzBarry> we are now re-stocked in coal[m
+2013-09-15 17:19:26 [INFO] <jemmrich> :):)[m
+2013-09-15 17:22:28 [INFO] <OzBarry> erinn thought it was cute how when we started this server, we kept asking each other permission...[m
+2013-09-15 17:22:31 [INFO] <OzBarry> ...to build things[m
+2013-09-15 17:22:42 [INFO] <jemmrich> we did?[m
+2013-09-15 17:22:48 [INFO] <OzBarry> hard core[m
+2013-09-15 17:22:54 [INFO] <jemmrich> lol[m
+2013-09-15 17:25:58 [INFO] <jemmrich> i thought she was going to play[m
+2013-09-15 17:26:36 [INFO] <OzBarry> yeah...yesterday, she got distracted with some resume stuff, and today she is doing reading for clas[m
+2013-09-15 17:26:39 [INFO] <OzBarry> *class[m
+2013-09-15 17:46:58 [INFO] <jemmrich> hi[m
+2013-09-15 17:47:01 [INFO] <OzBarry> hello[m
+2013-09-15 17:47:12 [INFO] <OzBarry> woo[m
+2013-09-15 17:47:14 [INFO] <OzBarry> thanks[m
+2013-09-15 17:47:15 [INFO] <jemmrich> :)[m
+2013-09-15 17:47:23 [INFO] <jemmrich> plenty more where that came form[m
+2013-09-15 17:48:05 [INFO] <jemmrich> oh you missed a stack of 64[m
+2013-09-15 17:48:42 [INFO] <jemmrich> look[m
+2013-09-15 17:48:56 [INFO] <jemmrich> there you go[m
+2013-09-15 17:48:56 [INFO] <OzBarry> thanks :P[m
+2013-09-15 18:06:27 [INFO] <jemmrich> lol all the animals are loose[m
+2013-09-15 18:06:33 [INFO] <OzBarry> oh noes![m
+2013-09-15 18:06:54 [INFO] <jemmrich> i cant catch them i have no wheat[m
+2013-09-15 18:29:39 [INFO] <jemmrich> we are pretty much out of iron[m
+2013-09-15 18:30:23 [INFO] <OzBarry> ok[m
+2013-09-15 18:30:43 [INFO] <jemmrich> ill try to get more[m
+2013-09-15 18:39:57 [INFO] <OzBarry> james, come here[m
+2013-09-15 18:40:01 [INFO] <OzBarry> top of the base[m
+2013-09-15 18:41:02 [INFO] <jemmrich> ok its going to take me awhile im deep[m
+2013-09-15 18:44:05 [INFO] <jemmrich> im htere[m
+2013-09-15 18:44:25 [INFO] <jemmrich> :D[m
+2013-09-15 18:44:35 [INFO] <OzBarry> jump in the cart, press the button - same deal on the other end[m
+2013-09-15 18:44:38 [INFO] <OzBarry> :)[m
+2013-09-15 18:46:21 [INFO] <jemmrich> :D[m
+2013-09-15 18:47:25 [INFO] <jemmrich> a creeper almost blew up[m
+2013-09-15 18:47:29 [INFO] <OzBarry> lol[m
+2013-09-15 18:48:02 [INFO] <jemmrich> awesome[m
+2013-09-15 18:48:12 [INFO] <jemmrich> thats pretty far[m
+2013-09-15 19:20:55 [INFO] <jemmrich> guess what i found for you[m
+2013-09-15 19:21:00 [INFO] <OzBarry> saddle????[m
+2013-09-15 19:21:04 [INFO] <jemmrich> YUP[m
+2013-09-15 19:21:08 [INFO] <OzBarry> 8/[m
+2013-09-15 19:37:59 [INFO] <jemmrich> where are you[m
+2013-09-15 19:38:08 [INFO] <OzBarry> a cavern[m
+2013-09-15 19:38:23 [INFO] <OzBarry> oh the other side of my tracks - need me to come back to base?[m
+2013-09-15 19:38:31 [INFO] <jemmrich> nope its ok[m
+2013-09-15 19:48:10 [INFO] <OzBarry> lol[m
+2013-09-15 19:48:16 [INFO] <jemmrich> LMAO[m
+2013-09-15 19:49:03 [INFO] <jemmrich> lol look at you[m
+2013-09-15 19:49:13 [INFO] <OzBarry> not bad, eh?[m
+2013-09-15 19:49:26 [INFO] <OzBarry> hmmm[m
+2013-09-15 19:53:44 [INFO] <jemmrich> lmao[m
+2013-09-15 19:53:55 [INFO] <OzBarry> too many tree sapplings[m
+2013-09-15 19:53:57 [INFO] <jemmrich> looked like you were pissing[m
+2013-09-15 19:54:04 [INFO] <OzBarry> lol[m
+2013-09-15 19:54:07 [INFO] <OzBarry> fucking sapplings[m
+2013-09-15 19:54:13 [INFO] <jemmrich> yup[m
+2013-09-15 19:54:32 [INFO] <jemmrich> did you check the wood chest[m
+2013-09-15 19:54:46 [INFO] <OzBarry> nice, thanks[m
+2013-09-15 19:54:54 [INFO] <jemmrich> and the one over here[m
+2013-09-15 19:55:00 [INFO] <OzBarry> also, i like your border there[m
+2013-09-15 19:55:07 [INFO] <OzBarry> :P[m
+2013-09-15 19:55:11 [INFO] <jemmrich> :)[m
+2013-09-15 19:55:20 [INFO] <OzBarry> okay, i'm going to make erinn and i some food[m
+2013-09-15 19:55:23 [INFO] <OzBarry> i'll return in a bit[m
+2013-09-15 19:55:33 [INFO] <jemmrich> i need food as well, back in a bit... perfect timing[m
+2013-09-15 19:55:37 [INFO] <OzBarry> ;)[m
+2013-09-15 19:55:40 [INFO] Connection reset
+2013-09-15 19:55:40 [INFO] OzBarry lost connection: disconnect.quitting
+2013-09-15 19:55:40 [INFO] §eOzBarry left the game.
+2013-09-15 19:55:41 [INFO] Connection reset
+2013-09-15 19:55:41 [INFO] jemmrich lost connection: disconnect.quitting
+2013-09-15 19:55:41 [INFO] §ejemmrich left the game.
+2013-09-15 21:10:53 [INFO] jemmrich[/209.213.246.191:51255] logged in with entity id 337335 at ([world] 63.55993259280662, 67.0, 266.26281669161745)
+2013-09-15 21:29:22 [INFO] jemmrich lost connection: disconnect.quitting
+2013-09-15 21:29:22 [INFO] Connection reset
+2013-09-15 21:29:22 [INFO] §ejemmrich left the game.
+2013-09-15 21:37:19 [INFO] jemmrich[/209.213.246.191:51287] logged in with entity id 354104 at ([world] 291.6308811210788, 33.0, 236.5320413326114)
+2013-09-15 21:43:27 [INFO] OzBarry[/127.0.0.1:41180] logged in with entity id 357884 at ([world] 57.34563413781524, 67.0, 265.93650974738864)
+2013-09-15 21:43:35 [INFO] <OzBarry> oh hai[m
+2013-09-15 21:43:46 [INFO] <jemmrich> YAY[m
+2013-09-15 22:02:28 [INFO] <jemmrich> ugh this game is addicting :([m
+2013-09-15 22:02:52 [INFO] <OzBarry> lol...yup[m
+2013-09-15 22:25:07 [INFO] Connection reset
+2013-09-15 22:25:07 [INFO] jemmrich lost connection: disconnect.quitting
+2013-09-15 22:25:07 [INFO] §ejemmrich left the game.
+2013-09-15 22:25:23 [INFO] jemmrich[/209.213.246.191:51355] logged in with entity id 424860 at ([world] 288.5937122494926, 28.0, 201.48181367071183)
+2013-09-15 22:25:34 [INFO] <jemmrich> no[m
+2013-09-15 22:26:20 [INFO] <jemmrich> i almost died :o[m
+2013-09-15 22:26:25 [INFO] <OzBarry> :0[m
+2013-09-15 22:27:06 [INFO] <OzBarry> computah freeze program[m
+2013-09-15 22:27:12 [INFO] <jemmrich> lol yup![m
+2013-09-15 22:37:21 [INFO] <jemmrich> oh oh all our seeds are gone?[m
+2013-09-15 22:37:29 [INFO] <OzBarry> check in the basement :)[m
+2013-09-15 22:37:33 [INFO] <jemmrich> never mind i see the sign hahaah[m
+2013-09-15 22:37:54 [INFO] <OzBarry> it was getting to the point where our wheat could probably be organized on it's own[m
+2013-09-15 22:38:20 [INFO] <OzBarry> oh, i found more diamond :D[m
+2013-09-15 22:38:30 [INFO] <jemmrich> woohoo[m
+2013-09-15 22:38:55 [INFO] <jemmrich> did you like the melons[m
+2013-09-15 22:39:10 [INFO] <OzBarry> i liked your sign :P[m
+2013-09-15 22:39:16 [INFO] <OzBarry> ...and your melons[m
+2013-09-15 22:39:20 [INFO] <OzBarry> if you know what i mean[m
+2013-09-15 22:39:26 [INFO] <jemmrich> lol[m
+2013-09-15 22:39:42 [INFO] <jemmrich> sorry i only brought back another 50 rails[m
+2013-09-15 22:39:47 [INFO] <jemmrich> i failed you :([m
+2013-09-15 22:40:13 [INFO] <OzBarry> you know what james...i don't ask for much, just for you to work hard all day bringing me rails[m
+2013-09-15 22:40:26 [INFO] <jemmrich> lol[m
+2013-09-15 22:40:26 [INFO] <OzBarry> lol[m
+2013-09-15 22:41:28 [INFO] <OzBarry> the vein i'm mining is very rich in resources :D[m
+2013-09-15 22:41:47 [INFO] <jemmrich> great success![m
+2013-09-15 22:41:52 [INFO] <OzBarry> six diamonds, and a pile of redstone[m
+2013-09-15 22:42:13 [INFO] <OzBarry> and lots of coal[m
+2013-09-15 22:43:15 [WARNING] jemmrich moved too quickly! 0.0,-13.94999999999991,0.0 (0.0, 13.94999999999991, 0.0)
+2013-09-15 22:50:36 [INFO] <jemmrich> cheezits[m
+2013-09-15 22:50:44 [INFO] <OzBarry> grace! relax![m
+2013-09-15 22:51:03 [INFO] <jemmrich> lol[m
+2013-09-15 22:53:37 [INFO] <OzBarry> our iron is increasing[m
+2013-09-15 22:53:41 [INFO] <jemmrich> :)[m
+2013-09-15 22:53:48 [INFO] <OzBarry> got 4 stacks now, 3 of which are full[m
+2013-09-15 22:55:27 [INFO] <jemmrich> one more spider spawner down, one more to go[m
+2013-09-15 22:55:32 [INFO] <OzBarry> :D[m
+2013-09-15 22:55:57 [INFO] <OzBarry> i think at 11, i'm going to head to bed - i can sync the server if you want to keep going[m
+2013-09-15 22:56:26 [INFO] <jemmrich> just commit it after we log off, im going to go too[m
+2013-09-15 23:01:47 [INFO] <jemmrich> i keep finding mine carts down there[m
+2013-09-15 23:06:55 [INFO] Read timed out
+2013-09-15 23:06:55 [INFO] jemmrich lost connection: disconnect.endOfStream
+2013-09-15 23:06:55 [INFO] §ejemmrich left the game.
+2013-09-15 23:08:13 [INFO] OzBarry lost connection: disconnect.quitting
+2013-09-15 23:08:13 [INFO] Connection reset
+2013-09-15 23:08:13 [INFO] §eOzBarry left the game.
+2013-09-15 23:08:20 [INFO] CONSOLE: Stopping the server..[m
+2013-09-15 23:08:20 [INFO] Stopping server
+2013-09-15 23:08:20 [INFO] [dynmap] Disabling dynmap v1.8-786
+2013-09-15 23:08:20 [INFO] [dynmap] Unloaded 11 components.
+2013-09-15 23:08:20 [INFO] [dynmap] Stopping map renderer...
+2013-09-15 23:08:20 [INFO] [dynmap] Saved 61 pending tile renders in world 'world
+2013-09-15 23:08:20 [INFO] [dynmap] Disabled
+2013-09-15 23:08:20 [INFO] Saving players
+2013-09-15 23:08:20 [WARNING] DSCT: Socket closed
+2013-09-15 23:08:20 [INFO] Saving worlds
+2013-09-15 23:08:20 [INFO] Closing listening thread
+2013-09-15 23:08:20 [INFO] Saving chunks for level 'world'/Overworld
+2013-09-15 23:08:22 [INFO] Saving chunks for level 'world_nether'/Nether
+2013-09-15 23:08:22 [INFO] Saving chunks for level 'world_the_end'/The End
