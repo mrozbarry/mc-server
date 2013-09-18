@@ -1842,3 +1842,55 @@ java.lang.IllegalArgumentException: Too big view radius!
 2013-09-17 21:39:56 [INFO] Saving chunks for level 'world_nether'/Nether
 2013-09-17 21:39:56 [INFO] Saving chunks for level 'world_the_end'/The End
 2013-09-17 21:39:56 [INFO] Stopping server
+2013-09-18 08:27:55 [INFO] Starting minecraft server version 1.6.2
+2013-09-18 08:27:55 [INFO] Loading properties
+2013-09-18 08:27:55 [INFO] Default game type: SURVIVAL
+2013-09-18 08:27:55 [INFO] Generating keypair
+2013-09-18 08:27:57 [INFO] Starting Minecraft server on *:25565
+2013-09-18 08:27:58 [INFO] This server is running CraftBukkit version git-Bukkit-1.6.2-R1.0-b2879jnks (MC: 1.6.2) (Implementing API version 1.6.2-R1.0)
+2013-09-18 08:27:58 [INFO] [dynmap] Loading dynmap v1.8-786
+2013-09-18 08:27:59 [INFO] Preparing level "world"
+2013-09-18 08:27:59 [INFO] Preparing start region for level 0 (Seed: 4943191395051569586)
+2013-09-18 08:28:00 [INFO] Preparing spawn area: 30%
+2013-09-18 08:28:01 [INFO] Preparing spawn area: 58%
+2013-09-18 08:28:02 [INFO] Preparing start region for level 1 (Seed: -4110950347534694326)
+2013-09-18 08:28:03 [INFO] Preparing spawn area: 40%
+2013-09-18 08:28:04 [INFO] Preparing start region for level 2 (Seed: -4110950347534694326)
+2013-09-18 08:28:05 [INFO] Preparing spawn area: 61%
+2013-09-18 08:28:05 [INFO] [dynmap] Enabling dynmap v1.8-786
+2013-09-18 08:28:05 [INFO] [dynmap] Using Bukkit Permissions (superperms) for access control
+2013-09-18 08:28:05 [INFO] [dynmap] Web interface permissions only available for online users
+2013-09-18 08:28:06 [INFO] [dynmap] Extracted files upgraded
+2013-09-18 08:28:07 [INFO] [dynmap] Loaded 21 shaders.
+2013-09-18 08:28:07 [INFO] [dynmap] Loaded 82 perspectives.
+2013-09-18 08:28:08 [INFO] [dynmap] Loaded 12 lightings.
+2013-09-18 08:28:08 [INFO] [dynmap] Web server started on address 0.0.0.0:8123
+2013-09-18 08:28:08 [INFO] [dynmap] version 1.8-786 is enabled - core version 1.8-1746
+2013-09-18 08:28:08 [INFO] [dynmap] Loaded 3 maps of world 'world'.
+2013-09-18 08:28:08 [INFO] [dynmap] Loaded 23 pending tile renders for world 'world
+2013-09-18 08:28:08 [INFO] [dynmap] Loaded 2 maps of world 'world_nether'.
+2013-09-18 08:28:08 [INFO] [dynmap] Loaded 2 maps of world 'world_the_end'.
+2013-09-18 08:28:08 [INFO] [dynmap] Enabled
+2013-09-18 08:28:08 [INFO] Server permissions file permissions.yml is empty, ignoring it
+2013-09-18 08:28:09 [INFO] Done (9.845s)! For help, type "help" or "?"
+2013-09-18 08:28:09 [INFO] [dynmap] Loading default resource pack
+2013-09-18 08:28:12 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-09-18 08:29:12 [INFO] /127.0.0.1:50280 lost connection
+2013-09-18 08:29:20 [INFO] OzBarry[/127.0.0.1:50283] logged in with entity id 287 at ([world] 63.300264161836004, 71.875, 257.023706918971)
+2013-09-18 09:11:01 [INFO] Connection reset
+2013-09-18 09:11:01 [INFO] OzBarry lost connection: disconnect.quitting
+2013-09-18 09:11:01 [INFO] §eOzBarry left the game.
+2013-09-18 09:11:05 [INFO] CONSOLE: Stopping the server..[m
+2013-09-18 09:11:05 [INFO] Stopping server
+2013-09-18 09:11:05 [INFO] [dynmap] Disabling dynmap v1.8-786
+2013-09-18 09:11:06 [INFO] [dynmap] Unloaded 11 components.
+2013-09-18 09:11:06 [INFO] [dynmap] Stopping map renderer...
+2013-09-18 09:11:06 [INFO] [dynmap] Saved 40 pending tile renders in world 'world
+2013-09-18 09:11:06 [INFO] [dynmap] Disabled
+2013-09-18 09:11:06 [INFO] Saving players
+2013-09-18 09:11:06 [WARNING] DSCT: Socket closed
+2013-09-18 09:11:06 [INFO] Saving worlds
+2013-09-18 09:11:06 [INFO] Closing listening thread
+2013-09-18 09:11:06 [INFO] Saving chunks for level 'world'/Overworld
+2013-09-18 09:11:06 [INFO] Saving chunks for level 'world_nether'/Nether
+2013-09-18 09:11:06 [INFO] Saving chunks for level 'world_the_end'/The End
