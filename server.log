@@ -1720,3 +1720,125 @@ java.lang.IllegalArgumentException: Too big view radius!
 2013-09-15 23:08:20 [INFO] Saving chunks for level 'world'/Overworld
 2013-09-15 23:08:22 [INFO] Saving chunks for level 'world_nether'/Nether
 2013-09-15 23:08:22 [INFO] Saving chunks for level 'world_the_end'/The End
+2013-09-17 19:30:47 [INFO] Starting minecraft server version 1.6.2
+2013-09-17 19:30:47 [INFO] Loading properties
+2013-09-17 19:30:47 [INFO] Default game type: SURVIVAL
+2013-09-17 19:30:47 [INFO] Generating keypair
+2013-09-17 19:30:48 [INFO] Starting Minecraft server on *:25565
+2013-09-17 19:30:48 [INFO] This server is running CraftBukkit version git-Bukkit-1.6.2-R1.0-b2879jnks (MC: 1.6.2) (Implementing API version 1.6.2-R1.0)
+2013-09-17 19:30:49 [INFO] [dynmap] Loading dynmap v1.8-786
+2013-09-17 19:30:49 [INFO] Preparing level "world"
+2013-09-17 19:30:49 [INFO] Preparing start region for level 0 (Seed: 4943191395051569586)
+2013-09-17 19:30:50 [INFO] Preparing spawn area: 54%
+2013-09-17 19:30:51 [INFO] Preparing start region for level 1 (Seed: -4110950347534694326)
+2013-09-17 19:30:52 [INFO] Preparing spawn area: 53%
+2013-09-17 19:30:52 [INFO] Preparing start region for level 2 (Seed: -4110950347534694326)
+2013-09-17 19:30:53 [INFO] [dynmap] Enabling dynmap v1.8-786
+2013-09-17 19:30:53 [INFO] [dynmap] Using Bukkit Permissions (superperms) for access control
+2013-09-17 19:30:53 [INFO] [dynmap] Web interface permissions only available for online users
+2013-09-17 19:30:54 [INFO] [dynmap] Extracted files upgraded
+2013-09-17 19:30:55 [INFO] [dynmap] Loaded 21 shaders.
+2013-09-17 19:30:55 [INFO] [dynmap] Loaded 82 perspectives.
+2013-09-17 19:30:55 [INFO] [dynmap] Loaded 12 lightings.
+2013-09-17 19:30:55 [INFO] [dynmap] Web server started on address 0.0.0.0:8123
+2013-09-17 19:30:55 [INFO] [dynmap] version 1.8-786 is enabled - core version 1.8-1746
+2013-09-17 19:30:55 [INFO] [dynmap] Loaded 3 maps of world 'world'.
+2013-09-17 19:30:55 [INFO] [dynmap] Loaded 61 pending tile renders for world 'world
+2013-09-17 19:30:55 [INFO] [dynmap] Loaded 2 maps of world 'world_nether'.
+2013-09-17 19:30:55 [INFO] [dynmap] Loaded 2 maps of world 'world_the_end'.
+2013-09-17 19:30:55 [INFO] [dynmap] Enabled
+2013-09-17 19:30:56 [INFO] Server permissions file permissions.yml is empty, ignoring it
+2013-09-17 19:30:56 [INFO] Done (6.809s)! For help, type "help" or "?"
+2013-09-17 19:30:57 [INFO] [dynmap] Loading default resource pack
+2013-09-17 19:31:01 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-09-17 19:34:10 [INFO] jemmrich[/209.213.246.191:43282] logged in with entity id 407 at ([world] 60.48408438819342, 67.0, 266.1571290890141)
+2013-09-17 20:01:52 [INFO] OzBarry[/127.0.0.1:55637] logged in with entity id 24214 at ([world] 56.73722891758821, 67.0, 265.83774984190507)
+2013-09-17 20:01:57 [INFO] <OzBarry> heyo[m
+2013-09-17 20:02:02 [INFO] <jemmrich> heeyyoo[m
+2013-09-17 20:02:27 [INFO] Connection reset
+2013-09-17 20:02:27 [INFO] OzBarry lost connection: disconnect.quitting
+2013-09-17 20:02:27 [INFO] §eOzBarry left the game.
+2013-09-17 20:02:30 [INFO] OzBarry[/127.0.0.1:55648] logged in with entity id 26201 at ([world] 61.4798834645899, 67.0, 266.1354786594024)
+2013-09-17 20:02:32 [INFO] Connection reset
+2013-09-17 20:02:32 [INFO] OzBarry lost connection: disconnect.quitting
+2013-09-17 20:02:32 [INFO] §eOzBarry left the game.
+2013-09-17 20:02:57 [INFO] OzBarry[/127.0.0.1:55678] logged in with entity id 26892 at ([world] 61.4798834645899, 67.0, 266.1354786594024)
+2013-09-17 20:16:29 [INFO] <OzBarry> i like your fence around the deep valley near the base[m
+2013-09-17 20:16:53 [INFO] <jemmrich> dont want to fall in ;) especially how fast the horse is[m
+2013-09-17 20:24:35 [INFO] <OzBarry> i just cut some braches from a tree, and a cow fell out[m
+2013-09-17 20:24:37 [INFO] <OzBarry> lol[m
+2013-09-17 20:24:47 [INFO] <jemmrich> lmao[m
+2013-09-17 20:24:56 [INFO] <jemmrich> tree cows![m
+2013-09-17 20:25:09 [INFO] <OzBarry> oh, he was a tree cow alright[m
+2013-09-17 20:33:39 [INFO] <jemmrich> where are tyou[m
+2013-09-17 20:33:45 [INFO] <OzBarry> the house[m
+2013-09-17 20:34:25 [INFO] <jemmrich> working on anything?[m
+2013-09-17 20:34:36 [INFO] <OzBarry> another rail line to the village to the west[m
+2013-09-17 20:35:03 [INFO] <jemmrich> k, i have more rail for you but i left it in the mine[m
+2013-09-17 20:35:25 [INFO] <OzBarry> okay, i have plenty for the time being - i have to clear out a lot of forest right now anyway[m
+2013-09-17 20:35:32 [INFO] <jemmrich> k[m
+2013-09-17 20:35:57 [INFO] <OzBarry> might expand the house again, too, since we have so much wood[m
+2013-09-17 20:36:20 [INFO] <jemmrich> yeah good idea there is soooo much wood[m
+2013-09-17 20:41:33 [INFO] <jemmrich> woah! i look behind me and suddenly BOOM[m
+2013-09-17 20:41:54 [INFO] <jemmrich> two floors?[m
+2013-09-17 20:41:59 [INFO] <OzBarry> yup :)[m
+2013-09-17 20:45:13 [INFO] <jemmrich> ohhh fancy glass floor to ceiling[m
+2013-09-17 20:45:18 [INFO] <OzBarry> ;)[m
+2013-09-17 20:45:31 [INFO] <jemmrich> me likey, tommy want wingy :D[m
+2013-09-17 20:50:29 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-09-17 20:56:18 [INFO] <jemmrich> wow lookin good[m
+2013-09-17 21:01:34 [INFO] <jemmrich> wow you got a horse![m
+2013-09-17 21:01:44 [INFO] <OzBarry> :)[m
+2013-09-17 21:02:52 [INFO] <OzBarry> new addition is finished[m
+2013-09-17 21:03:02 [INFO] <OzBarry> although i might change the slab steps to actual stairs[m
+2013-09-17 21:05:26 [INFO] <OzBarry> moar storage!!!!!!111oneoneone[m
+2013-09-17 21:06:35 [INFO] <jemmrich> i been trying to make as many bookshelves as i can[m
+2013-09-17 21:06:44 [INFO] <jemmrich> its coming along..[m
+2013-09-17 21:06:52 [INFO] <OzBarry> wooo[m
+2013-09-17 21:06:54 [INFO] <OzBarry> :)[m
+2013-09-17 21:07:12 [INFO] <jemmrich> wow lots of room[m
+2013-09-17 21:07:41 [INFO] <OzBarry> :)[m
+2013-09-17 21:07:47 [INFO] <jemmrich> lol[m
+2013-09-17 21:09:11 [INFO] <jemmrich> this is my best wheat farm to date wow[m
+2013-09-17 21:09:20 [INFO] <OzBarry> :)[m
+2013-09-17 21:14:57 [INFO] Read timed out
+2013-09-17 21:14:57 [INFO] jemmrich lost connection: disconnect.endOfStream
+2013-09-17 21:14:57 [INFO] §ejemmrich left the game.
+2013-09-17 21:17:12 [INFO] jemmrich[/209.213.246.191:43381] logged in with entity id 118089 at ([world] 54.96653790707888, 56.0, 270.43513925770526)
+2013-09-17 21:25:52 [INFO] <OzBarry> lol[m
+2013-09-17 21:25:53 [INFO] <jemmrich> :)[m
+2013-09-17 21:25:54 [INFO] <OzBarry> nice picture[m
+2013-09-17 21:25:58 [INFO] <jemmrich> lmao[m
+2013-09-17 21:27:38 [INFO] <jemmrich> lol wow[m
+2013-09-17 21:28:07 [INFO] <OzBarry> i might expand the house more, still, so we have piles of space[m
+2013-09-17 21:28:20 [INFO] <jemmrich> agreed[m
+2013-09-17 21:28:47 [INFO] <OzBarry> but Erinn is hinting that i should head to bed - but maybe i'll do one more quick expansion[m
+2013-09-17 21:29:03 [INFO] <jemmrich> k[m
+2013-09-17 21:36:57 [INFO] <OzBarry> pssst[m
+2013-09-17 21:37:49 [INFO] <OzBarry> i'm going to head out, but i finished the addition[m
+2013-09-17 21:37:57 [INFO] <OzBarry> ran out of glass[m
+2013-09-17 21:38:08 [INFO] <jemmrich> :D[m
+2013-09-17 21:39:28 [INFO] <OzBarry> alright, got all your stuff saved?[m
+2013-09-17 21:39:39 [INFO] <jemmrich> i think so, ciao![m
+2013-09-17 21:39:42 [INFO] Connection reset
+2013-09-17 21:39:42 [INFO] jemmrich lost connection: disconnect.quitting
+2013-09-17 21:39:42 [INFO] §ejemmrich left the game.
+2013-09-17 21:39:44 [INFO] <OzBarry> later gater[m
+2013-09-17 21:39:46 [INFO] Connection reset
+2013-09-17 21:39:46 [INFO] OzBarry lost connection: disconnect.quitting
+2013-09-17 21:39:46 [INFO] §eOzBarry left the game.
+2013-09-17 21:39:56 [INFO] CONSOLE: Stopping the server..[m
+2013-09-17 21:39:56 [INFO] Stopping server
+2013-09-17 21:39:56 [INFO] [dynmap] Disabling dynmap v1.8-786
+2013-09-17 21:39:56 [INFO] [dynmap] Unloaded 11 components.
+2013-09-17 21:39:56 [INFO] [dynmap] Stopping map renderer...
+2013-09-17 21:39:56 [INFO] [dynmap] Saved 23 pending tile renders in world 'world
+2013-09-17 21:39:56 [INFO] [dynmap] Disabled
+2013-09-17 21:39:56 [INFO] Saving players
+2013-09-17 21:39:56 [WARNING] DSCT: Socket closed
+2013-09-17 21:39:56 [INFO] Saving worlds
+2013-09-17 21:39:56 [INFO] Closing listening thread
+2013-09-17 21:39:56 [INFO] Saving chunks for level 'world'/Overworld
+2013-09-17 21:39:56 [INFO] Saving chunks for level 'world_nether'/Nether
+2013-09-17 21:39:56 [INFO] Saving chunks for level 'world_the_end'/The End
+2013-09-17 21:39:56 [INFO] Stopping server
