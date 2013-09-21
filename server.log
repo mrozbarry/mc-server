@@ -2112,3 +2112,581 @@ java.lang.IllegalArgumentException: Too big view radius!
 2013-09-19 09:04:35 [INFO] Saving chunks for level 'world'/Overworld
 2013-09-19 09:04:37 [INFO] Saving chunks for level 'world_nether'/Nether
 2013-09-19 09:04:37 [INFO] Saving chunks for level 'world_the_end'/The End
+2013-09-19 16:00:18 [INFO] Starting minecraft server version 1.6.2
+2013-09-19 16:00:18 [INFO] Loading properties
+2013-09-19 16:00:18 [INFO] Default game type: SURVIVAL
+2013-09-19 16:00:18 [INFO] Generating keypair
+2013-09-19 16:00:19 [INFO] Starting Minecraft server on *:25565
+2013-09-19 16:00:19 [INFO] This server is running CraftBukkit version git-Bukkit-1.6.2-R1.0-b2879jnks (MC: 1.6.2) (Implementing API version 1.6.2-R1.0)
+2013-09-19 16:00:19 [INFO] [dynmap] Loading dynmap v1.8-786
+2013-09-19 16:00:20 [INFO] Preparing level "world"
+2013-09-19 16:00:20 [INFO] Preparing start region for level 0 (Seed: 4943191395051569586)
+2013-09-19 16:00:21 [INFO] Preparing spawn area: 46%
+2013-09-19 16:00:21 [INFO] Preparing start region for level 1 (Seed: -4110950347534694326)
+2013-09-19 16:00:22 [INFO] Preparing spawn area: 69%
+2013-09-19 16:00:23 [INFO] Preparing start region for level 2 (Seed: -4110950347534694326)
+2013-09-19 16:00:23 [INFO] [dynmap] Enabling dynmap v1.8-786
+2013-09-19 16:00:23 [INFO] [dynmap] Using Bukkit Permissions (superperms) for access control
+2013-09-19 16:00:23 [INFO] [dynmap] Web interface permissions only available for online users
+2013-09-19 16:00:23 [INFO] [dynmap] Extracted files upgraded
+2013-09-19 16:00:24 [INFO] [dynmap] Loaded 21 shaders.
+2013-09-19 16:00:24 [INFO] [dynmap] Loaded 82 perspectives.
+2013-09-19 16:00:24 [INFO] [dynmap] Loaded 12 lightings.
+2013-09-19 16:00:25 [INFO] [dynmap] Web server started on address 0.0.0.0:8123
+2013-09-19 16:00:25 [INFO] [dynmap] version 1.8-786 is enabled - core version 1.8-1746
+2013-09-19 16:00:25 [INFO] [dynmap] Loaded 3 maps of world 'world'.
+2013-09-19 16:00:25 [INFO] [dynmap] Loaded 2 maps of world 'world_nether'.
+2013-09-19 16:00:25 [INFO] [dynmap] Loaded 2 maps of world 'world_the_end'.
+2013-09-19 16:00:25 [INFO] [dynmap] Enabled
+2013-09-19 16:00:25 [INFO] Server permissions file permissions.yml is empty, ignoring it
+2013-09-19 16:00:25 [INFO] Done (5.608s)! For help, type "help" or "?"
+2013-09-19 16:02:29 [INFO] Starting minecraft server version 1.6.2
+2013-09-19 16:02:29 [INFO] Loading properties
+2013-09-19 16:02:29 [INFO] Default game type: SURVIVAL
+2013-09-19 16:02:29 [INFO] Generating keypair
+2013-09-19 16:02:30 [INFO] Starting Minecraft server on *:25565
+2013-09-19 16:02:30 [INFO] This server is running CraftBukkit version git-Bukkit-1.6.2-R1.0-b2879jnks (MC: 1.6.2) (Implementing API version 1.6.2-R1.0)
+2013-09-19 16:02:30 [INFO] [dynmap] Loading dynmap v1.8-786
+2013-09-19 16:02:30 [INFO] Preparing level "world"
+2013-09-19 16:02:30 [INFO] Preparing start region for level 0 (Seed: 4943191395051569586)
+2013-09-19 16:02:31 [INFO] Preparing spawn area: 64%
+2013-09-19 16:02:32 [INFO] Preparing start region for level 1 (Seed: -4110950347534694326)
+2013-09-19 16:02:33 [INFO] Preparing start region for level 2 (Seed: -4110950347534694326)
+2013-09-19 16:02:33 [INFO] [dynmap] Enabling dynmap v1.8-786
+2013-09-19 16:02:33 [INFO] [dynmap] Using Bukkit Permissions (superperms) for access control
+2013-09-19 16:02:33 [INFO] [dynmap] Web interface permissions only available for online users
+2013-09-19 16:02:33 [INFO] [dynmap] Extracted files upgraded
+2013-09-19 16:02:34 [INFO] [dynmap] Loaded 21 shaders.
+2013-09-19 16:02:34 [INFO] [dynmap] Loaded 82 perspectives.
+2013-09-19 16:02:34 [INFO] [dynmap] Loaded 12 lightings.
+2013-09-19 16:02:34 [INFO] [dynmap] Web server started on address 0.0.0.0:8123
+2013-09-19 16:02:34 [INFO] [dynmap] version 1.8-786 is enabled - core version 1.8-1746
+2013-09-19 16:02:34 [INFO] [dynmap] Loaded 3 maps of world 'world'.
+2013-09-19 16:02:34 [INFO] [dynmap] Loaded 2 maps of world 'world_nether'.
+2013-09-19 16:02:34 [INFO] [dynmap] Loaded 2 maps of world 'world_the_end'.
+2013-09-19 16:02:34 [INFO] [dynmap] Enabled
+2013-09-19 16:02:35 [INFO] Server permissions file permissions.yml is empty, ignoring it
+2013-09-19 16:02:35 [INFO] Done (4.619s)! For help, type "help" or "?"
+2013-09-19 16:07:55 [INFO] Starting minecraft server version 1.6.2
+2013-09-19 16:07:55 [INFO] Loading properties
+2013-09-19 16:07:55 [INFO] Default game type: SURVIVAL
+2013-09-19 16:07:55 [INFO] Generating keypair
+2013-09-19 16:07:55 [INFO] Starting Minecraft server on *:25565
+2013-09-19 16:07:55 [INFO] This server is running CraftBukkit version git-Bukkit-1.6.2-R1.0-b2879jnks (MC: 1.6.2) (Implementing API version 1.6.2-R1.0)
+2013-09-19 16:07:55 [INFO] [dynmap] Loading dynmap v1.8-786
+2013-09-19 16:07:56 [INFO] Preparing level "world"
+2013-09-19 16:07:56 [INFO] Preparing start region for level 0 (Seed: 4943191395051569586)
+2013-09-19 16:07:57 [INFO] Preparing spawn area: 70%
+2013-09-19 16:07:57 [INFO] Preparing start region for level 1 (Seed: -4110950347534694326)
+2013-09-19 16:07:58 [INFO] Preparing start region for level 2 (Seed: -4110950347534694326)
+2013-09-19 16:07:58 [INFO] [dynmap] Enabling dynmap v1.8-786
+2013-09-19 16:07:58 [INFO] [dynmap] Using Bukkit Permissions (superperms) for access control
+2013-09-19 16:07:58 [INFO] [dynmap] Web interface permissions only available for online users
+2013-09-19 16:07:58 [INFO] [dynmap] Extracted files upgraded
+2013-09-19 16:07:59 [INFO] [dynmap] Loaded 21 shaders.
+2013-09-19 16:08:00 [INFO] [dynmap] Loaded 82 perspectives.
+2013-09-19 16:08:00 [INFO] [dynmap] Loaded 12 lightings.
+2013-09-19 16:08:00 [INFO] [dynmap] Web server started on address 0.0.0.0:8123
+2013-09-19 16:08:00 [INFO] [dynmap] version 1.8-786 is enabled - core version 1.8-1746
+2013-09-19 16:08:00 [INFO] [dynmap] Loaded 3 maps of world 'world'.
+2013-09-19 16:08:00 [INFO] [dynmap] Loaded 2 maps of world 'world_nether'.
+2013-09-19 16:08:00 [INFO] [dynmap] Loaded 2 maps of world 'world_the_end'.
+2013-09-19 16:08:00 [INFO] [dynmap] Enabled
+2013-09-19 16:08:00 [INFO] Server permissions file permissions.yml is empty, ignoring it
+2013-09-19 16:08:00 [INFO] Done (4.649s)! For help, type "help" or "?"
+2013-09-19 16:24:51 [INFO] jemmrich[/129.97.143.48:33445] logged in with entity id 269 at ([world] 99.20904885411944, 64.0, 254.43971420977084)
+2013-09-19 16:25:10 [INFO] OzBarry[/206.126.92.85:44929] logged in with entity id 579 at ([world] 54.859991194554475, 71.0, 264.4075764492697)
+2013-09-19 16:25:14 [INFO] <jemmrich> lulz[m
+2013-09-19 16:25:18 [INFO] <OzBarry> good ping :)[m
+2013-09-19 16:25:25 [INFO] <jemmrich> good stuff[m
+2013-09-19 16:25:33 [INFO] <OzBarry> i expanded the house again[m
+2013-09-19 16:25:39 [INFO] <jemmrich> ok im out for now lol i will get carried awat[m
+2013-09-19 16:25:43 [INFO] <jemmrich> *away[m
+2013-09-19 16:25:43 [INFO] [dynmap] Loading default resource pack
+2013-09-19 16:25:52 [INFO] Connection reset
+2013-09-19 16:25:52 [INFO] jemmrich lost connection: disconnect.quitting
+2013-09-19 16:25:52 [INFO] §ejemmrich left the game.
+2013-09-19 16:25:59 [INFO] OzBarry lost connection: disconnect.quitting
+2013-09-19 16:25:59 [INFO] Connection reset
+2013-09-19 16:25:59 [INFO] §eOzBarry left the game.
+2013-09-19 16:40:19 [INFO] Stopping server
+2013-09-19 16:40:19 [INFO] [dynmap] Disabling dynmap v1.8-786
+2013-09-19 17:00:10 [INFO] Starting minecraft server version 1.6.2
+2013-09-19 17:00:10 [INFO] Loading properties
+2013-09-19 17:00:10 [INFO] Default game type: SURVIVAL
+2013-09-19 17:00:10 [INFO] Generating keypair
+2013-09-19 17:00:11 [INFO] Starting Minecraft server on *:25565
+2013-09-19 17:00:11 [INFO] This server is running CraftBukkit version git-Bukkit-1.6.2-R1.0-b2879jnks (MC: 1.6.2) (Implementing API version 1.6.2-R1.0)
+2013-09-19 17:00:11 [INFO] [dynmap] Loading dynmap v1.8-786
+2013-09-19 17:00:12 [INFO] Preparing level "world"
+2013-09-19 17:00:12 [INFO] Preparing start region for level 0 (Seed: 4943191395051569586)
+2013-09-19 17:00:13 [INFO] Preparing spawn area: 59%
+2013-09-19 17:00:13 [INFO] Preparing start region for level 1 (Seed: -4110950347534694326)
+2013-09-19 17:00:14 [INFO] Preparing start region for level 2 (Seed: -4110950347534694326)
+2013-09-19 17:00:14 [INFO] [dynmap] Enabling dynmap v1.8-786
+2013-09-19 17:00:14 [INFO] [dynmap] Using Bukkit Permissions (superperms) for access control
+2013-09-19 17:00:14 [INFO] [dynmap] Web interface permissions only available for online users
+2013-09-19 17:00:14 [INFO] [dynmap] Extracted files upgraded
+2013-09-19 17:00:15 [INFO] [dynmap] Loaded 21 shaders.
+2013-09-19 17:00:16 [INFO] [dynmap] Loaded 82 perspectives.
+2013-09-19 17:00:16 [INFO] [dynmap] Loaded 12 lightings.
+2013-09-19 17:00:16 [INFO] [dynmap] Web server started on address 0.0.0.0:8123
+2013-09-19 17:00:16 [INFO] [dynmap] version 1.8-786 is enabled - core version 1.8-1746
+2013-09-19 17:00:16 [INFO] [dynmap] Loaded 3 maps of world 'world'.
+2013-09-19 17:00:16 [INFO] [dynmap] Loaded 9 pending tile renders for world 'world
+2013-09-19 17:00:16 [INFO] [dynmap] Loaded 2 maps of world 'world_nether'.
+2013-09-19 17:00:16 [INFO] [dynmap] Loaded 2 maps of world 'world_the_end'.
+2013-09-19 17:00:16 [INFO] [dynmap] Enabled
+2013-09-19 17:00:16 [INFO] Server permissions file permissions.yml is empty, ignoring it
+2013-09-19 17:00:16 [INFO] Done (4.605s)! For help, type "help" or "?"
+2013-09-19 17:00:17 [INFO] [dynmap] Loading default resource pack
+2013-09-19 17:00:20 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-09-19 17:53:35 [INFO] OzBarry[/206.126.92.85:47960] logged in with entity id 325 at ([world] 53.107474362448094, 71.0, 259.408517221062)
+2013-09-19 18:34:57 [INFO] jemmrich[/209.213.246.191:53866] logged in with entity id 37816 at ([world] 96.25007489842045, 65.0, 250.51945251737567)
+2013-09-19 18:35:25 [INFO] <OzBarry> check out the house[m
+2013-09-19 18:35:48 [INFO] <jemmrich> hows the server holding up[m
+2013-09-19 18:35:49 [INFO] <OzBarry> did a pile of reorganizing, plus added lots more space[m
+2013-09-19 18:35:52 [INFO] <OzBarry> good so far[m
+2013-09-19 18:35:56 [INFO] <jemmrich> wow[m
+2013-09-19 18:36:01 [INFO] <OzBarry> no hiccups, and i seem to have good ping[m
+2013-09-19 18:36:17 [INFO] <jemmrich> wow holy carp[m
+2013-09-19 18:36:27 [INFO] <OzBarry> sweet carp![m
+2013-09-19 18:36:39 [INFO] <jemmrich> wow you even pre-filled some[m
+2013-09-19 18:36:44 [INFO] <jemmrich> thats awesome[m
+2013-09-19 18:37:09 [INFO] <jemmrich> damn you been hard at work![m
+2013-09-19 18:37:12 [INFO] <OzBarry> in the near future, i'm going to upgrade our doors to sand-doors[m
+2013-09-19 18:42:09 [INFO] <OzBarry> found an abandoned mine if you're interested[m
+2013-09-19 18:42:14 [INFO] <jemmrich> YUP[m
+2013-09-19 18:44:52 [INFO] <OzBarry> this way, sir[m
+2013-09-19 18:45:16 [INFO] <OzBarry> :)[m
+2013-09-19 18:45:28 [INFO] <OzBarry> to the right[m
+2013-09-19 18:45:37 [INFO] <OzBarry> errr, follow the light[m
+2013-09-19 18:46:10 [INFO] <jemmrich> :D[m
+2013-09-19 18:46:19 [INFO] <jemmrich> thanks[m
+2013-09-19 18:46:46 [INFO] <jemmrich> tracks down here[m
+2013-09-19 18:46:55 [INFO] <OzBarry> gotta go make some more picks - need any iron picks?[m
+2013-09-19 18:47:08 [INFO] <jemmrich> nah im good[m
+2013-09-19 18:47:33 [INFO] <OzBarry> alright - i'll be back with some picks for me[m
+2013-09-19 18:47:53 [INFO] <OzBarry> oh, do you follow the "torches on the right" method of cave exploring?[m
+2013-09-19 18:48:09 [INFO] <jemmrich> ive never done that, but it makes sense[m
+2013-09-19 18:48:39 [INFO] <OzBarry> that's how i do it - and to get out of the cave, always make sure the torches are on the left-hand..[m
+2013-09-19 18:48:40 [INFO] <OzBarry> ..side[m
+2013-09-19 18:48:53 [INFO] <jemmrich> ok ill do that from now on[m
+2013-09-19 18:49:01 [INFO] <OzBarry> cool beans :)[m
+2013-09-19 18:49:10 [INFO] <OzBarry> not necessary, though, but i may get lost in your caves[m
+2013-09-19 18:49:13 [INFO] <OzBarry> ...if you know what i mean[m
+2013-09-19 18:49:45 [INFO] <jemmrich> yeah i scatter them where ever lol[m
+2013-09-19 18:51:02 [INFO] <OzBarry> need any good?[m
+2013-09-19 18:51:06 [INFO] <OzBarry> *food?[m
+2013-09-19 18:51:14 [INFO] <jemmrich> nope im all set[m
+2013-09-19 18:51:27 [INFO] <OzBarry> cool :)[m
+2013-09-19 19:02:58 [INFO] <jemmrich> i cant believe this was so close to home[m
+2013-09-19 19:20:29 [INFO] <OzBarry> close call?[m
+2013-09-19 19:20:34 [INFO] <jemmrich> yup[m
+2013-09-19 19:21:14 [INFO] <OzBarry> i don't think we've had a thunderstorm on the server yet[m
+2013-09-19 19:21:16 [INFO] <OzBarry> that's exciting[m
+2013-09-19 19:21:30 [INFO] <jemmrich> yup we have[m
+2013-09-19 19:21:38 [INFO] <OzBarry> was i on at the time?[m
+2013-09-19 19:21:41 [INFO] <jemmrich> its sounds so cool though[m
+2013-09-19 19:21:45 [INFO] <jemmrich> im not sure if you were[m
+2013-09-19 19:21:53 [INFO] <OzBarry> huh[m
+2013-09-19 19:22:02 [INFO] <OzBarry> i may have had my volume down or something[m
+2013-09-19 19:22:06 [INFO] <jemmrich> maybe[m
+2013-09-19 19:22:57 [INFO] <jemmrich> i hope one of our pigs gets hit[m
+2013-09-19 19:23:18 [INFO] <OzBarry> can they actually get hit my lightning?[m
+2013-09-19 19:23:30 [INFO] <jemmrich> yup and then they turn into pigmen[m
+2013-09-19 19:32:12 [INFO] <jemmrich> :)[m
+2013-09-19 19:33:29 [INFO] <OzBarry> more stuff down here to nab?[m
+2013-09-19 19:33:36 [INFO] <jemmrich> yup[m
+2013-09-19 19:33:53 [INFO] <jemmrich> damn spiders... coming from no where[m
+2013-09-19 19:34:54 [INFO] <OzBarry> rail to get down and back up is done :)[m
+2013-09-19 19:38:15 [INFO] <OzBarry> sending down a rail cart with some storage[m
+2013-09-19 19:38:21 [INFO] <jemmrich> :D[m
+2013-09-19 19:39:48 [INFO] <jemmrich> oops[m
+2013-09-19 19:40:03 [INFO] <jemmrich> something happened[m
+2013-09-19 19:40:13 [INFO] <OzBarry> it's alright, it's on it's way back down - that was me[m
+2013-09-19 19:40:39 [INFO] <OzBarry> there's a stop-point mid way up the mine[m
+2013-09-19 19:44:13 [INFO] <OzBarry> lol[m
+2013-09-19 19:44:17 [INFO] <jemmrich> lol[m
+2013-09-19 19:47:24 [INFO] <OzBarry> i'm going to send this stuff up to the surface, start some smelting, and i left you a container here[m
+2013-09-19 19:47:32 [INFO] <jemmrich> ok thanks[m
+2013-09-19 19:47:42 [INFO] <jemmrich> im going to need some picks and axes soon[m
+2013-09-19 19:47:51 [INFO] <OzBarry> okay, i'll send some down with me[m
+2013-09-19 19:48:50 [INFO] <OzBarry> a zombie may have jumped in the cart that's on it's way down[m
+2013-09-19 19:48:56 [INFO] <jemmrich> lmao ok[m
+2013-09-19 19:48:56 [INFO] <OzBarry> just fyi[m
+2013-09-19 19:49:18 [INFO] <jemmrich> lazy bastard[m
+2013-09-19 19:49:37 [INFO] <OzBarry> the cart with storage is coming back down[m
+2013-09-19 19:50:17 [INFO] <jemmrich> lol yup hes in the cart lol[m
+2013-09-19 19:50:37 [INFO] <OzBarry> that's funny - the cart just went past him and then he disappeared, so i figure he jumped in[m
+2013-09-19 19:50:40 [INFO] <OzBarry> that's quite silly[m
+2013-09-19 19:50:51 [INFO] <jemmrich> i pushed the cart back up :([m
+2013-09-19 19:51:05 [INFO] <OzBarry> i can send it back down, no worries[m
+2013-09-19 19:51:23 [INFO] <jemmrich> never mind i got[m
+2013-09-19 19:51:27 [INFO] <OzBarry> :)[m
+2013-09-19 19:55:40 [INFO] <OzBarry> so what tools do you need?[m
+2013-09-19 19:55:59 [INFO] <jemmrich> two picks[m
+2013-09-19 19:56:06 [INFO] <jemmrich> an axe[m
+2013-09-19 19:56:08 [INFO] <OzBarry> iron or stone?[m
+2013-09-19 19:56:11 [INFO] <OzBarry> an axe?[m
+2013-09-19 19:56:12 [INFO] <jemmrich> 2 shovels[m
+2013-09-19 19:56:17 [INFO] <jemmrich> all iron[m
+2013-09-19 20:01:12 [INFO] <jemmrich> lol thanks[m
+2013-09-19 20:01:48 [INFO] <jemmrich> there is some stuff inthe cart for you[m
+2013-09-19 20:01:58 [INFO] <OzBarry> yup, going to do some smelting and sorting[m
+2013-09-19 20:09:44 [INFO] <OzBarry> apparently my milkshakes brings all the zombies to our yard[m
+2013-09-19 20:09:50 [INFO] <jemmrich> lol[m
+2013-09-19 20:10:37 [INFO] <jemmrich> i hear a slime![m
+2013-09-19 20:10:41 [INFO] <OzBarry> oooh :)[m
+2013-09-19 20:13:13 [INFO] <jemmrich> just a little slime :([m
+2013-09-19 20:13:29 [INFO] jemmrich lost connection: disconnect.quitting
+2013-09-19 20:13:29 [INFO] Connection reset
+2013-09-19 20:13:29 [INFO] §ejemmrich left the game.
+2013-09-19 20:19:12 [INFO] jemmrich[/209.213.246.191:54258] logged in with entity id 263508 at ([world] -8.497233713220211, 19.0, 348.30000001192093)
+2013-09-19 20:19:28 [INFO] <OzBarry> just as i was about to leave you a note[m
+2013-09-19 20:19:38 [INFO] <OzBarry> Erinn wants to watch some seinfeld, so i think i'm going to jump off[m
+2013-09-19 20:20:17 [INFO] <jemmrich> ok[m
+2013-09-19 20:20:54 [INFO] <OzBarry> i left the trolly down there for you, plus a rideable cart in the chest[m
+2013-09-19 20:21:02 [INFO] <jemmrich> :) thanks[m
+2013-09-19 20:21:12 [INFO] <OzBarry> also left some wood and a workbench down there[m
+2013-09-19 20:21:19 [INFO] <jemmrich> perfect[m
+2013-09-19 20:21:28 [INFO] <OzBarry> need anything before i head off?[m
+2013-09-19 20:22:18 [INFO] <OzBarry> you're good?[m
+2013-09-19 20:22:35 [INFO] <jemmrich> yep[m
+2013-09-19 20:22:59 [INFO] <OzBarry> cool, i'm hoping to make it into the office tomorrow, so i'll see you then, but i'll text...[m
+2013-09-19 20:23:05 [INFO] <OzBarry> ...if i'm still under the weather[m
+2013-09-19 20:23:12 [INFO] <jemmrich> kk, sam will be in tomoroow[m
+2013-09-19 20:23:22 [INFO] <jemmrich> so hopefully you will feel better[m
+2013-09-19 20:23:40 [INFO] <OzBarry> alright, i'll come in, and if i feel shitty, i'll head out after Sam is all set[m
+2013-09-19 20:24:05 [INFO] <jemmrich> sounds good, could even come in a little late, he wont be in until after lunch[m
+2013-09-19 20:24:38 [INFO] <OzBarry> ok[m
+2013-09-19 20:24:41 [INFO] <OzBarry> g'night[m
+2013-09-19 20:24:46 [INFO] <jemmrich> night[m
+2013-09-19 20:24:54 [INFO] OzBarry lost connection: disconnect.quitting
+2013-09-19 20:24:54 [INFO] Connection reset
+2013-09-19 20:24:54 [INFO] §eOzBarry left the game.
+2013-09-19 20:46:37 [INFO] Connection reset
+2013-09-19 20:46:37 [INFO] jemmrich lost connection: disconnect.quitting
+2013-09-19 20:46:37 [INFO] §ejemmrich left the game.
+2013-09-19 20:46:57 [INFO] jemmrich[/209.213.246.191:54311] logged in with entity id 283868 at ([world] 14.050622146634884, 22.0, 335.41977466607375)
+2013-09-19 20:56:41 [INFO] jemmrich lost connection: disconnect.endOfStream
+2013-09-19 20:56:41 [INFO] §ejemmrich left the game.
+2013-09-19 20:57:41 [INFO] jemmrich[/209.213.246.191:54461] logged in with entity id 300959 at ([world] -4.628357418404126, 19.0, 381.58876256034756)
+2013-09-19 21:16:17 [INFO] Read timed out
+2013-09-19 21:16:17 [INFO] jemmrich lost connection: disconnect.endOfStream
+2013-09-19 21:16:17 [INFO] §ejemmrich left the game.
+2013-09-19 21:29:36 [INFO] jemmrich[/209.213.246.191:54574] logged in with entity id 329065 at ([world] 15.216211563732823, 22.0, 335.38049970766156)
+2013-09-19 21:54:03 [INFO] Connection reset
+2013-09-19 21:54:03 [INFO] jemmrich lost connection: disconnect.quitting
+2013-09-19 21:54:03 [INFO] §ejemmrich left the game.
+2013-09-19 21:59:38 [INFO] jemmrich[/209.213.246.191:55008] logged in with entity id 362066 at ([world] -4.332464579816343, 13.0, 389.50412309124533)
+2013-09-19 22:01:47 [INFO] Read timed out
+2013-09-19 22:01:47 [INFO] jemmrich lost connection: disconnect.endOfStream
+2013-09-19 22:01:47 [INFO] §ejemmrich left the game.
+2013-09-19 22:18:48 [INFO] jemmrich[/184.151.63.138:53381] logged in with entity id 378112 at ([world] -3.1261633917803118, 13.0, 386.4314867196287)
+2013-09-19 23:46:56 [INFO] Connection reset
+2013-09-19 23:46:56 [INFO] jemmrich lost connection: disconnect.quitting
+2013-09-19 23:46:56 [INFO] §ejemmrich left the game.
+2013-09-20 00:00:39 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-09-20 00:00:59 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-09-20 00:02:05 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-09-20 00:05:35 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-09-20 00:06:12 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-09-20 08:05:22 [INFO] OzBarry[/206.126.92.85:49428] logged in with entity id 791436 at ([world] 69.20430676917628, 71.0, 256.45712292860577)
+2013-09-20 08:08:50 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-09-20 08:09:44 [INFO] Read timed out
+2013-09-20 08:09:44 [INFO] OzBarry lost connection: disconnect.endOfStream
+2013-09-20 08:09:44 [INFO] §eOzBarry left the game.
+2013-09-20 08:11:02 [INFO] OzBarry[/206.126.92.85:49496] logged in with entity id 799398 at ([world] 32.10787931567703, 15.0, 374.3891893251627)
+2013-09-20 08:24:05 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-09-20 08:34:14 [INFO] OzBarry was slain by Cave Spider
+2013-09-20 08:34:23 [INFO] OzBarry lost connection: disconnect.endOfStream
+2013-09-20 08:34:23 [INFO] §eOzBarry left the game.
+2013-09-20 08:34:23 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-09-20 16:09:45 [INFO] jemmrich[/129.97.143.48:34793] logged in with entity id 1311875 at ([world] 52.16810070350962, 67.0, 264.9233092062833)
+2013-09-20 16:20:04 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-09-20 16:30:50 [INFO] jemmrich lost connection: disconnect.quitting
+2013-09-20 16:30:50 [INFO] Connection reset
+2013-09-20 16:30:50 [INFO] §ejemmrich left the game.
+2013-09-20 16:51:50 [INFO] OzBarry[/206.126.92.85:57032] logged in with entity id 1354279 at ([world] 40.5, 69.0, 256.5)
+2013-09-20 17:57:26 [INFO] jemmrich[/209.213.246.191:54108] logged in with entity id 1450234 at ([world] 57.49547752741944, 67.0, 266.33998464933507)
+2013-09-20 17:57:49 [INFO] <OzBarry> hi[m
+2013-09-20 17:57:54 [INFO] jemmrich lost connection: disconnect.quitting
+2013-09-20 17:57:54 [INFO] Connection reset
+2013-09-20 17:57:54 [INFO] §ejemmrich left the game.
+2013-09-20 17:58:05 [INFO] jemmrich[/209.213.246.191:54127] logged in with entity id 1452032 at ([world] 54.660792184183514, 67.0, 265.11838487640244)
+2013-09-20 17:58:13 [INFO] <OzBarry> hello again[m
+2013-09-20 17:58:32 [INFO] <jemmrich> hello[m
+2013-09-20 18:03:44 [INFO] OzBarry lost connection: disconnect.quitting
+2013-09-20 18:03:44 [INFO] Connection reset
+2013-09-20 18:03:44 [INFO] §eOzBarry left the game.
+2013-09-20 18:04:22 [INFO] <jemmrich> careful, creepers by house[m
+2013-09-20 18:10:14 [INFO] OzBarry[/206.126.92.85:57440] logged in with entity id 1472191 at ([world] 76.8335316187131, 49.0, 298.51872559037804)
+2013-09-20 18:11:04 [INFO] <jemmrich> checkout the bedrom[m
+2013-09-20 18:11:26 [INFO] <OzBarry> will do[m
+2013-09-20 18:11:38 [INFO] <OzBarry> sexy[m
+2013-09-20 18:11:43 [INFO] <OzBarry> dibs on using it first[m
+2013-09-20 18:11:43 [INFO] <jemmrich> lol[m
+2013-09-20 18:11:47 [INFO] <OzBarry> ...just to try it out[m
+2013-09-20 18:11:49 [INFO] <jemmrich> lmao[m
+2013-09-20 18:12:01 [INFO] <jemmrich> an enderman snuck in here[m
+2013-09-20 18:12:07 [INFO] <OzBarry> bastard[m
+2013-09-20 18:12:11 [INFO] <OzBarry> still in here?[m
+2013-09-20 18:12:22 [INFO] <jemmrich> i chased him out[m
+2013-09-20 18:15:37 [INFO] <jemmrich> syncro sleep?[m
+2013-09-20 18:15:44 [INFO] <OzBarry> sure[m
+2013-09-20 18:16:09 [INFO] <jemmrich> lol[m
+2013-09-20 18:16:19 [INFO] <jemmrich> closest to the penis pump[m
+2013-09-20 18:19:08 [INFO] <OzBarry> :P[m
+2013-09-20 18:19:19 [INFO] <OzBarry> sorry, i just had to run downstairs to make some tea[m
+2013-09-20 18:26:56 [INFO] <OzBarry> found a big slime![m
+2013-09-20 18:27:00 [INFO] <jemmrich> woohoo[m
+2013-09-20 18:30:15 [INFO] <OzBarry> saddle![m
+2013-09-20 18:30:22 [INFO] <jemmrich> wooohooo![m
+2013-09-20 18:30:34 [INFO] <jemmrich> now we all have horses[m
+2013-09-20 18:38:14 [INFO] <OzBarry> i just found a huge cave/abandon mine space[m
+2013-09-20 18:38:16 [INFO] <OzBarry> HUGE[m
+2013-09-20 18:40:17 [INFO] <jemmrich> :o[m
+2013-09-20 18:44:20 [INFO] <jemmrich> are you just mining mines[m
+2013-09-20 18:44:26 [INFO] <OzBarry> for now year[m
+2013-09-20 18:44:28 [INFO] <OzBarry> *yeah[m
+2013-09-20 18:48:00 [INFO] <jemmrich> sync sleep?[m
+2013-09-20 18:48:04 [INFO] <OzBarry> sure[m
+2013-09-20 18:48:24 [INFO] <OzBarry> lol[m
+2013-09-20 18:48:30 [INFO] <jemmrich> lol[m
+2013-09-20 18:48:44 [INFO] <jemmrich> i upgraded our door[m
+2013-09-20 18:48:55 [INFO] <OzBarry> :)[m
+2013-09-20 18:49:04 [INFO] <OzBarry> can zombies break through it still?[m
+2013-09-20 18:49:10 [INFO] <jemmrich> i dont think so[m
+2013-09-20 18:49:28 [INFO] <OzBarry> ok - i'm going to build a sand-door downstairs, methinks[m
+2013-09-20 18:49:33 [INFO] <jemmrich> k[m
+2013-09-20 19:01:22 [INFO] <jemmrich> lol[m
+2013-09-20 19:06:17 [INFO] <jemmrich> sorry[m
+2013-09-20 19:06:18 [INFO] <jemmrich> lol[m
+2013-09-20 19:08:03 [INFO] <OzBarry> lol[m
+2013-09-20 19:08:12 [INFO] <jemmrich> lol[m
+2013-09-20 19:11:11 [INFO] OzBarry lost connection: disconnect.quitting
+2013-09-20 19:11:11 [INFO] Connection reset
+2013-09-20 19:11:11 [INFO] §eOzBarry left the game.
+2013-09-20 19:11:17 [INFO] OzBarry[/206.126.92.85:58261] logged in with entity id 1549367 at ([world] 50.69999998807907, 59.0, 251.72078084315376)
+2013-09-20 19:15:30 [INFO] <jemmrich> look up[m
+2013-09-20 19:15:37 [INFO] <OzBarry> nice[m
+2013-09-20 19:15:45 [INFO] <jemmrich> building a tree house[m
+2013-09-20 19:15:52 [INFO] <OzBarry> woo[m
+2013-09-20 19:37:49 [INFO] <jemmrich> wow you are going all out[m
+2013-09-20 19:38:09 [INFO] <OzBarry> ;)[m
+2013-09-20 19:57:53 [INFO] <jemmrich> what the hell is that![m
+2013-09-20 19:58:05 [INFO] <OzBarry> it will be a very nice sand door[m
+2013-09-20 19:58:07 [INFO] <OzBarry> :)[m
+2013-09-20 19:58:17 [INFO] <jemmrich> what is this block[m
+2013-09-20 19:58:24 [INFO] <OzBarry> iron[m
+2013-09-20 19:58:37 [INFO] <OzBarry> you can compact iron, gold, redstone, etc.[m
+2013-09-20 19:58:39 [INFO] <jemmrich> but it has a red thing on the top[m
+2013-09-20 19:58:40 [INFO] <OzBarry> most ores[m
+2013-09-20 19:58:46 [INFO] <OzBarry> redstone torch[m
+2013-09-20 19:58:55 [INFO] <jemmrich> interesting[m
+2013-09-20 19:59:04 [INFO] <jemmrich> ohhh[m
+2013-09-20 19:59:22 [INFO] <jemmrich> lol i wonder if endermen will steal our door haha[m
+2013-09-20 19:59:28 [INFO] <OzBarry> nevah![m
+2013-09-20 20:03:31 [INFO] <jemmrich> lol did you see my sign for the potatos in the basement ha[m
+2013-09-20 20:35:05 [INFO] <jemmrich> damnn.... i need more leaves[m
+2013-09-20 20:35:25 [INFO] <OzBarry> all that work, and i forgot this doorway type only works facing w/e, and this is n/s[m
+2013-09-20 20:35:45 [INFO] <OzBarry> i was wondering why wasn't fully retracting[m
+2013-09-20 20:35:46 [INFO] <jemmrich> lol, you could figure out a switch[m
+2013-09-20 20:36:06 [INFO] <jemmrich> ohhhh i see[m
+2013-09-20 20:36:14 [INFO] <jemmrich> why does it only work one direction?[m
+2013-09-20 20:36:27 [INFO] <OzBarry> no idea? minecraft bug, perhaps[m
+2013-09-20 20:36:41 [INFO] <OzBarry> extends fine[m
+2013-09-20 20:36:43 [INFO] <jemmrich> wow cool[m
+2013-09-20 20:36:49 [INFO] <jemmrich> so whats the prob[m
+2013-09-20 20:37:01 [INFO] <OzBarry> doesn't fully retract[m
+2013-09-20 20:37:12 [INFO] <jemmrich> lol the door needs a whole basement to itself hehe[m
+2013-09-20 20:37:20 [INFO] <jemmrich> oh weird[m
+2013-09-20 20:37:28 [INFO] <OzBarry> yeah, i might see if someone has a better build[m
+2013-09-20 20:37:34 [INFO] <jemmrich> hit the switch[m
+2013-09-20 20:38:19 [INFO] <jemmrich> i think its just built that way, is the middle piston built in the position[m
+2013-09-20 20:38:24 [INFO] <jemmrich> or did it get moved[m
+2013-09-20 20:38:37 [INFO] <jemmrich> hmm[m
+2013-09-20 20:38:52 [INFO] <jemmrich> i believe in you[m
+2013-09-20 20:39:37 [INFO] <OzBarry> hah[m
+2013-09-20 20:39:39 [INFO] <OzBarry> got it[m
+2013-09-20 20:39:49 [INFO] <OzBarry> missed a repeater switch being set to 1[m
+2013-09-20 20:39:50 [INFO] <jemmrich> do it[m
+2013-09-20 20:40:00 [INFO] <jemmrich> cooool[m
+2013-09-20 20:40:18 [INFO] <jemmrich> so cool[m
+2013-09-20 20:46:50 [INFO] <jemmrich> check the bedroom[m
+2013-09-20 20:47:12 [INFO] <OzBarry> super sexy[m
+2013-09-20 20:47:16 [INFO] <jemmrich> lol[m
+2013-09-20 20:52:05 [INFO] <jemmrich> we have an impressive world[m
+2013-09-20 20:52:12 [INFO] <jemmrich> what is erin up to[m
+2013-09-20 20:52:28 [INFO] <OzBarry> reading[m
+2013-09-20 20:52:38 [INFO] <OzBarry> *two "n"s at the end :P[m
+2013-09-20 20:53:01 [INFO] <jemmrich> oops :D[m
+2013-09-20 20:53:54 [INFO] <OzBarry> it's alright[m
+2013-09-20 20:56:54 [INFO] <jemmrich> where is the books?[m
+2013-09-20 20:57:04 [INFO] <OzBarry> decorative, second floor[m
+2013-09-20 20:58:01 [INFO] <OzBarry> fuck[m
+2013-09-20 20:58:11 [INFO] <OzBarry> accidently dug into the water[m
+2013-09-20 20:58:19 [INFO] <OzBarry> mucked up my redstone[m
+2013-09-20 20:58:29 [INFO] <jemmrich> :([m
+2013-09-20 21:05:30 [INFO] <OzBarry> mind if i use one of the sticky pistons in storage?[m
+2013-09-20 21:05:35 [INFO] <jemmrich> go for it[m
+2013-09-20 21:09:06 [INFO] <jemmrich> just doing a mockup...[m
+2013-09-20 21:09:19 [INFO] <OzBarry> mockup of what?[m
+2013-09-20 21:09:29 [INFO] <jemmrich> enchantment and portal[m
+2013-09-20 21:09:37 [INFO] <jemmrich> bigger than i expected though[m
+2013-09-20 21:12:40 [INFO] <jemmrich> tell me if this is too big for down here[m
+2013-09-20 21:13:05 [INFO] <OzBarry> seems fine to me[m
+2013-09-20 21:13:09 [INFO] <jemmrich> i want to put a door for the portal so nothing comes in[m
+2013-09-20 21:13:15 [INFO] <OzBarry> since this hole in the floor will be filled in :)[m
+2013-09-20 21:13:19 [INFO] <jemmrich> true that[m
+2013-09-20 21:26:11 [INFO] <jemmrich> where would i find the obsiden[m
+2013-09-20 21:26:18 [INFO] <OzBarry> also decorative[m
+2013-09-20 21:26:33 [INFO] <jemmrich> thanks[m
+2013-09-20 21:29:14 [INFO] <OzBarry> hey james, can you stand and wait on one of the pressure plates?[m
+2013-09-20 21:30:00 [INFO] <OzBarry> ok[m
+2013-09-20 21:30:09 [INFO] <OzBarry> =/[m
+2013-09-20 21:38:56 [INFO] Connection reset
+2013-09-20 21:38:56 [INFO] OzBarry lost connection: disconnect.quitting
+2013-09-20 21:38:56 [INFO] §eOzBarry left the game.
+2013-09-20 21:39:00 [INFO] OzBarry[/206.126.92.85:59093] logged in with entity id 1713431 at ([world] 50.57105098606099, 58.920787077218804, 252.81110644252914)
+2013-09-20 21:45:55 [INFO] <OzBarry> can you stand on a pressure plate for me again?[m
+2013-09-20 21:46:41 [INFO] <OzBarry> and off :)[m
+2013-09-20 21:50:54 [INFO] <OzBarry> :)[m
+2013-09-20 21:53:41 [INFO] <OzBarry> erinn wants to go and grab some food, so i'm going to take her, then i'll be back[m
+2013-09-20 21:53:47 [INFO] <jemmrich> ok[m
+2013-09-20 21:53:51 [INFO] Connection reset
+2013-09-20 21:53:51 [INFO] OzBarry lost connection: disconnect.quitting
+2013-09-20 21:53:51 [INFO] §eOzBarry left the game.
+2013-09-20 21:53:53 [INFO] <jemmrich> :'([m
+2013-09-20 22:12:13 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-09-20 23:06:32 [INFO] Read timed out
+2013-09-20 23:06:32 [INFO] jemmrich lost connection: disconnect.endOfStream
+2013-09-20 23:06:32 [INFO] §ejemmrich left the game.
+2013-09-20 23:10:00 [INFO] jemmrich[/209.213.246.191:55201] logged in with entity id 1778433 at ([world_nether] -2.472456999156474, 67.0, 35.69999998807914)
+2013-09-20 23:33:35 [INFO] Connection reset
+2013-09-20 23:33:35 [INFO] jemmrich lost connection: disconnect.quitting
+2013-09-20 23:33:35 [INFO] §ejemmrich left the game.
+2013-09-20 23:35:45 [INFO] jemmrich[/209.213.246.191:55324] logged in with entity id 1781447 at ([world_nether] -1.8061622348160438, 67.0, 35.18536411629928)
+2013-09-20 23:42:56 [INFO] jemmrich issued server command: /give jemmrich 259
+2013-09-20 23:42:56 [INFO] jemmrich: Gave jemmrich some 259 (FLINT_AND_STEEL)[m
+2013-09-20 23:52:30 [WARNING] jemmrich moved wrongly!
+2013-09-21 02:23:48 [INFO] jemmrich lost connection: disconnect.quitting
+2013-09-21 02:23:48 [INFO] Connection reset
+2013-09-21 02:23:48 [INFO] §ejemmrich left the game.
+2013-09-21 09:31:50 [INFO] OzBarry[/206.126.92.85:34594] logged in with entity id 1909329 at ([world] 52.67043059880858, 63.0, 256.9396137509568)
+2013-09-21 12:05:05 [WARNING] OzBarry moved wrongly!
+2013-09-21 12:08:50 [INFO] Connection reset
+2013-09-21 12:08:50 [INFO] OzBarry lost connection: disconnect.quitting
+2013-09-21 12:08:50 [INFO] §eOzBarry left the game.
+2013-09-21 12:56:22 [INFO] OzBarry [/206.126.92.85:34950] lost connection
+2013-09-21 13:16:34 [INFO] OzBarry [/206.126.92.85:35150] lost connection
+2013-09-21 13:16:43 [INFO] OzBarry [/206.126.92.85:35154] lost connection
+2013-09-21 13:48:32 [INFO] OzBarry [/206.126.92.85:35458] lost connection
+2013-09-21 13:49:04 [INFO] Disconnecting OzBarry [/206.126.92.85:35460]: Took too long to log in
+2013-09-21 13:50:08 [INFO] OzBarry [/206.126.92.85:35468] lost connection
+2013-09-21 13:51:35 [INFO] Disconnecting OzBarry [/206.126.92.85:35504]: Took too long to log in
+2013-09-21 13:51:35 [INFO] Read timed out
+2013-09-21 14:42:16 [INFO] OzBarry [/206.126.92.85:35701] lost connection
+2013-09-21 14:42:36 [INFO] jemmrich [/209.213.246.191:56678] lost connection
+2013-09-21 14:52:51 [INFO] Starting minecraft server version 1.6.2
+2013-09-21 14:52:51 [INFO] Loading properties
+2013-09-21 14:52:51 [INFO] Default game type: SURVIVAL
+2013-09-21 14:52:51 [INFO] Generating keypair
+2013-09-21 14:52:52 [INFO] Starting Minecraft server on *:25565
+2013-09-21 14:52:52 [INFO] This server is running CraftBukkit version git-Bukkit-1.6.2-R1.0-b2879jnks (MC: 1.6.2) (Implementing API version 1.6.2-R1.0)
+2013-09-21 14:52:53 [INFO] [dynmap] Loading dynmap v1.8-786
+2013-09-21 14:52:53 [WARNING] **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+2013-09-21 14:52:53 [WARNING] The server will make no attempt to authenticate usernames. Beware.
+2013-09-21 14:52:53 [WARNING] While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+2013-09-21 14:52:53 [WARNING] To change this, set "online-mode" to "true" in the server.properties file.
+2013-09-21 14:52:53 [INFO] Preparing level "world"
+2013-09-21 14:52:53 [INFO] Preparing start region for level 0 (Seed: 4943191395051569586)
+2013-09-21 14:52:54 [INFO] Preparing spawn area: 56%
+2013-09-21 14:52:54 [INFO] Preparing start region for level 1 (Seed: -4110950347534694326)
+2013-09-21 14:52:55 [INFO] Preparing start region for level 2 (Seed: -4110950347534694326)
+2013-09-21 14:52:55 [INFO] [dynmap] Enabling dynmap v1.8-786
+2013-09-21 14:52:55 [INFO] [dynmap] Using Bukkit Permissions (superperms) for access control
+2013-09-21 14:52:55 [INFO] [dynmap] Web interface permissions only available for online users
+2013-09-21 14:52:56 [INFO] [dynmap] Extracted files upgraded
+2013-09-21 14:52:57 [INFO] [dynmap] Loaded 21 shaders.
+2013-09-21 14:52:57 [INFO] [dynmap] Loaded 82 perspectives.
+2013-09-21 14:52:57 [INFO] [dynmap] Loaded 12 lightings.
+2013-09-21 14:52:57 [INFO] [dynmap] Web server started on address 0.0.0.0:8123
+2013-09-21 14:52:57 [INFO] [dynmap] version 1.8-786 is enabled - core version 1.8-1746
+2013-09-21 14:52:57 [INFO] [dynmap] Loaded 3 maps of world 'world'.
+2013-09-21 14:52:57 [INFO] [dynmap] Loaded 76 pending tile renders for world 'world
+2013-09-21 14:52:57 [INFO] [dynmap] Loaded 2 maps of world 'world_nether'.
+2013-09-21 14:52:57 [INFO] [dynmap] Loaded 4 pending tile renders for world 'world_nether
+2013-09-21 14:52:57 [INFO] [dynmap] Loaded 2 maps of world 'world_the_end'.
+2013-09-21 14:52:57 [INFO] [dynmap] Enabled
+2013-09-21 14:52:57 [INFO] Server permissions file permissions.yml is empty, ignoring it
+2013-09-21 14:52:58 [INFO] Done (4.855s)! For help, type "help" or "?"
+2013-09-21 14:52:58 [INFO] [dynmap] Loading default resource pack
+2013-09-21 14:53:01 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-09-21 14:53:17 [INFO] jemmrich[/209.213.246.191:56793] logged in with entity id 504 at ([world] 54.36432308519259, 67.0, 264.21234234562814)
+2013-09-21 14:54:34 [INFO] OzBarry[/206.126.92.85:35787] logged in with entity id 1815 at ([world] 56.16016616590946, 67.0, 264.1140703979803)
+2013-09-21 14:54:53 [INFO] <OzBarry> pssst[m
+2013-09-21 14:54:57 [INFO] <jemmrich> yay, the only prob is that now anyone can join[m
+2013-09-21 14:56:10 [INFO] <jemmrich> im farming TONS of chickens now, so we have lots of arrows[m
+2013-09-21 14:56:40 [INFO] <OzBarry> :)[m
+2013-09-21 14:59:27 [INFO] <OzBarry> i've been getting lots of good loot from the abandoned mine[m
+2013-09-21 15:00:18 [INFO] <jemmrich> nice, the one you found?[m
+2013-09-21 15:00:24 [INFO] <OzBarry> yeah[m
+2013-09-21 15:02:44 [INFO] <OzBarry> and there is still so much i haven't cleared out[m
+2013-09-21 15:03:21 [INFO] <jemmrich> they are so big arent they.. i im still working on the mine i founf[m
+2013-09-21 15:03:26 [INFO] <jemmrich> when we first started[m
+2013-09-21 15:03:41 [INFO] <OzBarry> nice[m
+2013-09-21 15:03:48 [INFO] <OzBarry> need a trolly system in there?[m
+2013-09-21 15:11:38 [INFO] <jemmrich> i dont think so[m
+2013-09-21 15:26:03 [INFO] <jemmrich> cant find a netherfortress :([m
+2013-09-21 15:26:10 [INFO] <OzBarry> i believe in you![m
+2013-09-21 15:26:46 [INFO] <jemmrich> did oyou know that you can make light sensors now[m
+2013-09-21 15:26:53 [INFO] <OzBarry> yup[m
+2013-09-21 15:27:00 [INFO] <OzBarry> no idea how to, but i know it's possible to do[m
+2013-09-21 15:33:50 [INFO] <OzBarry> so, i may have just built an automated rail system[m
+2013-09-21 15:34:03 [INFO] <OzBarry> with the furnace powered carts[m
+2013-09-21 15:34:06 [INFO] <jemmrich> whaaaaat[m
+2013-09-21 15:34:11 [INFO] <jemmrich> awesomeee[m
+2013-09-21 15:34:32 [INFO] <OzBarry> so now i set it up in a loop between here and that place jsut outside of the jungle[m
+2013-09-21 15:39:17 [INFO] <jemmrich> awesome :D[m
+2013-09-21 15:39:33 [INFO] <jemmrich> so we just need a bucket of lava to power it when we use it[m
+2013-09-21 15:39:55 [INFO] <OzBarry> that's only with a mod :([m
+2013-09-21 15:40:05 [INFO] <jemmrich> what do you mean[m
+2013-09-21 15:46:17 [INFO] <OzBarry> lava powered trollies are from a mod, afak[m
+2013-09-21 15:46:21 [INFO] <OzBarry> *afaik[m
+2013-09-21 15:46:28 [INFO] <jemmrich> no i dont think so[m
+2013-09-21 15:48:02 [INFO] <OzBarry> how do you do this lava powered silliness?[m
+2013-09-21 15:48:18 [INFO] <jemmrich> put a furnace inside a minecart[m
+2013-09-21 15:48:31 [INFO] <jemmrich> then put coal or lava in the furnace[m
+2013-09-21 15:49:03 [INFO] <OzBarry> oh, i thought it was coal only - does that work for regular furnaces, too?[m
+2013-09-21 15:50:11 [INFO] <jemmrich> yup[m
+2013-09-21 15:50:21 [INFO] <OzBarry> whaaaaaat[m
+2013-09-21 15:50:31 [INFO] <jemmrich> lava burns much longer than coal, but you waste iron doing it so its a trade off[m
+2013-09-21 15:50:40 [INFO] <OzBarry> but, when a furnace is in a cart, you can't access it like a furnace[m
+2013-09-21 15:51:02 [INFO] <jemmrich> i think you can, just try coal first, safer[m
+2013-09-21 15:51:27 [INFO] <OzBarry> it won't let me into the furnace - the only thing i can do is hold coal, and right click on the cart[m
+2013-09-21 15:51:37 [INFO] <jemmrich> oh, weird :([m
+2013-09-21 15:55:51 [INFO] <jemmrich> i found a fortress, its soo far away, going to be a huge task to make it safe...[m
+2013-09-21 15:56:02 [INFO] <jemmrich> going to need lots of cobblestone[m
+2013-09-21 15:56:11 [INFO] <OzBarry> we do have a lot[m
+2013-09-21 15:58:13 [INFO] <OzBarry> can trains pass through nether portals?[m
+2013-09-21 15:58:37 [INFO] <jemmrich> good question... you can throw things[m
+2013-09-21 16:01:12 [INFO] <OzBarry> i'm going to go pick up some food, i should be back in about 20 minutes[m
+2013-09-21 16:01:23 [INFO] <jemmrich> ok[m
+2013-09-21 16:01:27 [INFO] OzBarry lost connection: disconnect.quitting
+2013-09-21 16:01:27 [INFO] Connection reset
+2013-09-21 16:01:27 [INFO] §eOzBarry left the game.
+2013-09-21 18:11:49 [INFO] jemmrich lost connection: disconnect.quitting
+2013-09-21 18:11:49 [INFO] Connection reset
+2013-09-21 18:11:49 [INFO] §ejemmrich left the game.
+2013-09-21 18:19:02 [INFO] OzBarry[/206.126.92.85:36165] logged in with entity id 271409 at ([world] 68.94093625229752, 71.875, 253.3799018854066)
+2013-09-21 19:03:52 [INFO] jemmrich[/209.213.246.191:57364] logged in with entity id 387487 at ([world_nether] -328.68273498933326, 67.0, 39.69999998807914)
+2013-09-21 19:04:21 [INFO] jemmrich lost connection: disconnect.quitting
+2013-09-21 19:04:21 [INFO] Connection reset
+2013-09-21 19:04:22 [INFO] §ejemmrich left the game.
+2013-09-21 19:04:23 [INFO] Connection reset
+2013-09-21 19:04:23 [INFO] OzBarry lost connection: disconnect.quitting
+2013-09-21 19:04:23 [INFO] §eOzBarry left the game.
+2013-09-21 19:04:52 [INFO] Stopping server
+2013-09-21 19:04:52 [INFO] [dynmap] Disabling dynmap v1.8-786

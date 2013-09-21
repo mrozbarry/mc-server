@@ -1,0 +1,38 @@
+tiles:
+-   class: org.dynmap.hdmap.HDMapTile
+    data: -4,5,iso_SE_60_vlowres,0
+-   class: org.dynmap.hdmap.HDMapTile
+    data: -4,6,iso_SE_60_vlowres,0
+-   class: org.dynmap.hdmap.HDMapTile
+    data: -3,3,iso_SE_60_vlowres,0
+-   class: org.dynmap.hdmap.HDMapTile
+    data: -3,4,iso_SE_60_vlowres,0
+-   class: org.dynmap.hdmap.HDMapTile
+    data: -3,6,iso_SE_60_vlowres,0
+-   class: org.dynmap.hdmap.HDMapTile
+    data: -2,3,iso_SE_60_vlowres,0
+-   class: org.dynmap.hdmap.HDMapTile
+    data: -2,4,iso_SE_60_vlowres,0
+-   class: org.dynmap.hdmap.HDMapTile
+    data: -2,5,iso_SE_60_vlowres,0
+-   class: org.dynmap.hdmap.HDMapTile
+    data: -1,5,iso_SE_60_vlowres,0
+-   class: org.dynmap.hdmap.HDMapTile
+    data: -6,3,iso_SE_60_vlowres,0
+-   class: org.dynmap.hdmap.HDMapTile
+    data: -5,3,iso_SE_60_vlowres,0
+-   class: org.dynmap.hdmap.HDMapTile
+    data: -5,5,iso_SE_60_vlowres,0
+-   class: org.dynmap.hdmap.HDMapTile
+    data: -4,2,iso_SE_60_vlowres,0
+-   class: org.dynmap.hdmap.HDMapTile
+    data: -5,0,iso_S_90_vlowres,0
+-   class: org.dynmap.hdmap.HDMapTile
+    data: -4,3,iso_SE_60_vlowres,0
+-   class: org.dynmap.hdmap.HDMapTile
+    data: -7,0,iso_S_90_vlowres,0
+invalid:
+    nt:
+    - ffffffff/0:0/0:0/0:10000000/0:7c000000/0:70000000/0:d8000000/0:30000000/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0
+    flat:
+    - ffffffff/0:a000000/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0
