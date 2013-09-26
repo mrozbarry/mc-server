@@ -3049,3 +3049,338 @@ java.lang.IllegalArgumentException: Too big view radius!
 2013-09-22 18:21:22 [INFO] jemmrich lost connection: disconnect.quitting
 2013-09-22 18:21:23 [INFO] §ejemmrich left the game.
 2013-09-22 18:22:37 [INFO] Stopping server
+2013-09-22 18:24:06 [INFO] Starting minecraft server version 1.6.2
+2013-09-22 18:24:06 [INFO] Loading properties
+2013-09-22 18:24:06 [INFO] Default game type: SURVIVAL
+2013-09-22 18:24:06 [INFO] Generating keypair
+2013-09-22 18:24:06 [INFO] Starting Minecraft server on *:25565
+2013-09-22 18:24:07 [INFO] This server is running CraftBukkit version git-Bukkit-1.6.2-R1.0-b2879jnks (MC: 1.6.2) (Implementing API version 1.6.2-R1.0)
+2013-09-22 18:24:07 [INFO] [dynmap] Loading dynmap v1.8-786
+2013-09-22 18:24:07 [WARNING] **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+2013-09-22 18:24:07 [WARNING] The server will make no attempt to authenticate usernames. Beware.
+2013-09-22 18:24:07 [WARNING] While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+2013-09-22 18:24:07 [WARNING] To change this, set "online-mode" to "true" in the server.properties file.
+2013-09-22 18:24:07 [INFO] Preparing level "world"
+2013-09-22 18:24:07 [INFO] Preparing start region for level 0 (Seed: 4943191395051569586)
+2013-09-22 18:24:08 [INFO] Preparing spawn area: 52%
+2013-09-22 18:24:09 [INFO] Preparing start region for level 1 (Seed: -4110950347534694326)
+2013-09-22 18:24:10 [INFO] Preparing spawn area: 97%
+2013-09-22 18:24:10 [INFO] Preparing start region for level 2 (Seed: -4110950347534694326)
+2013-09-22 18:24:10 [INFO] [dynmap] Enabling dynmap v1.8-786
+2013-09-22 18:24:10 [INFO] [dynmap] Using Bukkit Permissions (superperms) for access control
+2013-09-22 18:24:10 [INFO] [dynmap] Web interface permissions only available for online users
+2013-09-22 18:24:10 [INFO] [dynmap] Extracted files upgraded
+2013-09-22 18:24:11 [INFO] [dynmap] Loaded 21 shaders.
+2013-09-22 18:24:11 [INFO] [dynmap] Loaded 82 perspectives.
+2013-09-22 18:24:11 [INFO] [dynmap] Loaded 12 lightings.
+2013-09-22 18:24:11 [INFO] [dynmap] Web server started on address 0.0.0.0:8123
+2013-09-22 18:24:11 [INFO] [dynmap] version 1.8-786 is enabled - core version 1.8-1746
+2013-09-22 18:24:11 [INFO] [dynmap] Loaded 3 maps of world 'world'.
+2013-09-22 18:24:11 [INFO] [dynmap] Loaded 41 pending tile renders for world 'world
+2013-09-22 18:24:11 [INFO] [dynmap] Loaded 2 maps of world 'world_nether'.
+2013-09-22 18:24:11 [INFO] [dynmap] Loaded 2 pending tile renders for world 'world_nether
+2013-09-22 18:24:11 [INFO] [dynmap] Loaded 2 maps of world 'world_the_end'.
+2013-09-22 18:24:11 [INFO] [dynmap] Enabled
+2013-09-22 18:24:12 [INFO] Server permissions file permissions.yml is empty, ignoring it
+2013-09-22 18:24:12 [INFO] Done (4.737s)! For help, type "help" or "?"
+2013-09-22 18:24:13 [INFO] [dynmap] Loading default resource pack
+2013-09-22 18:24:17 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-09-23 01:40:39 [INFO] jemmrich[/209.213.246.191:47365] logged in with entity id 1071 at ([world] 50.17467936232331, 88.0, 217.88433879030714)
+2013-09-23 02:15:51 [INFO] Connection reset
+2013-09-23 02:15:51 [INFO] jemmrich lost connection: disconnect.quitting
+2013-09-23 02:15:51 [INFO] §ejemmrich left the game.
+2013-09-23 02:16:22 [INFO] jemmrich[/209.213.246.191:47400] logged in with entity id 10090 at ([world_nether] -372.76297442953796, 74.0, -230.54861856808205)
+2013-09-23 02:38:29 [INFO] jemmrich lost connection: disconnect.quitting
+2013-09-23 02:38:29 [INFO] Connection reset
+2013-09-23 02:38:29 [INFO] §ejemmrich left the game.
+2013-09-23 08:08:21 [INFO] OzBarry[/206.126.92.85:43448] logged in with entity id 41069 at ([world] 55.27122413697881, 67.0, 265.172179744374)
+2013-09-23 08:17:19 [INFO] Read timed out
+2013-09-23 08:17:19 [INFO] OzBarry lost connection: disconnect.endOfStream
+2013-09-23 08:17:20 [INFO] §eOzBarry left the game.
+2013-09-23 08:18:04 [INFO] OzBarry[/206.126.92.85:43461] logged in with entity id 47024 at ([world] 48.125329140453964, 67.0, 259.25905654802494)
+2013-09-23 08:41:55 [INFO] OzBarry went up in flames
+2013-09-23 08:42:09 [INFO] Connection reset
+2013-09-23 08:42:09 [INFO] OzBarry lost connection: disconnect.quitting
+2013-09-23 08:42:09 [INFO] §eOzBarry left the game.
+2013-09-23 20:29:52 [INFO] OzBarry[/206.126.92.85:48064] logged in with entity id 78224 at ([world] 61.80799123245389, 67.0, 266.89034835074517)
+2013-09-23 20:45:17 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-09-23 22:09:17 [INFO] Connection reset
+2013-09-23 22:09:17 [INFO] OzBarry lost connection: disconnect.quitting
+2013-09-23 22:09:17 [INFO] §eOzBarry left the game.
+2013-09-23 22:56:14 [INFO] jemmrich[/209.213.246.191:53051] logged in with entity id 159353 at ([world] 61.5, 65.0, 262.5)
+2013-09-23 22:58:20 [INFO] Connection reset
+2013-09-23 22:58:20 [INFO] jemmrich lost connection: disconnect.quitting
+2013-09-23 22:58:20 [INFO] §ejemmrich left the game.
+2013-09-23 23:06:20 [INFO] jemmrich[/209.213.246.191:53067] logged in with entity id 164909 at ([world] 62.07404686491954, 67.0, 267.00420627030036)
+2013-09-23 23:36:45 [INFO] Connection reset
+2013-09-23 23:36:45 [INFO] jemmrich lost connection: disconnect.quitting
+2013-09-23 23:36:45 [INFO] §ejemmrich left the game.
+2013-09-24 00:03:50 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-09-24 00:11:01 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-09-24 14:34:59 [INFO] jemmrich[/129.97.143.48:44855] logged in with entity id 494238 at ([world] 98.71486634143155, 64.0, 252.96203984423764)
+2013-09-24 14:38:19 [INFO] OzBarry[/129.97.143.48:43027] logged in with entity id 498880 at ([world] 54.256069112856544, 67.0, 263.6763920942358)
+2013-09-24 15:52:07 [INFO] <OzBarry> 8===D[m
+2013-09-24 16:35:51 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-09-24 16:36:11 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-09-24 16:39:01 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-09-24 16:39:32 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-09-24 16:40:37 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-09-24 16:41:09 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-09-24 16:41:14 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-09-24 16:42:21 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-09-24 16:42:27 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-09-24 16:43:30 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-09-24 16:43:33 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-09-24 16:47:43 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-09-24 16:47:50 [INFO] Connection reset
+2013-09-24 16:47:50 [INFO] OzBarry lost connection: disconnect.quitting
+2013-09-24 16:47:50 [INFO] §eOzBarry left the game.
+2013-09-24 16:50:54 [INFO] jemmrich lost connection: disconnect.quitting
+2013-09-24 16:50:54 [INFO] Connection reset
+2013-09-24 16:50:54 [INFO] §ejemmrich left the game.
+2013-09-24 18:14:35 [INFO] OzBarry[/206.126.92.85:33048] logged in with entity id 853171 at ([world] 50.30000001192093, 67.0, 267.69999998807907)
+2013-09-24 18:26:47 [INFO] Read timed out
+2013-09-24 18:26:47 [INFO] OzBarry lost connection: disconnect.endOfStream
+2013-09-24 18:26:47 [INFO] §eOzBarry left the game.
+2013-09-24 18:27:38 [INFO] OzBarry[/206.126.92.85:33083] logged in with entity id 872562 at ([world] 56.023113780835644, 67.0, 264.1739294969708)
+2013-09-24 19:06:14 [INFO] Connection reset
+2013-09-24 19:06:14 [INFO] OzBarry lost connection: disconnect.quitting
+2013-09-24 19:06:14 [INFO] §eOzBarry left the game.
+2013-09-24 19:08:15 [INFO] jemmrich[/209.213.246.191:40418] logged in with entity id 919283 at ([world] -905.7644580659123, 65.0, 244.3000000119209)
+2013-09-24 20:07:49 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-09-24 20:08:37 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-09-24 20:43:42 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-09-24 21:00:32 [INFO] OzBarry[/206.126.92.85:33196] logged in with entity id 1082367 at ([world] 110.08501724292901, 61.0, 267.3416758085201)
+2013-09-24 21:00:40 [INFO] <OzBarry> hey sexy[m
+2013-09-24 21:01:04 [INFO] Connection reset
+2013-09-24 21:01:04 [INFO] OzBarry lost connection: disconnect.quitting
+2013-09-24 21:01:04 [INFO] §eOzBarry left the game.
+2013-09-24 21:01:19 [INFO] OzBarry[/206.126.92.85:33223] logged in with entity id 1083636 at ([world] 105.9715789438113, 64.0, 270.1175483958647)
+2013-09-24 21:01:28 [INFO] <OzBarry> hello again[m
+2013-09-24 21:10:49 [INFO] <jemmrich> im comin... hooooooommmmmeeeeee[m
+2013-09-24 21:11:03 [INFO] <jemmrich> ima coming... hooooo oohhhh oommeee[m
+2013-09-24 21:11:06 [INFO] <OzBarry> lol[m
+2013-09-24 21:11:15 [INFO] <jemmrich> lol[m
+2013-09-24 21:11:20 [INFO] <jemmrich> i have TONS of iron[m
+2013-09-24 21:11:28 [INFO] <jemmrich> and 4 diamond[m
+2013-09-24 21:11:34 [INFO] <OzBarry> whoooaaahhh[m
+2013-09-24 21:19:17 [INFO] <OzBarry> did you like the train departure/arrival noise?[m
+2013-09-24 21:19:35 [INFO] <jemmrich> :o[m
+2013-09-24 21:20:04 [INFO] <jemmrich> LOL[m
+2013-09-24 21:20:07 [INFO] <jemmrich> awesome!!![m
+2013-09-24 21:20:16 [INFO] <jemmrich> lol[m
+2013-09-24 21:20:40 [INFO] <OzBarry> you would mess up my notes :P[m
+2013-09-24 21:20:47 [INFO] <jemmrich> ohh[m
+2013-09-24 21:20:50 [INFO] <jemmrich> OOPS[m
+2013-09-24 21:20:58 [INFO] <jemmrich> i didnt know how they work[m
+2013-09-24 21:21:01 [INFO] <OzBarry> lol[m
+2013-09-24 21:21:14 [INFO] <OzBarry> right click changes note, one hit will make it make the noise[m
+2013-09-24 21:21:25 [INFO] <jemmrich> yup lol i messed it all up[m
+2013-09-24 21:21:27 [INFO] <jemmrich> :D[m
+2013-09-24 21:21:28 [INFO] <OzBarry> different blocks touching it make different instrument noises[m
+2013-09-24 21:23:01 [INFO] <jemmrich> lol[m
+2013-09-24 21:34:27 [INFO] <OzBarry> oh you[m
+2013-09-24 21:34:31 [INFO] <jemmrich> lol[m
+2013-09-24 21:39:51 [INFO] <OzBarry> do we have any soul sand?[m
+2013-09-24 21:39:59 [INFO] <jemmrich> yes we do[m
+2013-09-24 21:40:11 [INFO] <jemmrich> at the portal chest[m
+2013-09-24 21:40:14 [INFO] <OzBarry> woop woop[m
+2013-09-24 21:42:33 [INFO] <OzBarry> james, remember when you shift-clicked and made a tonne of workbenches? i just remembered and loled[m
+2013-09-24 21:42:44 [INFO] <jemmrich> lol[m
+2013-09-24 21:42:57 [INFO] <jemmrich> not supposed to remember that[m
+2013-09-24 21:43:31 [INFO] <jemmrich> want me to get you soul sand[m
+2013-09-24 21:43:38 [INFO] <OzBarry> no, i got some[m
+2013-09-24 21:50:48 [INFO] <OzBarry> i just made the train station door to come in a pressure pad, but with a switch underneath...[m
+2013-09-24 21:50:58 [INFO] <OzBarry> ...to disable the outdoor pressure plate[m
+2013-09-24 21:52:55 [INFO] <jemmrich> not sure what you mean[m
+2013-09-24 21:53:11 [INFO] <OzBarry> I can show you[m
+2013-09-24 21:54:11 [INFO] <OzBarry> try coming in[m
+2013-09-24 21:54:21 [INFO] <OzBarry> now try[m
+2013-09-24 21:54:47 [INFO] <OzBarry> okay, now let me flip the switch[m
+2013-09-24 21:54:50 [INFO] <jemmrich> cool[m
+2013-09-24 21:54:53 [INFO] <OzBarry> go out and back in again[m
+2013-09-24 21:55:15 [INFO] <jemmrich> tthat was zombies going in and out lol[m
+2013-09-24 21:55:44 [INFO] <jemmrich> cool :D[m
+2013-09-24 21:55:51 [INFO] <OzBarry> want to see a redstone AND gate?[m
+2013-09-24 21:56:16 [INFO] <OzBarry> switch is input 1, the other is the outdoor pressure plate[m
+2013-09-24 21:56:23 [INFO] <OzBarry> output is over here[m
+2013-09-24 21:56:55 [INFO] <OzBarry> when the light on top is off, the outdoor plate is on[m
+2013-09-24 21:57:58 [INFO] <jemmrich> lol[m
+2013-09-24 21:58:08 [INFO] <OzBarry> :D[m
+2013-09-24 21:58:28 [INFO] <jemmrich> i made a board walk to my tree house[m
+2013-09-24 21:58:44 [INFO] <OzBarry> :D[m
+2013-09-24 21:59:19 [INFO] <OzBarry> lol[m
+2013-09-24 21:59:24 [INFO] <jemmrich> lmao[m
+2013-09-24 21:59:41 [INFO] <jemmrich> you son of a biscuit box[m
+2013-09-24 22:01:32 [INFO] <OzBarry> shhh[m
+2013-09-24 22:01:34 [INFO] <OzBarry> i'm hiding[m
+2013-09-24 22:01:34 [INFO] <jemmrich> lol[m
+2013-09-24 22:02:47 [INFO] <OzBarry> AGATHHHHHHAAAAA[m
+2013-09-24 22:14:14 [WARNING] jemmrich moved wrongly!
+2013-09-24 22:14:17 [INFO] <OzBarry> you sanded the back door, eh?[m
+2013-09-24 22:14:28 [INFO] <jemmrich> it was for you but i forgot lol[m
+2013-09-24 22:14:33 [INFO] <OzBarry> lol[m
+2013-09-24 22:14:33 [INFO] <jemmrich> FAIL[m
+2013-09-24 22:14:40 [INFO] <OzBarry> i'll say[m
+2013-09-24 22:14:47 [INFO] <OzBarry> that's the biggest fail I've EVER seen[m
+2013-09-24 22:14:51 [INFO] <OzBarry> ever[m
+2013-09-24 22:14:54 [INFO] <OzBarry> lol[m
+2013-09-24 22:15:04 [INFO] <jemmrich> lmao you watch your mout[m
+2013-09-24 22:15:08 [INFO] <jemmrich> mouth[m
+2013-09-24 22:15:10 [INFO] <OzBarry> i don't have a mout[m
+2013-09-24 22:15:18 [INFO] <OzBarry> :P[m
+2013-09-24 22:15:29 [INFO] <jemmrich> lol[m
+2013-09-24 22:22:46 [INFO] <OzBarry> lol[m
+2013-09-24 22:25:15 [INFO] <OzBarry> lol - zombie is trying to get in mah door, but doesn't know how :P[m
+2013-09-24 22:25:50 [INFO] <jemmrich> LOL[m
+2013-09-24 22:25:56 [INFO] <jemmrich> oops caps[m
+2013-09-24 22:26:02 [INFO] <OzBarry> or was it on purpose?[m
+2013-09-24 22:26:04 [INFO] <OzBarry> hmmm?[m
+2013-09-24 22:26:04 [INFO] <jemmrich> what dor[m
+2013-09-24 22:26:12 [INFO] <OzBarry> train station door[m
+2013-09-24 22:26:17 [INFO] <OzBarry> the ho-dor[m
+2013-09-24 22:26:23 [INFO] <jemmrich> :o[m
+2013-09-24 22:26:26 [INFO] <jemmrich> lol[m
+2013-09-24 22:26:47 [INFO] Connection reset
+2013-09-24 22:26:47 [INFO] jemmrich lost connection: disconnect.quitting
+2013-09-24 22:26:47 [INFO] §ejemmrich left the game.
+2013-09-24 22:26:50 [INFO] jemmrich[/209.213.246.191:40940] logged in with entity id 1197851 at ([world] 102.26254204085976, 64.7000000178814, 256.67500001192036)
+2013-09-24 22:27:02 [INFO] <jemmrich> lol can we try something[m
+2013-09-24 22:27:29 [INFO] <OzBarry> sure[m
+2013-09-24 22:27:30 [INFO] <jemmrich> get on this horse, i wanna try disconnecting then reconnecting[m
+2013-09-24 22:28:00 [INFO] Connection reset
+2013-09-24 22:28:00 [INFO] jemmrich lost connection: disconnect.quitting
+2013-09-24 22:28:00 [INFO] §ejemmrich left the game.
+2013-09-24 22:28:08 [INFO] jemmrich[/209.213.246.191:40946] logged in with entity id 1199543 at ([world] 102.26254204085976, 64.7000000178814, 256.67500001192036)
+2013-09-24 22:28:13 [INFO] <OzBarry> the horse went with you[m
+2013-09-24 22:28:15 [INFO] Connection reset
+2013-09-24 22:28:15 [INFO] jemmrich lost connection: disconnect.quitting
+2013-09-24 22:28:15 [INFO] §ejemmrich left the game.
+2013-09-24 22:28:23 [INFO] jemmrich[/209.213.246.191:40953] logged in with entity id 1199985 at ([world] 102.26254204085976, 64.7000000178814, 256.67500001192036)
+2013-09-24 22:28:31 [INFO] <OzBarry> the horse disconnects with you[m
+2013-09-24 22:28:31 [INFO] <jemmrich> did the horse disappear[m
+2013-09-24 22:28:32 [INFO] <OzBarry> weird[m
+2013-09-24 22:28:45 [INFO] <jemmrich> i wondered what would happen[m
+2013-09-24 22:29:13 [INFO] <OzBarry> don't beat up my horse![m
+2013-09-24 22:29:14 [INFO] <OzBarry> lol[m
+2013-09-24 22:29:45 [INFO] <jemmrich> dont beat my cow[m
+2013-09-24 22:29:56 [INFO] <OzBarry> he was being bad![m
+2013-09-24 22:30:19 [INFO] <jemmrich> well i believe i am done for the night[m
+2013-09-24 22:30:29 [INFO] <OzBarry> yeah, me too[m
+2013-09-24 22:30:58 [INFO] <jemmrich> lol[m
+2013-09-24 22:31:03 [INFO] <jemmrich> i tried to egg you[m
+2013-09-24 22:31:07 [INFO] <OzBarry> oh, i saw[m
+2013-09-24 22:31:30 [INFO] <OzBarry> here i am...trying to bathe[m
+2013-09-24 22:31:42 [INFO] <jemmrich> in our drinking water!![m
+2013-09-24 22:31:43 [INFO] <OzBarry> then these jerk zombies are ruining my evening[m
+2013-09-24 22:32:37 [INFO] <OzBarry> oops[m
+2013-09-24 22:32:38 [INFO] <OzBarry> sorry[m
+2013-09-24 22:32:45 [INFO] <jemmrich> lol[m
+2013-09-24 22:34:06 [INFO] <OzBarry> okay, poop time for me...then bed time[m
+2013-09-24 22:34:19 [INFO] <jemmrich> ok, see ya in the morn[m
+2013-09-24 22:34:40 [INFO] <OzBarry> alright, g'night[m
+2013-09-24 22:34:41 [INFO] OzBarry lost connection: disconnect.quitting
+2013-09-24 22:34:41 [INFO] Connection reset
+2013-09-24 22:34:41 [INFO] §eOzBarry left the game.
+2013-09-24 22:34:46 [INFO] Connection reset
+2013-09-24 22:34:46 [INFO] jemmrich lost connection: disconnect.quitting
+2013-09-24 22:34:46 [INFO] §ejemmrich left the game.
+2013-09-25 00:05:25 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-09-25 00:06:01 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-09-25 00:10:53 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-09-25 00:11:30 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-09-25 00:16:17 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-09-25 16:36:46 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-09-25 18:34:05 [INFO] OzBarry[/206.126.92.85:48149] logged in with entity id 1878854 at ([world] 57.69999998807904, 73.0, 262.27274837093296)
+2013-09-25 18:36:32 [INFO] jemmrich[/209.213.246.191:36693] logged in with entity id 1882261 at ([world] 60.30000001192094, 65.5625, 261.54143294147235)
+2013-09-25 18:37:02 [INFO] <OzBarry> mini zombie[m
+2013-09-25 18:37:07 [INFO] <OzBarry> my sword broke :P[m
+2013-09-25 18:37:37 [INFO] <jemmrich> faster little fockers[m
+2013-09-25 18:37:41 [INFO] <jemmrich> fast*[m
+2013-09-25 18:38:08 [INFO] <jemmrich> gee super lag here[m
+2013-09-25 18:38:25 [INFO] <OzBarry> yeah, your connection is quite bad :([m
+2013-09-25 18:38:37 [INFO] Connection reset
+2013-09-25 18:38:37 [INFO] jemmrich lost connection: disconnect.quitting
+2013-09-25 18:38:37 [INFO] §ejemmrich left the game.
+2013-09-25 18:38:44 [INFO] jemmrich[/209.213.246.191:36707] logged in with entity id 1886088 at ([world] 76.2735398991675, 66.0, 269.4115984269162)
+2013-09-25 18:39:01 [INFO] Read timed out
+2013-09-25 18:39:01 [INFO] OzBarry lost connection: disconnect.endOfStream
+2013-09-25 18:39:01 [INFO] §eOzBarry left the game.
+2013-09-25 18:39:31 [INFO] OzBarry[/206.126.92.85:48177] logged in with entity id 1887555 at ([world] 68.28179535804229, 66.0, 266.60116458820664)
+2013-09-25 18:39:40 [INFO] <jemmrich> not sure if this is better[m
+2013-09-25 18:39:47 [INFO] <OzBarry> apparently my connection was going haywire[m
+2013-09-25 18:40:00 [INFO] <jemmrich> looks like it still is[m
+2013-09-25 18:40:09 [INFO] <jemmrich> your connection is red[m
+2013-09-25 18:40:19 [INFO] <OzBarry> on my end, it's full green[m
+2013-09-25 18:40:33 [INFO] <jemmrich> weird[m
+2013-09-25 18:43:37 [INFO] <jemmrich> neat, its not raining in the desert biome[m
+2013-09-25 18:43:43 [INFO] <OzBarry> lol[m
+2013-09-25 18:44:12 [INFO] <jemmrich> lol[m
+2013-09-25 18:51:06 [INFO] <jemmrich> oh dear[m
+2013-09-25 19:07:12 [INFO] <jemmrich> love the minecart in the nether w00t w00t[m
+2013-09-25 19:14:05 [INFO] <OzBarry> a creeper just walked into my train station like a boss[m
+2013-09-25 19:14:11 [INFO] <OzBarry> that was a little scary[m
+2013-09-25 19:14:23 [INFO] <jemmrich> i just walked into lava!!!!!![m
+2013-09-25 19:14:29 [INFO] <jemmrich> almost died[m
+2013-09-25 19:31:39 [INFO] <OzBarry> does gravel naturally spawn in the nether?[m
+2013-09-25 19:31:47 [INFO] <jemmrich> i think so[m
+2013-09-25 19:31:52 [INFO] <OzBarry> huh[m
+2013-09-25 19:44:41 [INFO] <jemmrich> got to the other fortress![m
+2013-09-25 19:44:46 [INFO] <OzBarry> woo![m
+2013-09-25 19:45:04 [INFO] <jemmrich> i forgot to stock up on food and should have brought cobble[m
+2013-09-25 19:47:31 [INFO] <OzBarry> survive! i'm on my way[m
+2013-09-25 19:47:46 [INFO] <OzBarry> i also brought a good load of tracks, so we can expand :)[m
+2013-09-25 19:48:03 [INFO] <jemmrich> nice!, im not sure if you will be able to find my path, but i hope so[m
+2013-09-25 19:48:32 [INFO] <OzBarry> crap, is it already 8:07?[m
+2013-09-25 19:48:32 [INFO] <jemmrich> actually i will try to meet you[m
+2013-09-25 19:48:53 [INFO] <jemmrich> yeah :([m
+2013-09-25 19:52:21 [INFO] <jemmrich> food?[m
+2013-09-25 19:52:41 [INFO] <jemmrich> tanks[m
+2013-09-25 19:52:58 [INFO] <jemmrich> so long, and thanks for all the chicken[m
+2013-09-25 19:53:21 [INFO] <OzBarry> you read the hitch hiker's guide?[m
+2013-09-25 19:53:26 [INFO] <jemmrich> :D[m
+2013-09-25 19:53:35 [INFO] <OzBarry> that's one of my favorite books ever[m
+2013-09-25 19:53:48 [INFO] <jemmrich> i havent read it but heard much about it[m
+2013-09-25 19:55:16 [INFO] <jemmrich> is this going to the other fortress?[m
+2013-09-25 19:55:24 [INFO] <OzBarry> yes[m
+2013-09-25 19:56:31 [INFO] <OzBarry> zombie pig on top of the lava river[m
+2013-09-25 19:56:56 [INFO] <jemmrich> wow[m
+2013-09-25 20:06:06 [INFO] <jemmrich> going to get need a lot of tracks :|[m
+2013-09-25 20:07:55 [INFO] <OzBarry> i'm going to go stock up on more tracks and picks - need anything?[m
+2013-09-25 20:08:14 [INFO] <jemmrich> food, chests, cobble, PICKS!![m
+2013-09-25 20:09:39 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-09-25 20:14:46 [INFO] <OzBarry> so, mark is good for some chiv now[m
+2013-09-25 20:14:54 [INFO] <jemmrich> yup[m
+2013-09-25 20:15:02 [INFO] <jemmrich> he wants to google hang out[m
+2013-09-25 20:15:14 [INFO] <jemmrich> thanks for all the stuff :) look at the end[m
+2013-09-25 20:15:40 [INFO] <jemmrich> forgot to ask grab some ladders lol[m
+2013-09-25 20:16:58 [INFO] <OzBarry> nice[m
+2013-09-25 20:16:59 [INFO] <jemmrich> carefull there is lava right above us right now[m
+2013-09-25 20:17:09 [INFO] <OzBarry> yeah, i forgot to grab a chest[m
+2013-09-25 20:17:10 [INFO] <jemmrich> i lost some of your track :'([m
+2013-09-25 20:18:14 [INFO] <OzBarry> i'm going to jump back to the normal world, then reboot into windows for chiv[m
+2013-09-25 20:18:24 [INFO] <jemmrich> ok me too[m
+2013-09-25 20:19:38 [INFO] Connection reset
+2013-09-25 20:19:38 [INFO] OzBarry lost connection: disconnect.quitting
+2013-09-25 20:19:38 [INFO] §eOzBarry left the game.
+2013-09-25 20:23:10 [INFO] Connection reset
+2013-09-25 20:23:10 [INFO] jemmrich lost connection: disconnect.quitting
+2013-09-25 20:23:10 [INFO] §ejemmrich left the game.
+2013-09-26 00:00:27 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-09-26 14:42:45 [INFO] Stopping server
+2013-09-26 14:42:45 [INFO] [dynmap] Disabling dynmap v1.8-786
+2013-09-26 14:42:45 [WARNING] [dynmap] Task #1391109 for dynmap v1.8-786 generated an exception
+org.bukkit.plugin.IllegalPluginAccessException: Plugin attempted to register task while disabled
+	at org.bukkit.craftbukkit.v1_6_R2.scheduler.CraftScheduler.validate(CraftScheduler.java:394)
+	at org.bukkit.craftbukkit.v1_6_R2.scheduler.CraftScheduler.runTaskTimer(CraftScheduler.java:120)
+	at org.bukkit.craftbukkit.v1_6_R2.scheduler.CraftScheduler.scheduleSyncRepeatingTask(CraftScheduler.java:116)
+	at org.bukkit.craftbukkit.v1_6_R2.scheduler.CraftScheduler.scheduleSyncDelayedTask(CraftScheduler.java:100)
+	at org.dynmap.bukkit.DynmapPlugin$BukkitServer.scheduleServerTask(DynmapPlugin.java:225)
+	at org.dynmap.InternalClientUpdateComponent$3.run(InternalClientUpdateComponent.java:95)
+	at org.bukkit.craftbukkit.v1_6_R2.scheduler.CraftTask.run(CraftTask.java:53)
+	at org.bukkit.craftbukkit.v1_6_R2.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:345)
+	at net.minecraft.server.v1_6_R2.MinecraftServer.t(MinecraftServer.java:522)
+	at net.minecraft.server.v1_6_R2.DedicatedServer.t(DedicatedServer.java:226)
+	at net.minecraft.server.v1_6_R2.MinecraftServer.s(MinecraftServer.java:486)
+	at net.minecraft.server.v1_6_R2.MinecraftServer.run(MinecraftServer.java:419)
+	at net.minecraft.server.v1_6_R2.ThreadServerApplication.run(SourceFile:582)
