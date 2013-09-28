@@ -3384,3 +3384,223 @@ org.bukkit.plugin.IllegalPluginAccessException: Plugin attempted to register tas
 	at net.minecraft.server.v1_6_R2.MinecraftServer.s(MinecraftServer.java:486)
 	at net.minecraft.server.v1_6_R2.MinecraftServer.run(MinecraftServer.java:419)
 	at net.minecraft.server.v1_6_R2.ThreadServerApplication.run(SourceFile:582)
+2013-09-26 14:46:09 [INFO] Starting minecraft server version 1.6.2
+2013-09-26 14:46:09 [INFO] Loading properties
+2013-09-26 14:46:09 [INFO] Default game type: SURVIVAL
+2013-09-26 14:46:09 [INFO] Generating keypair
+2013-09-26 14:46:10 [INFO] Starting Minecraft server on *:25565
+2013-09-26 14:46:10 [INFO] This server is running CraftBukkit version git-Bukkit-1.6.2-R1.0-b2879jnks (MC: 1.6.2) (Implementing API version 1.6.2-R1.0)
+2013-09-26 14:46:10 [INFO] [dynmap] Loading dynmap v1.8-786
+2013-09-26 14:46:11 [WARNING] **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+2013-09-26 14:46:11 [WARNING] The server will make no attempt to authenticate usernames. Beware.
+2013-09-26 14:46:11 [WARNING] While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+2013-09-26 14:46:11 [WARNING] To change this, set "online-mode" to "true" in the server.properties file.
+2013-09-26 14:46:11 [INFO] Preparing level "world"
+2013-09-26 14:46:11 [INFO] Preparing start region for level 0 (Seed: 4943191395051569586)
+2013-09-26 14:46:12 [INFO] Preparing spawn area: 56%
+2013-09-26 14:46:12 [INFO] Preparing start region for level 1 (Seed: -4110950347534694326)
+2013-09-26 14:46:13 [INFO] Preparing start region for level 2 (Seed: -4110950347534694326)
+2013-09-26 14:46:13 [INFO] [dynmap] Enabling dynmap v1.8-786
+2013-09-26 14:46:13 [INFO] [dynmap] Using Bukkit Permissions (superperms) for access control
+2013-09-26 14:46:13 [INFO] [dynmap] Web interface permissions only available for online users
+2013-09-26 14:46:14 [INFO] [dynmap] Extracted files upgraded
+2013-09-26 14:46:14 [INFO] [dynmap] Loaded 21 shaders.
+2013-09-26 14:46:15 [INFO] [dynmap] Loaded 82 perspectives.
+2013-09-26 14:46:15 [INFO] [dynmap] Loaded 12 lightings.
+2013-09-26 14:46:15 [INFO] [dynmap] Web server started on address 0.0.0.0:8123
+2013-09-26 14:46:15 [INFO] [dynmap] version 1.8-786 is enabled - core version 1.8-1746
+2013-09-26 14:46:15 [INFO] [dynmap] Loaded 3 maps of world 'world'.
+2013-09-26 14:46:15 [INFO] [dynmap] Loaded 39 pending tile renders for world 'world
+2013-09-26 14:46:15 [INFO] [dynmap] Loaded 2 maps of world 'world_nether'.
+2013-09-26 14:46:15 [INFO] [dynmap] Loaded 10 pending tile renders for world 'world_nether
+2013-09-26 14:46:15 [INFO] [dynmap] Loaded 2 maps of world 'world_the_end'.
+2013-09-26 14:46:15 [INFO] [dynmap] Enabled
+2013-09-26 14:46:15 [INFO] Server permissions file permissions.yml is empty, ignoring it
+2013-09-26 14:46:15 [INFO] Done (4.854s)! For help, type "help" or "?"
+2013-09-26 14:46:16 [INFO] [dynmap] Loading default resource pack
+2013-09-26 14:46:19 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-09-26 15:03:58 [INFO] jemmrich[/129.97.143.48:43553] logged in with entity id 444 at ([world] 55.684040507099375, 67.0, 263.27313539074595)
+2013-09-26 15:04:02 [INFO] Connection reset
+2013-09-26 15:04:02 [INFO] jemmrich lost connection: disconnect.quitting
+2013-09-26 15:04:02 [INFO] §ejemmrich left the game.
+2013-09-26 20:06:03 [INFO] Psi_Tiki[/184.147.202.31:50087] logged in with entity id 1402 at ([world] 38.5, 70.0, 254.5)
+2013-09-26 20:55:58 [INFO] Connection reset
+2013-09-26 20:55:58 [INFO] Psi_Tiki lost connection: disconnect.quitting
+2013-09-26 20:55:58 [INFO] §ePsi_Tiki left the game.
+2013-09-27 17:38:51 [INFO] Psi_Tiki[/184.147.202.31:49312] logged in with entity id 71185 at ([world] 56.50286167357439, 67.0, 265.55106882897644)
+2013-09-27 17:59:26 [INFO] Psi_Tiki was slain by Spider
+2013-09-27 18:24:21 [INFO] Connection reset
+2013-09-27 18:24:21 [INFO] Psi_Tiki lost connection: disconnect.quitting
+2013-09-27 18:24:21 [INFO] §ePsi_Tiki left the game.
+2013-09-27 18:45:30 [INFO] jemmrich[/209.213.246.191:46621] logged in with entity id 124934 at ([world] 55.684040507099375, 67.0, 263.27313539074595)
+2013-09-27 18:59:03 [INFO] jemmrich lost connection: disconnect.quitting
+2013-09-27 18:59:03 [INFO] Connection reset
+2013-09-27 18:59:03 [INFO] §ejemmrich left the game.
+2013-09-27 18:59:11 [INFO] jemmrich[/209.213.246.191:46674] logged in with entity id 152090 at ([world] 918.699999988079, 63.70000001788139, 81.66881316840055)
+2013-09-27 19:31:28 [INFO] Psi_Tiki[/184.147.202.31:50604] logged in with entity id 229044 at ([world] 48.419580992234884, 67.0, 264.0004608608115)
+2013-09-27 19:31:36 [INFO] <jemmrich> hai[m
+2013-09-27 19:31:45 [INFO] <Psi_Tiki> don't look at anything[m
+2013-09-27 19:31:49 [INFO] <jemmrich> :o[m
+2013-09-27 19:33:25 [INFO] <Psi_Tiki> whattttt[m
+2013-09-27 19:33:37 [INFO] <Psi_Tiki> did you see the cat?[m
+2013-09-27 19:33:47 [INFO] <jemmrich> yup :)[m
+2013-09-27 19:34:10 [INFO] <jemmrich> can you make him sit outside by the door?[m
+2013-09-27 19:38:10 [INFO] <Psi_Tiki> YAY[m
+2013-09-27 19:38:16 [INFO] <Psi_Tiki> another cat[m
+2013-09-27 19:38:46 [INFO] <Psi_Tiki> go on skype or something[m
+2013-09-27 19:38:59 [INFO] <jemmrich> google hangout?[m
+2013-09-27 19:40:38 [INFO] Connection reset
+2013-09-27 19:40:38 [INFO] jemmrich lost connection: disconnect.quitting
+2013-09-27 19:40:38 [INFO] §ejemmrich left the game.
+2013-09-27 19:47:56 [INFO] jemmrich[/209.213.246.191:47057] logged in with entity id 275186 at ([world] 800.5891143374702, 74.7000000178814, 242.84998025368878)
+2013-09-27 19:48:05 [INFO] Connection reset
+2013-09-27 19:48:05 [INFO] jemmrich lost connection: disconnect.quitting
+2013-09-27 19:48:05 [INFO] §ejemmrich left the game.
+2013-09-27 19:52:21 [INFO] jemmrich[/209.213.246.191:47086] logged in with entity id 279679 at ([world] 800.5891143374702, 74.7000000178814, 242.84998025368878)
+2013-09-27 19:53:15 [INFO] Read timed out
+2013-09-27 19:53:15 [INFO] jemmrich lost connection: disconnect.endOfStream
+2013-09-27 19:53:15 [INFO] §ejemmrich left the game.
+2013-09-27 19:53:36 [INFO] jemmrich[/209.213.246.191:47111] logged in with entity id 282118 at ([world] 800.5891143374702, 74.7000000178814, 242.84998025368878)
+2013-09-27 20:29:50 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-09-27 20:30:07 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-09-27 20:30:26 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-09-27 20:30:41 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-09-27 20:30:57 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-09-27 20:31:22 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-09-27 20:31:38 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-09-27 20:32:01 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-09-27 20:32:17 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-09-27 20:32:52 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-09-27 20:59:58 [INFO] <Psi_Tiki> NEOWWWWWWWWWW'[m
+2013-09-27 21:00:12 [INFO] <jemmrich> damn things are meowy[m
+2013-09-27 21:00:23 [INFO] <Psi_Tiki> lol yeahhhhhhhhhh[m
+2013-09-27 21:00:32 [INFO] <Psi_Tiki> brb[m
+2013-09-27 21:00:59 [INFO] <jemmrich> those cats are only controlled by you[m
+2013-09-27 21:01:13 [INFO] <Psi_Tiki> you have a hook in you[m
+2013-09-27 21:01:17 [INFO] <jemmrich> :([m
+2013-09-27 21:01:35 [INFO] <Psi_Tiki> it came loose[m
+2013-09-27 21:01:37 [INFO] <jemmrich> :)[m
+2013-09-27 21:01:40 [INFO] <Psi_Tiki> lol brb[m
+2013-09-27 21:05:28 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-09-27 21:06:12 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-09-27 21:06:15 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-09-27 21:08:43 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-09-27 21:11:26 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-09-27 21:11:48 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-09-27 21:25:29 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-09-27 21:27:15 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-09-27 21:27:45 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-09-27 21:32:27 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-09-27 21:32:45 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-09-27 21:33:04 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-09-27 21:37:20 [INFO] OzBarry[/206.126.92.85:60510] logged in with entity id 436436 at ([world] 58.69645922834191, 67.0, 265.7583912344908)
+2013-09-27 21:37:45 [INFO] <OzBarry> meow[m
+2013-09-27 21:38:16 [INFO] <OzBarry> James, need more rail for the nether?[m
+2013-09-27 21:39:06 [INFO] <jemmrich> sorry[m
+2013-09-27 21:39:07 [INFO] <OzBarry> lol[m
+2013-09-27 21:39:11 [INFO] <jemmrich> i was hunting pigmen[m
+2013-09-27 21:39:17 [INFO] <jemmrich> lol[m
+2013-09-27 21:39:25 [INFO] <jemmrich> umm not sure im just hunting[m
+2013-09-27 21:39:43 [INFO] <OzBarry> just finished Tommy Boy[m
+2013-09-27 21:39:46 [INFO] <jemmrich> i guess we do, since we are all the way to the other fortress[m
+2013-09-27 21:39:51 [INFO] <jemmrich> oh yeah? how was it :D[m
+2013-09-27 21:39:52 [INFO] <OzBarry> the deer wrecking the car was hilarious![m
+2013-09-27 21:40:03 [INFO] <jemmrich> lol! did erinn like it[m
+2013-09-27 21:40:15 [INFO] <OzBarry> she was more amused by my reactions than the movie itself[m
+2013-09-27 21:40:18 [INFO] <OzBarry> she had seen it before[m
+2013-09-27 21:40:22 [INFO] <jemmrich> lol[m
+2013-09-27 21:42:14 [INFO] <jemmrich> so many great moments in that movie[m
+2013-09-27 21:42:21 [INFO] <OzBarry> agreed[m
+2013-09-27 21:54:07 [INFO] <Psi_Tiki> JAMESSSSSSSSS[m
+2013-09-27 21:54:17 [INFO] <jemmrich> yesh[m
+2013-09-27 21:54:23 [INFO] <Psi_Tiki> talk damnit[m
+2013-09-27 21:54:27 [INFO] <jemmrich> iam[m
+2013-09-27 21:54:29 [INFO] <OzBarry> don't do it[m
+2013-09-27 21:54:42 [INFO] <Psi_Tiki> on g talk[m
+2013-09-27 21:54:49 [INFO] <Psi_Tiki> or hang outs[m
+2013-09-27 21:54:53 [INFO] <Psi_Tiki> or w/e[m
+2013-09-27 21:54:57 [INFO] <Psi_Tiki> llol[m
+2013-09-27 21:54:59 [INFO] <jemmrich> iam on it[m
+2013-09-27 21:55:03 [INFO] <jemmrich> i neve hung up[m
+2013-09-27 21:55:26 [INFO] <jemmrich> i can hear you[m
+2013-09-27 21:55:48 [INFO] <OzBarry> James, how many times do i have to tell you to not ignore Mark[m
+2013-09-27 21:55:50 [INFO] <OzBarry> he's a nice guy[m
+2013-09-27 21:58:53 [INFO] <jemmrich> we need more iron[m
+2013-09-27 22:00:06 [INFO] <Psi_Tiki> COME TO ME CATS GOD DAMN IT[m
+2013-09-27 22:01:44 [INFO] <Psi_Tiki> why wont they sit on gras?[m
+2013-09-27 22:02:00 [INFO] <jemmrich> cats dont like grass... just like water[m
+2013-09-27 22:08:29 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-09-27 22:08:47 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-09-27 22:08:52 [INFO] <Psi_Tiki> alex[m
+2013-09-27 22:08:57 [INFO] <Psi_Tiki> join our hangout[m
+2013-09-27 22:08:59 [INFO] <OzBarry> yes?[m
+2013-09-27 22:09:06 [INFO] <Psi_Tiki> so we can hang out with you[m
+2013-09-27 22:09:07 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-09-27 22:09:49 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-09-27 22:10:10 [INFO] <OzBarry> i'm on hangounts, just invite me :)[m
+2013-09-27 22:10:18 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-09-27 22:10:22 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-09-27 22:10:54 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-09-27 22:10:59 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-09-27 22:11:28 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-09-27 22:11:47 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-09-27 22:12:07 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-09-27 22:12:32 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-09-27 22:12:58 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-09-27 22:13:15 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-09-27 22:13:36 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-09-27 22:14:07 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-09-27 22:14:11 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-09-27 22:21:35 [INFO] jemmrich was doomed to fall by Psi_Tiki
+2013-09-27 22:27:39 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-09-27 22:28:12 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-09-27 22:28:40 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-09-27 22:28:55 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-09-27 22:29:20 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-09-27 22:29:26 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-09-27 22:29:44 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-09-27 22:30:13 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-09-27 22:31:30 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-09-27 22:32:14 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-09-27 22:32:45 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-09-27 22:34:16 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-09-27 22:34:38 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-09-27 22:35:04 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-09-27 22:48:37 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-09-27 22:49:08 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-09-27 22:50:06 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-09-27 22:50:33 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-09-27 22:51:05 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-09-27 22:51:35 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-09-27 22:51:40 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-09-27 22:52:09 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-09-27 22:52:16 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-09-27 22:52:33 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-09-27 22:54:00 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-09-27 22:54:20 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-09-27 23:35:37 [INFO] Connection reset
+2013-09-27 23:35:37 [INFO] jemmrich lost connection: disconnect.quitting
+2013-09-27 23:35:37 [INFO] §ejemmrich left the game.
+2013-09-27 23:36:55 [INFO] jemmrich[/209.213.246.191:47395] logged in with entity id 613427 at ([world] 78.41583164140489, 62.0, 154.3000000119207)
+2013-09-27 23:51:37 [INFO] Connection reset
+2013-09-27 23:51:37 [INFO] Psi_Tiki lost connection: disconnect.quitting
+2013-09-27 23:51:37 [INFO] §ePsi_Tiki left the game.
+2013-09-28 00:11:57 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-09-28 00:12:14 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-09-28 00:50:27 [INFO] <OzBarry> i think i'm going to head to bed[m
+2013-09-28 00:50:46 [INFO] <jemmrich> same... i just ran out of cobble[m
+2013-09-28 00:50:54 [INFO] <OzBarry> found a tutorial on automating coal/ore/furnace stuff[m
+2013-09-28 00:51:26 [INFO] <jemmrich> :D[m
+2013-09-28 00:51:33 [INFO] <jemmrich> cant wait to see it in action[m
+2013-09-28 00:51:37 [INFO] <OzBarry> ;)[m
+2013-09-28 00:51:41 [INFO] <OzBarry> anywho, g'night[m
+2013-09-28 00:51:48 [INFO] <jemmrich> have a good night[m
+2013-09-28 00:51:57 [INFO] OzBarry lost connection: disconnect.quitting
+2013-09-28 00:51:57 [INFO] Connection reset
+2013-09-28 00:51:57 [INFO] §eOzBarry left the game.
+2013-09-28 00:52:09 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-09-28 00:53:54 [INFO] Connection reset
+2013-09-28 00:53:54 [INFO] jemmrich lost connection: disconnect.quitting
+2013-09-28 00:53:54 [INFO] §ejemmrich left the game.
+2013-09-28 00:55:08 [INFO] Stopping server
+2013-09-28 00:55:08 [INFO] [dynmap] Disabling dynmap v1.8-786
