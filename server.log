@@ -3604,3 +3604,60 @@ org.bukkit.plugin.IllegalPluginAccessException: Plugin attempted to register tas
 2013-09-28 00:53:54 [INFO] §ejemmrich left the game.
 2013-09-28 00:55:08 [INFO] Stopping server
 2013-09-28 00:55:08 [INFO] [dynmap] Disabling dynmap v1.8-786
+2013-09-28 00:57:01 [INFO] Starting minecraft server version 1.6.2
+2013-09-28 00:57:01 [INFO] Loading properties
+2013-09-28 00:57:01 [INFO] Default game type: SURVIVAL
+2013-09-28 00:57:01 [INFO] Generating keypair
+2013-09-28 00:57:02 [INFO] Starting Minecraft server on *:25565
+2013-09-28 00:57:02 [INFO] This server is running CraftBukkit version git-Bukkit-1.6.2-R1.0-b2879jnks (MC: 1.6.2) (Implementing API version 1.6.2-R1.0)
+2013-09-28 00:57:02 [INFO] [dynmap] Loading dynmap v1.8-786
+2013-09-28 00:57:02 [WARNING] **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+2013-09-28 00:57:02 [WARNING] The server will make no attempt to authenticate usernames. Beware.
+2013-09-28 00:57:02 [WARNING] While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+2013-09-28 00:57:02 [WARNING] To change this, set "online-mode" to "true" in the server.properties file.
+2013-09-28 00:57:02 [INFO] Preparing level "world"
+2013-09-28 00:57:02 [INFO] Preparing start region for level 0 (Seed: 4943191395051569586)
+2013-09-28 00:57:03 [INFO] Preparing spawn area: 56%
+2013-09-28 00:57:04 [INFO] Preparing start region for level 1 (Seed: -4110950347534694326)
+2013-09-28 00:57:05 [INFO] Preparing start region for level 2 (Seed: -4110950347534694326)
+2013-09-28 00:57:05 [INFO] [dynmap] Enabling dynmap v1.8-786
+2013-09-28 00:57:05 [INFO] [dynmap] Using Bukkit Permissions (superperms) for access control
+2013-09-28 00:57:05 [INFO] [dynmap] Web interface permissions only available for online users
+2013-09-28 00:57:05 [INFO] [dynmap] Extracted files upgraded
+2013-09-28 00:57:06 [INFO] [dynmap] Loaded 21 shaders.
+2013-09-28 00:57:06 [INFO] [dynmap] Loaded 82 perspectives.
+2013-09-28 00:57:06 [INFO] [dynmap] Loaded 12 lightings.
+2013-09-28 00:57:07 [INFO] [dynmap] Web server started on address 0.0.0.0:8123
+2013-09-28 00:57:07 [INFO] [dynmap] version 1.8-786 is enabled - core version 1.8-1746
+2013-09-28 00:57:07 [INFO] [dynmap] Loaded 3 maps of world 'world'.
+2013-09-28 00:57:07 [INFO] [dynmap] Loaded 78 pending tile renders for world 'world
+2013-09-28 00:57:07 [INFO] [dynmap] Loaded 2 maps of world 'world_nether'.
+2013-09-28 00:57:07 [INFO] [dynmap] Loaded 18 pending tile renders for world 'world_nether
+2013-09-28 00:57:07 [INFO] [dynmap] Loaded 2 maps of world 'world_the_end'.
+2013-09-28 00:57:07 [INFO] [dynmap] Enabled
+2013-09-28 00:57:07 [INFO] Server permissions file permissions.yml is empty, ignoring it
+2013-09-28 00:57:07 [INFO] Done (4.763s)! For help, type "help" or "?"
+2013-09-28 00:57:08 [INFO] [dynmap] Loading default resource pack
+2013-09-28 00:57:11 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-09-28 12:36:39 [INFO] OzBarry[/206.126.92.85:59584] logged in with entity id 2870 at ([world] 47.59032076116899, 67.0, 264.70162735945337)
+2013-09-28 16:10:19 [INFO] OzBarry lost connection: disconnect.quitting
+2013-09-28 16:10:19 [INFO] Connection reset
+2013-09-28 16:10:19 [INFO] §eOzBarry left the game.
+2013-09-28 21:44:04 [INFO] Psi_Tiki[/184.147.202.31:50070] logged in with entity id 436738 at ([world] 55.6377823454527, 67.0, 261.10064170618034)
+2013-09-28 22:17:34 [INFO] Psi_Tiki lost connection: disconnect.quitting
+2013-09-28 22:17:34 [INFO] Connection reset
+2013-09-28 22:17:34 [INFO] §ePsi_Tiki left the game.
+2013-09-29 13:43:28 [INFO] Psi_Tiki[/184.147.202.31:49378] logged in with entity id 703976 at ([world] 55.01420315573719, 67.0, 263.87169370316286)
+2013-09-29 14:39:39 [INFO] Connection reset
+2013-09-29 14:39:39 [INFO] Psi_Tiki lost connection: disconnect.endOfStream
+2013-09-29 14:39:39 [INFO] §ePsi_Tiki left the game.
+2013-09-29 16:56:09 [INFO] Psi_Tiki[/184.147.202.31:51504] logged in with entity id 844141 at ([world] 54.92385401627273, 67.0, 263.602363322643)
+2013-09-29 17:40:20 [INFO] Psi_Tiki lost connection: disconnect.quitting
+2013-09-29 17:40:20 [INFO] Connection reset
+2013-09-29 17:40:20 [INFO] §ePsi_Tiki left the game.
+2013-09-29 20:39:10 [INFO] Psi_Tiki[/184.147.202.31:52685] logged in with entity id 996961 at ([world] 55.129924253597814, 67.0, 263.83155466285945)
+2013-09-29 21:10:06 [INFO] Connection reset
+2013-09-29 21:10:06 [INFO] Psi_Tiki lost connection: disconnect.quitting
+2013-09-29 21:10:06 [INFO] §ePsi_Tiki left the game.
+2013-09-30 15:36:40 [INFO] Stopping server
+2013-09-30 15:36:40 [INFO] [dynmap] Disabling dynmap v1.8-786
