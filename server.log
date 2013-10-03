@@ -3661,3 +3661,151 @@ org.bukkit.plugin.IllegalPluginAccessException: Plugin attempted to register tas
 2013-09-29 21:10:06 [INFO] §ePsi_Tiki left the game.
 2013-09-30 15:36:40 [INFO] Stopping server
 2013-09-30 15:36:40 [INFO] [dynmap] Disabling dynmap v1.8-786
+2013-09-30 21:06:58 [INFO] Starting minecraft server version 1.6.2
+2013-09-30 21:06:58 [INFO] Loading properties
+2013-09-30 21:06:58 [INFO] Default game type: SURVIVAL
+2013-09-30 21:06:58 [INFO] Generating keypair
+2013-09-30 21:06:58 [INFO] Starting Minecraft server on *:25565
+2013-09-30 21:06:59 [INFO] This server is running CraftBukkit version git-Bukkit-1.6.2-R1.0-b2879jnks (MC: 1.6.2) (Implementing API version 1.6.2-R1.0)
+2013-09-30 21:06:59 [INFO] [dynmap] Loading dynmap v1.8-786
+2013-09-30 21:06:59 [WARNING] **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+2013-09-30 21:06:59 [WARNING] The server will make no attempt to authenticate usernames. Beware.
+2013-09-30 21:06:59 [WARNING] While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+2013-09-30 21:06:59 [WARNING] To change this, set "online-mode" to "true" in the server.properties file.
+2013-09-30 21:06:59 [INFO] Preparing level "world"
+2013-09-30 21:06:59 [INFO] Preparing start region for level 0 (Seed: 4943191395051569586)
+2013-09-30 21:07:00 [INFO] Preparing spawn area: 60%
+2013-09-30 21:07:01 [INFO] Preparing start region for level 1 (Seed: -4110950347534694326)
+2013-09-30 21:07:02 [INFO] Preparing start region for level 2 (Seed: -4110950347534694326)
+2013-09-30 21:07:02 [INFO] [dynmap] Enabling dynmap v1.8-786
+2013-09-30 21:07:02 [INFO] [dynmap] Using Bukkit Permissions (superperms) for access control
+2013-09-30 21:07:02 [INFO] [dynmap] Web interface permissions only available for online users
+2013-09-30 21:07:02 [INFO] [dynmap] Extracted files upgraded
+2013-09-30 21:07:03 [INFO] [dynmap] Loaded 21 shaders.
+2013-09-30 21:07:03 [INFO] [dynmap] Loaded 82 perspectives.
+2013-09-30 21:07:03 [INFO] [dynmap] Loaded 12 lightings.
+2013-09-30 21:07:04 [INFO] [dynmap] Web server started on address 0.0.0.0:8123
+2013-09-30 21:07:04 [INFO] [dynmap] version 1.8-786 is enabled - core version 1.8-1746
+2013-09-30 21:07:04 [INFO] [dynmap] Loaded 3 maps of world 'world'.
+2013-09-30 21:07:04 [INFO] [dynmap] Loaded 82 pending tile renders for world 'world
+2013-09-30 21:07:04 [INFO] [dynmap] Loaded 2 maps of world 'world_nether'.
+2013-09-30 21:07:04 [INFO] [dynmap] Loaded 2 maps of world 'world_the_end'.
+2013-09-30 21:07:04 [INFO] [dynmap] Enabled
+2013-09-30 21:07:04 [INFO] Server permissions file permissions.yml is empty, ignoring it
+2013-09-30 21:07:04 [INFO] Done (5.054s)! For help, type "help" or "?"
+2013-09-30 21:07:05 [INFO] [dynmap] Loading default resource pack
+2013-09-30 21:14:29 [INFO] OzBarry[/206.126.92.85:33079] logged in with entity id 505 at ([world] 60.285293823819075, 67.0, 266.1422601456061)
+2013-09-30 22:04:05 [INFO] OzBarry was slain by Enderman
+2013-09-30 22:05:46 [INFO] OzBarry lost connection: disconnect.quitting
+2013-09-30 22:05:46 [INFO] Connection reset
+2013-09-30 22:05:46 [INFO] §eOzBarry left the game.
+2013-10-01 00:05:02 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-10-01 00:14:00 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-10-01 08:18:07 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-10-01 12:00:18 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-10-01 18:46:43 [INFO] Psi_Tiki[/184.147.202.31:51080] logged in with entity id 88313 at ([world] 54.82296555192988, 67.0, 263.47036837611165)
+2013-10-01 19:09:07 [INFO] Connection reset
+2013-10-01 19:09:07 [INFO] Psi_Tiki lost connection: disconnect.quitting
+2013-10-01 19:09:07 [INFO] §ePsi_Tiki left the game.
+2013-10-01 20:52:10 [INFO] OzBarry[/206.126.92.85:53030] logged in with entity id 131110 at ([world] 47.47898837745085, 67.0, 264.35722898767)
+2013-10-01 21:23:08 [INFO] Connection reset
+2013-10-01 21:23:08 [INFO] OzBarry lost connection: disconnect.quitting
+2013-10-01 21:23:08 [INFO] §eOzBarry left the game.
+2013-10-02 00:10:28 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-10-02 19:15:05 [INFO] jemmrich[/209.213.246.191:35980] logged in with entity id 197980 at ([world] 48.14130889097283, 63.0, 258.0224234250311)
+2013-10-02 19:16:02 [INFO] Read timed out
+2013-10-02 19:16:02 [INFO] jemmrich lost connection: disconnect.endOfStream
+2013-10-02 19:16:02 [INFO] §ejemmrich left the game.
+2013-10-02 19:16:26 [INFO] Connection reset
+2013-10-02 19:35:00 [INFO] jemmrich[/209.213.246.191:40311] logged in with entity id 199578 at ([world] 48.14130889097283, 63.0, 258.0224234250311)
+2013-10-02 19:39:03 [WARNING] jemmrich moved wrongly!
+2013-10-02 19:39:23 [INFO] OzBarry[/206.126.92.85:37646] logged in with entity id 205620 at ([world] 56.54798603193115, 67.0, 266.8659451993126)
+2013-10-02 19:39:33 [INFO] <OzBarry> my nigga[m
+2013-10-02 19:39:44 [INFO] <jemmrich> lol[m
+2013-10-02 19:39:51 [INFO] <OzBarry> i got 2 more diamond last night[m
+2013-10-02 19:46:17 [INFO] <OzBarry> 6 more diamond![m
+2013-10-02 19:46:32 [INFO] <jemmrich> fantastic!!!![m
+2013-10-02 19:48:24 [INFO] <jemmrich> enderpearl[m
+2013-10-02 19:48:26 [INFO] <jemmrich> :D[m
+2013-10-02 19:48:33 [INFO] <OzBarry> woot[m
+2013-10-02 19:50:25 [INFO] <jemmrich> what level are you down at[m
+2013-10-02 19:50:48 [INFO] <OzBarry> 5, i think[m
+2013-10-02 19:50:59 [INFO] <OzBarry> y position, right?[m
+2013-10-02 19:51:02 [INFO] <jemmrich> yep[m
+2013-10-02 19:51:15 [INFO] <OzBarry> but i'm on my way up[m
+2013-10-02 19:51:21 [INFO] <OzBarry> lol[m
+2013-10-02 19:51:38 [INFO] <OzBarry> got lots of cobble[m
+2013-10-02 19:51:45 [INFO] <jemmrich> :)[m
+2013-10-02 19:51:55 [INFO] <OzBarry> did you check out the auto-cooker?[m
+2013-10-02 19:51:58 [INFO] <jemmrich> wow this is suuper laggy for me[m
+2013-10-02 19:52:02 [INFO] <jemmrich> no i havent yet[m
+2013-10-02 19:52:05 [INFO] <jemmrich> brb[m
+2013-10-02 19:52:08 [INFO] Connection reset
+2013-10-02 19:52:08 [INFO] jemmrich lost connection: disconnect.quitting
+2013-10-02 19:52:08 [INFO] §ejemmrich left the game.
+2013-10-02 19:52:13 [INFO] <OzBarry> i'll try reconnecting, my puter is doing something weird[m
+2013-10-02 19:52:17 [INFO] OzBarry lost connection: disconnect.quitting
+2013-10-02 19:52:17 [INFO] Connection reset
+2013-10-02 19:52:17 [INFO] §eOzBarry left the game.
+2013-10-02 19:52:20 [INFO] OzBarry[/206.126.92.85:37729] logged in with entity id 228443 at ([world] 90.34451037139473, 66.0, 282.6325063563636)
+2013-10-02 19:52:36 [INFO] jemmrich[/209.213.246.191:40341] logged in with entity id 229001 at ([world] 77.36249721263651, 11.5, 402.8605441540705)
+2013-10-02 19:52:43 [INFO] <jemmrich> hmm not sure why im laggy'[m
+2013-10-02 19:54:17 [INFO] <OzBarry> i'll try restarting mc, i'm haing some issues, too[m
+2013-10-02 19:54:32 [INFO] <jemmrich> whats the best way to shut down the server[m
+2013-10-02 19:55:04 [INFO] <OzBarry> as a process? not sure - if it's running on a vconsole, typing stop works[m
+2013-10-02 19:55:15 [INFO] <OzBarry> might be a command like /stop or /shutdown[m
+2013-10-02 19:55:18 [INFO] OzBarry lost connection: disconnect.quitting
+2013-10-02 19:55:18 [INFO] Connection reset
+2013-10-02 19:55:19 [INFO] §eOzBarry left the game.
+2013-10-02 19:55:41 [INFO] OzBarry[/206.126.92.85:37770] logged in with entity id 234068 at ([world] 89.68724533740937, 66.0, 282.5565017868942)
+2013-10-02 19:55:57 [INFO] <jemmrich> wasnt sure if there was a command for it so that it forces saving[m
+2013-10-02 19:57:31 [INFO] <jemmrich> ok im shutting it down[m
+2013-10-02 19:57:36 [INFO] <OzBarry> alright[m
+2013-10-02 19:57:40 [INFO] Connection reset
+2013-10-02 19:57:40 [INFO] jemmrich lost connection: disconnect.quitting
+2013-10-02 19:57:40 [INFO] §ejemmrich left the game.
+2013-10-02 19:57:44 [INFO] OzBarry issued server command: /restart
+2013-10-02 19:57:48 [INFO] OzBarry issued server command: /help
+2013-10-02 19:57:55 [INFO] OzBarry issued server command: /help 2
+2013-10-02 19:57:59 [INFO] OzBarry issued server command: /help 3
+2013-10-02 19:58:04 [INFO] OzBarry issued server command: /help 4
+2013-10-02 19:58:16 [INFO] OzBarry issued server command: /save-all
+2013-10-02 19:58:16 [INFO] OzBarry: Forcing save..[m
+2013-10-02 19:58:16 [INFO] OzBarry: Save complete.[m
+2013-10-02 19:58:19 [INFO] OzBarry issued server command: /help 5
+2013-10-02 19:58:21 [INFO] Stopping server
+2013-10-02 19:58:21 [INFO] [dynmap] Disabling dynmap v1.8-786
+2013-10-02 19:58:42 [INFO] Starting minecraft server version 1.6.2
+2013-10-02 19:58:42 [INFO] Loading properties
+2013-10-02 19:58:42 [INFO] Default game type: SURVIVAL
+2013-10-02 19:58:42 [INFO] Generating keypair
+2013-10-02 19:58:42 [INFO] Starting Minecraft server on *:25565
+2013-10-02 19:58:43 [INFO] This server is running CraftBukkit version git-Bukkit-1.6.2-R1.0-b2879jnks (MC: 1.6.2) (Implementing API version 1.6.2-R1.0)
+2013-10-02 19:58:43 [INFO] [dynmap] Loading dynmap v1.8-786
+2013-10-02 19:58:43 [WARNING] **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+2013-10-02 19:58:43 [WARNING] The server will make no attempt to authenticate usernames. Beware.
+2013-10-02 19:58:43 [WARNING] While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+2013-10-02 19:58:43 [WARNING] To change this, set "online-mode" to "true" in the server.properties file.
+2013-10-02 19:58:43 [INFO] Preparing level "world"
+2013-10-02 19:58:43 [INFO] Preparing start region for level 0 (Seed: 4943191395051569586)
+2013-10-02 19:58:44 [INFO] Preparing spawn area: 56%
+2013-10-02 19:58:44 [INFO] Preparing start region for level 1 (Seed: -4110950347534694326)
+2013-10-02 19:58:45 [INFO] Preparing start region for level 2 (Seed: -4110950347534694326)
+2013-10-02 19:58:46 [INFO] [dynmap] Enabling dynmap v1.8-786
+2013-10-02 19:58:46 [INFO] [dynmap] Using Bukkit Permissions (superperms) for access control
+2013-10-02 19:58:46 [INFO] [dynmap] Web interface permissions only available for online users
+2013-10-02 19:58:46 [INFO] [dynmap] Extracted files upgraded
+2013-10-02 19:58:47 [INFO] [dynmap] Loaded 21 shaders.
+2013-10-02 19:58:47 [INFO] [dynmap] Loaded 82 perspectives.
+2013-10-02 19:58:47 [INFO] [dynmap] Loaded 12 lightings.
+2013-10-02 19:58:47 [INFO] [dynmap] Web server started on address 0.0.0.0:8123
+2013-10-02 19:58:47 [INFO] [dynmap] version 1.8-786 is enabled - core version 1.8-1746
+2013-10-02 19:58:47 [INFO] [dynmap] Loaded 3 maps of world 'world'.
+2013-10-02 19:58:47 [INFO] [dynmap] Loaded 115 pending tile renders for world 'world
+2013-10-02 19:58:47 [INFO] [dynmap] Loaded 2 maps of world 'world_nether'.
+2013-10-02 19:58:47 [INFO] [dynmap] Loaded 2 maps of world 'world_the_end'.
+2013-10-02 19:58:47 [INFO] [dynmap] Enabled
+2013-10-02 19:58:47 [INFO] Server permissions file permissions.yml is empty, ignoring it
+2013-10-02 19:58:48 [INFO] Done (4.710s)! For help, type "help" or "?"
+2013-10-02 19:58:50 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-10-02 19:58:50 [INFO] [dynmap] Loading default resource pack
