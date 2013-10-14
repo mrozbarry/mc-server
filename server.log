@@ -3809,3 +3809,2053 @@ org.bukkit.plugin.IllegalPluginAccessException: Plugin attempted to register tas
 2013-10-02 19:58:48 [INFO] Done (4.710s)! For help, type "help" or "?"
 2013-10-02 19:58:50 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
 2013-10-02 19:58:50 [INFO] [dynmap] Loading default resource pack
+2013-10-02 20:00:58 [INFO] Starting minecraft server version 1.6.2
+2013-10-02 20:00:58 [INFO] Loading properties
+2013-10-02 20:00:58 [INFO] Default game type: SURVIVAL
+2013-10-02 20:00:58 [INFO] Generating keypair
+2013-10-02 20:00:59 [INFO] Starting Minecraft server on *:25565
+2013-10-02 20:00:59 [INFO] This server is running CraftBukkit version git-Bukkit-1.6.2-R1.0-b2879jnks (MC: 1.6.2) (Implementing API version 1.6.2-R1.0)
+2013-10-02 20:00:59 [INFO] [dynmap] Loading dynmap v1.8-786
+2013-10-02 20:00:59 [WARNING] **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+2013-10-02 20:00:59 [WARNING] The server will make no attempt to authenticate usernames. Beware.
+2013-10-02 20:00:59 [WARNING] While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+2013-10-02 20:00:59 [WARNING] To change this, set "online-mode" to "true" in the server.properties file.
+2013-10-02 20:00:59 [INFO] Preparing level "world"
+2013-10-02 20:00:59 [INFO] Preparing start region for level 0 (Seed: 4943191395051569586)
+2013-10-02 20:01:00 [INFO] Preparing spawn area: 56%
+2013-10-02 20:01:01 [INFO] Preparing start region for level 1 (Seed: -4110950347534694326)
+2013-10-02 20:01:02 [INFO] Preparing start region for level 2 (Seed: -4110950347534694326)
+2013-10-02 20:01:02 [INFO] [dynmap] Enabling dynmap v1.8-786
+2013-10-02 20:01:02 [INFO] [dynmap] Using Bukkit Permissions (superperms) for access control
+2013-10-02 20:01:02 [INFO] [dynmap] Web interface permissions only available for online users
+2013-10-02 20:01:02 [INFO] [dynmap] Extracted files upgraded
+2013-10-02 20:01:03 [INFO] [dynmap] Loaded 21 shaders.
+2013-10-02 20:01:04 [INFO] [dynmap] Loaded 82 perspectives.
+2013-10-02 20:01:04 [INFO] [dynmap] Loaded 12 lightings.
+2013-10-02 20:01:04 [INFO] [dynmap] Web server started on address 0.0.0.0:8123
+2013-10-02 20:01:04 [INFO] [dynmap] version 1.8-786 is enabled - core version 1.8-1746
+2013-10-02 20:01:04 [INFO] [dynmap] Loaded 3 maps of world 'world'.
+2013-10-02 20:01:04 [INFO] [dynmap] Loaded 2 pending tile renders for world 'world
+2013-10-02 20:01:04 [INFO] [dynmap] Loaded 2 maps of world 'world_nether'.
+2013-10-02 20:01:04 [INFO] [dynmap] Loaded 2 maps of world 'world_the_end'.
+2013-10-02 20:01:04 [INFO] [dynmap] Enabled
+2013-10-02 20:01:04 [INFO] Server permissions file permissions.yml is empty, ignoring it
+2013-10-02 20:01:04 [INFO] Done (4.892s)! For help, type "help" or "?"
+2013-10-02 20:01:06 [INFO] [dynmap] Loading default resource pack
+2013-10-02 20:01:10 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-10-02 20:01:14 [INFO] jemmrich[/209.213.246.191:40496] logged in with entity id 395 at ([world] 76.45913791869282, 5.0, 505.84142781879154)
+2013-10-02 20:03:19 [INFO] <jemmrich> DIAMOND!!![m
+2013-10-02 20:09:31 [INFO] Connection reset
+2013-10-02 20:09:31 [INFO] jemmrich lost connection: disconnect.quitting
+2013-10-02 20:09:31 [INFO] §ejemmrich left the game.
+2013-10-02 20:09:40 [INFO] Stopping server
+2013-10-02 20:09:40 [INFO] [dynmap] Disabling dynmap v1.8-786
+2013-10-02 20:18:54 [INFO] Starting minecraft server version 1.6.2
+2013-10-02 20:18:54 [INFO] Loading properties
+2013-10-02 20:18:54 [INFO] Default game type: SURVIVAL
+2013-10-02 20:18:54 [INFO] Generating keypair
+2013-10-02 20:18:55 [INFO] Starting Minecraft server on *:25565
+2013-10-02 20:18:56 [INFO] This server is running CraftBukkit version git-Bukkit-1.6.2-R1.0-b2879jnks (MC: 1.6.2) (Implementing API version 1.6.2-R1.0)
+2013-10-02 20:18:57 [INFO] [dynmap] Loading dynmap v1.8-786
+2013-10-02 20:18:57 [WARNING] **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+2013-10-02 20:18:57 [WARNING] The server will make no attempt to authenticate usernames. Beware.
+2013-10-02 20:18:57 [WARNING] While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+2013-10-02 20:18:57 [WARNING] To change this, set "online-mode" to "true" in the server.properties file.
+2013-10-02 20:18:57 [INFO] Preparing level "world"
+2013-10-02 20:18:58 [INFO] Preparing start region for level 0 (Seed: 4943191395051569586)
+2013-10-02 20:18:59 [INFO] Preparing spawn area: 34%
+2013-10-02 20:19:00 [INFO] Preparing spawn area: 73%
+2013-10-02 20:19:00 [INFO] Preparing start region for level 1 (Seed: -4110950347534694326)
+2013-10-02 20:19:02 [INFO] Preparing spawn area: 7%
+2013-10-02 20:19:03 [INFO] Preparing spawn area: 52%
+2013-10-02 20:19:03 [INFO] Preparing start region for level 2 (Seed: -4110950347534694326)
+2013-10-02 20:19:04 [INFO] [dynmap] Enabling dynmap v1.8-786
+2013-10-02 20:19:04 [INFO] [dynmap] Using Bukkit Permissions (superperms) for access control
+2013-10-02 20:19:04 [INFO] [dynmap] Web interface permissions only available for online users
+2013-10-02 20:19:05 [INFO] [dynmap] Extracted files upgraded
+2013-10-02 20:19:06 [INFO] [dynmap] Loaded 21 shaders.
+2013-10-02 20:19:07 [INFO] [dynmap] Loaded 82 perspectives.
+2013-10-02 20:19:07 [INFO] [dynmap] Loaded 12 lightings.
+2013-10-02 20:19:07 [INFO] [dynmap] Web server started on address 0.0.0.0:8123
+2013-10-02 20:19:07 [INFO] [dynmap] version 1.8-786 is enabled - core version 1.8-1746
+2013-10-02 20:19:07 [INFO] [dynmap] Loaded 3 maps of world 'world'.
+2013-10-02 20:19:08 [INFO] [dynmap] Loaded 47 pending tile renders for world 'world
+2013-10-02 20:19:08 [INFO] [dynmap] Loaded 2 maps of world 'world_nether'.
+2013-10-02 20:19:08 [INFO] [dynmap] Loaded 2 maps of world 'world_the_end'.
+2013-10-02 20:19:08 [INFO] [dynmap] Enabled
+2013-10-02 20:19:08 [INFO] Server permissions file permissions.yml is empty, ignoring it
+2013-10-02 20:19:08 [INFO] Done (10.920s)! For help, type "help" or "?"
+2013-10-02 20:19:08 [INFO] /209.213.246.191:40864 lost connection
+2013-10-02 20:19:10 [INFO] [dynmap] Loading default resource pack
+2013-10-02 20:19:12 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-10-02 20:19:26 [INFO] jemmrich[/209.213.246.191:40880] logged in with entity id 582 at ([world] 76.34125851772842, 5.0, 455.6007032535823)
+2013-10-02 20:21:50 [INFO] OzBarry[/206.126.92.85:38222] logged in with entity id 1876 at ([world] 55.991549730884266, 67.0, 265.22244041636986)
+2013-10-02 20:22:45 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-10-02 20:22:46 [INFO] Psi_Tiki[/184.147.202.31:50068] logged in with entity id 3673 at ([world] 54.08660892850895, 67.0, 262.552458963725)
+2013-10-02 20:27:04 [INFO] <jemmrich> is it still laggy?[m
+2013-10-02 20:27:09 [INFO] <Psi_Tiki> no[m
+2013-10-02 20:27:18 [INFO] <Psi_Tiki> It's you[m
+2013-10-02 20:27:21 [INFO] <OzBarry> Mark, check out the cat monument/grave near my waterfall[m
+2013-10-02 20:27:22 [INFO] <Psi_Tiki> not me[m
+2013-10-02 20:27:37 [INFO] <Psi_Tiki> it's horrible[m
+2013-10-02 20:27:47 [INFO] <Psi_Tiki> it's not a sphinx :P[m
+2013-10-02 20:28:16 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-10-02 20:28:24 [INFO] <Psi_Tiki> cat's are stupid though[m
+2013-10-02 20:28:48 [INFO] <jemmrich> their paypole to![m
+2013-10-02 20:29:03 [INFO] <jemmrich> be noice[m
+2013-10-02 20:29:22 [INFO] <Psi_Tiki> wat evar brah[m
+2013-10-02 20:31:22 [INFO] <OzBarry> got 3 diamond horse armors![m
+2013-10-02 20:31:27 [INFO] <jemmrich> HOW[m
+2013-10-02 20:31:35 [INFO] <OzBarry> the village i'm in[m
+2013-10-02 20:31:47 [INFO] <jemmrich> WOW[m
+2013-10-02 20:33:21 [INFO] Read timed out
+2013-10-02 20:33:21 [INFO] OzBarry lost connection: disconnect.endOfStream
+2013-10-02 20:33:21 [INFO] §eOzBarry left the game.
+2013-10-02 20:33:26 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-10-02 20:33:28 [INFO] <Psi_Tiki> rage quit[m
+2013-10-02 20:34:23 [INFO] OzBarry[/206.126.92.85:38394] logged in with entity id 34764 at ([world] -269.82829612003934, 69.0, 849.9972143980833)
+2013-10-02 20:34:37 [INFO] <Psi_Tiki> rage join[m
+2013-10-02 20:39:47 [INFO] <Psi_Tiki> I SET MY SELF ON FIREEEEEEEEEEEEEEE[m
+2013-10-02 20:42:35 [INFO] <jemmrich> cool smelter barry[m
+2013-10-02 20:42:47 [INFO] <jemmrich> did you died tiki?[m
+2013-10-02 20:45:17 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-10-02 20:51:29 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-10-02 20:53:44 [INFO] <Psi_Tiki> shhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh[m
+2013-10-02 20:53:52 [INFO] <Psi_Tiki> *GOOOOOOOOOM*[m
+2013-10-02 20:54:06 [INFO] <OzBarry> goom[m
+2013-10-02 20:54:14 [INFO] <Psi_Tiki> *Boom[m
+2013-10-02 20:55:22 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-10-02 20:56:08 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-10-02 20:56:28 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-10-02 20:57:00 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-10-02 20:57:06 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-10-02 20:57:32 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-10-02 20:59:05 [INFO] <Psi_Tiki> cat wants to suicide[m
+2013-10-02 20:59:18 [INFO] <Psi_Tiki> sitting on the rail[m
+2013-10-02 20:59:32 [INFO] <Psi_Tiki> waiting for a cart to kill it[m
+2013-10-02 21:00:30 [INFO] <Psi_Tiki> arrowded[m
+2013-10-02 21:00:33 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-10-02 21:00:37 [INFO] <OzBarry> arrow this[m
+2013-10-02 21:00:59 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-10-02 21:01:08 [INFO] <Psi_Tiki> the creeper?[m
+2013-10-02 21:01:09 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-10-02 21:01:09 [INFO] <Psi_Tiki> k[m
+2013-10-02 21:01:42 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-10-02 21:01:45 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-10-02 21:02:03 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-10-02 21:02:47 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-10-02 21:04:47 [INFO] <Psi_Tiki> you were drowning[m
+2013-10-02 21:04:54 [INFO] <jemmrich> nope[m
+2013-10-02 21:05:00 [INFO] <Psi_Tiki> yah[m
+2013-10-02 21:05:07 [INFO] <jemmrich> you hit me didnt you?[m
+2013-10-02 21:05:10 [INFO] <Psi_Tiki> I watched ;)[m
+2013-10-02 21:05:14 [INFO] <OzBarry> drown this![m
+2013-10-02 21:05:17 [INFO] <Psi_Tiki> no?[m
+2013-10-02 21:05:33 [INFO] <jemmrich> oh wierd, i still have major lag[m
+2013-10-02 21:05:41 [INFO] <OzBarry> i am exploring now[m
+2013-10-02 21:05:47 [INFO] <OzBarry> so that might have something to do with it[m
+2013-10-02 21:06:04 [INFO] <Psi_Tiki> yeah James[m
+2013-10-02 21:06:07 [INFO] <Psi_Tiki> gawd[m
+2013-10-02 21:06:12 [INFO] <jemmrich> im going to use my cell[m
+2013-10-02 21:06:17 [INFO] <Psi_Tiki> ff isn't even on[m
+2013-10-02 21:06:29 [INFO] <jemmrich> ff?[m
+2013-10-02 21:06:38 [INFO] <Psi_Tiki> friendly fire[m
+2013-10-02 21:07:10 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-10-02 21:07:13 [INFO] <jemmrich> hmm i could have sworn i had a hole here...[m
+2013-10-02 21:07:24 [INFO] <Psi_Tiki> no[m
+2013-10-02 21:07:24 [INFO] <OzBarry> if i had a nickle for every time i heard that[m
+2013-10-02 21:07:32 [INFO] <Psi_Tiki> where are the dogs?[m
+2013-10-02 21:07:47 [INFO] <jemmrich> i havent seen a dog[m
+2013-10-02 21:08:25 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-10-02 21:08:48 [INFO] Connection reset
+2013-10-02 21:08:48 [INFO] jemmrich lost connection: disconnect.quitting
+2013-10-02 21:08:48 [INFO] §ejemmrich left the game.
+2013-10-02 21:10:22 [INFO] jemmrich[/184.151.61.65:44717] logged in with entity id 118969 at ([world] 120.34397317718333, 59.0, 186.2782000155558)
+2013-10-02 21:14:32 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-10-02 21:15:54 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-10-02 21:16:08 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-10-02 21:18:21 [INFO] Psi_Tiki lost connection: disconnect.quitting
+2013-10-02 21:18:21 [INFO] Connection reset
+2013-10-02 21:18:21 [INFO] §ePsi_Tiki left the game.
+2013-10-02 21:23:36 [INFO] <OzBarry> gotta pick erinn up, brb[m
+2013-10-02 21:23:41 [INFO] <jemmrich> k[m
+2013-10-02 21:23:44 [INFO] Connection reset
+2013-10-02 21:23:44 [INFO] OzBarry lost connection: disconnect.quitting
+2013-10-02 21:23:44 [INFO] §eOzBarry left the game.
+2013-10-02 21:57:13 [INFO] OzBarry[/206.126.92.85:38882] logged in with entity id 234386 at ([world] 149.39252696360225, 106.0, 1730.8996326608017)
+2013-10-02 21:59:04 [INFO] <jemmrich> ohh man.. lvl 30 enchant on pic is AMAZING[m
+2013-10-02 21:59:11 [INFO] <OzBarry> :D[m
+2013-10-02 21:59:19 [INFO] <jemmrich> one hit it pops[m
+2013-10-02 22:04:07 [INFO] <jemmrich> never using a non enchanted pic ever again[m
+2013-10-02 22:04:19 [INFO] <OzBarry> that feels[m
+2013-10-02 22:16:39 [INFO] <jemmrich> brb[m
+2013-10-02 22:16:44 [INFO] <OzBarry> ok[m
+2013-10-02 22:16:49 [INFO] jemmrich lost connection: disconnect.quitting
+2013-10-02 22:16:49 [INFO] Connection reset
+2013-10-02 22:16:49 [INFO] §ejemmrich left the game.
+2013-10-02 22:20:46 [INFO] Disconnecting /184.151.63.198:53078: Took too long to log in
+2013-10-02 22:22:06 [INFO] jemmrich[/184.151.63.198:61372] logged in with entity id 295744 at ([world] 56.62580629511333, 67.0, 264.12845358235927)
+2013-10-02 22:22:17 [INFO] <OzBarry> oh hai[m
+2013-10-02 22:23:09 [INFO] <jemmrich> hai[m
+2013-10-02 22:28:54 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-10-02 22:29:21 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-10-02 22:29:34 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-10-02 22:30:29 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-10-02 22:31:04 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-10-02 22:33:05 [INFO] <jemmrich> where are you[m
+2013-10-02 22:33:24 [INFO] <OzBarry> exploring[m
+2013-10-02 22:33:27 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-10-02 22:33:28 [INFO] <OzBarry> and fending off zombies[m
+2013-10-02 22:33:56 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-10-02 22:37:55 [INFO] <OzBarry> witches hut!!!![m
+2013-10-02 22:38:02 [INFO] <jemmrich> YAY[m
+2013-10-02 22:41:20 [INFO] <OzBarry> it only had a couldron in it[m
+2013-10-02 22:41:27 [INFO] <OzBarry> :([m
+2013-10-02 22:44:54 [INFO] <jemmrich> i didnt know there was 2 huts out there.. i was already through some of that swamp[m
+2013-10-02 22:49:05 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-10-02 22:49:24 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-10-02 22:49:41 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-10-02 22:49:55 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-10-02 22:50:28 [INFO] §ejemmrich left the game.
+2013-10-02 22:50:29 [INFO] jemmrich[/209.213.246.191:41716] logged in with entity id 351220 at ([world] 48.3425274437831, 67.0, 265.3471855901725)
+2013-10-02 22:50:29 [INFO] Read timed out
+2013-10-02 22:52:56 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-10-02 22:53:46 [INFO] <OzBarry> got lots of slimes over ehre[m
+2013-10-02 22:53:49 [INFO] <OzBarry> and zombies[m
+2013-10-02 22:54:03 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-10-02 22:54:34 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-10-02 22:54:41 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-10-02 22:54:59 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-10-02 22:55:04 [INFO] <jemmrich> :D[m
+2013-10-02 22:55:09 [INFO] <jemmrich> mmmm slimes!!!![m
+2013-10-02 22:55:19 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-10-02 22:55:32 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-10-02 22:55:48 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-10-02 22:56:06 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-10-02 22:56:33 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-10-02 22:58:32 [INFO] jemmrich lost connection: disconnect.endOfStream
+2013-10-02 22:58:32 [INFO] §ejemmrich left the game.
+2013-10-02 23:00:46 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-10-02 23:01:26 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-10-02 23:02:52 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-10-02 23:03:17 [INFO] <OzBarry> pyramids![m
+2013-10-02 23:03:34 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-10-02 23:08:09 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-10-02 23:08:50 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-10-02 23:09:25 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-10-02 23:10:46 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-10-02 23:11:25 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-10-02 23:19:58 [INFO] OzBarry lost connection: disconnect.quitting
+2013-10-02 23:19:58 [INFO] Connection reset
+2013-10-02 23:19:58 [INFO] §eOzBarry left the game.
+2013-10-03 00:09:45 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-10-03 00:10:20 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-10-04 00:17:14 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-10-04 21:14:45 [INFO] OzBarry[/206.126.92.85:59981] logged in with entity id 419580 at ([world] 46.7084639873466, 67.0, 265.77809608326123)
+2013-10-04 21:14:49 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-10-04 21:18:07 [INFO] jemmrich[/209.213.246.191:48015] logged in with entity id 424994 at ([world] 56.03430940469644, 67.0, 265.8920625682234)
+2013-10-04 21:18:23 [INFO] <jemmrich> oh hai[m
+2013-10-04 21:18:28 [INFO] <OzBarry> hey :)[m
+2013-10-04 21:19:36 [WARNING] jemmrich moved wrongly!
+2013-10-04 21:19:43 [WARNING] jemmrich moved wrongly!
+2013-10-04 21:20:22 [INFO] <jemmrich> seems very laggy for me ughh[m
+2013-10-04 21:20:47 [INFO] <jemmrich> wont let me walk forward[m
+2013-10-04 21:21:08 [INFO] Connection reset
+2013-10-04 21:21:08 [INFO] jemmrich lost connection: disconnect.quitting
+2013-10-04 21:21:08 [INFO] §ejemmrich left the game.
+2013-10-04 21:21:14 [INFO] jemmrich[/209.213.246.191:48037] logged in with entity id 430129 at ([world] 157.64157615758452, 34.0, 177.30000001192093)
+2013-10-04 21:21:14 [INFO] <OzBarry> yeah, it says my connection is weak, too[m
+2013-10-04 21:21:50 [INFO] <jemmrich> and i hate that it always spawns me under ground[m
+2013-10-04 21:24:59 [INFO] <OzBarry> how is emmrich formed? how emmrich get praagnant[m
+2013-10-04 21:25:06 [INFO] <jemmrich> lol[m
+2013-10-04 21:50:06 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-10-04 21:50:23 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-10-04 21:51:09 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-10-04 21:51:13 [INFO] <OzBarry> fixed the lights on the auto-cooker[m
+2013-10-04 21:51:25 [INFO] <jemmrich> :)[m
+2013-10-04 21:52:24 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-10-04 21:52:42 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-10-04 21:54:07 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-10-04 21:54:36 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-10-04 21:54:45 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-10-04 21:55:22 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-10-04 21:55:42 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-10-04 21:56:04 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-10-04 21:56:14 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-10-04 21:56:34 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-10-04 21:56:55 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-10-04 21:57:10 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-10-04 22:00:24 [INFO] <jemmrich> doors suck when there is lag[m
+2013-10-04 22:00:31 [INFO] <OzBarry> :([m
+2013-10-04 22:00:53 [INFO] <OzBarry> i made a diamond pick with unbreaking III[m
+2013-10-04 22:01:02 [INFO] <jemmrich> WOW nice![m
+2013-10-04 22:01:14 [INFO] <OzBarry> it's by the library if you need it[m
+2013-10-04 22:01:22 [INFO] <OzBarry> in the unmarked chest along the tools row[m
+2013-10-04 22:01:28 [INFO] <jemmrich> k[m
+2013-10-04 22:02:20 [INFO] <OzBarry> want to do the honors of cooking the iron?[m
+2013-10-04 22:02:44 [INFO] <jemmrich> sure why not[m
+2013-10-04 22:04:44 [INFO] <jemmrich> :D[m
+2013-10-04 22:05:18 [INFO] <OzBarry> psst[m
+2013-10-04 22:05:26 [INFO] <OzBarry> snow golem :D[m
+2013-10-04 22:05:44 [INFO] <OzBarry> lol[m
+2013-10-04 22:05:48 [INFO] <jemmrich> lol[m
+2013-10-04 22:05:48 [INFO] <jemmrich> dont let him go outside[m
+2013-10-04 22:10:29 [INFO] <OzBarry> i think the snow golem melted[m
+2013-10-04 22:10:31 [INFO] <OzBarry> :([m
+2013-10-04 22:10:34 [INFO] <jemmrich> :([m
+2013-10-04 22:11:49 [INFO] <jemmrich> i just made a iron pick with fortune III and efficent IV[m
+2013-10-04 22:11:54 [INFO] <OzBarry> :DDDDD[m
+2013-10-04 22:24:33 [INFO] jemmrich lost connection: disconnect.quitting
+2013-10-04 22:24:33 [INFO] Connection reset
+2013-10-04 22:24:33 [INFO] §ejemmrich left the game.
+2013-10-04 22:24:59 [INFO] jemmrich[/209.213.246.191:48176] logged in with entity id 529810 at ([world] 19.66386239504537, 5.0, 413.73958071988574)
+2013-10-04 22:28:03 [INFO] <jemmrich> have to look into why the server is so laggy[m
+2013-10-04 22:28:16 [INFO] <jemmrich> i wonder if its doing reverse ip lookups[m
+2013-10-04 22:28:29 [INFO] <OzBarry> it's possible[m
+2013-10-04 22:29:11 [INFO] <jemmrich> its hard to believe that its my connection at fault, it have 10+ mbit down[m
+2013-10-04 22:29:35 [INFO] <OzBarry> yar - i'm at 8mbit, and it is also being laggu[m
+2013-10-04 22:29:40 [INFO] <OzBarry> *laggy[m
+2013-10-04 22:30:10 [INFO] <jemmrich> and the server is on a fibre connection, with super high up bandwidth[m
+2013-10-04 22:30:27 [INFO] <jemmrich> lol im right under you[m
+2013-10-04 22:35:24 [INFO] Read timed out
+2013-10-04 22:35:25 [INFO] jemmrich lost connection: disconnect.endOfStream
+2013-10-04 22:35:25 [INFO] §ejemmrich left the game.
+2013-10-04 22:37:04 [INFO] jemmrich[/209.213.246.191:48300] logged in with entity id 549967 at ([world] -1.4524897883591343, 5.0, 412.69999998807907)
+2013-10-04 22:54:47 [INFO] <jemmrich> diamonds are so hard to fine :([m
+2013-10-04 22:54:52 [INFO] <OzBarry> truth[m
+2013-10-04 23:11:34 [INFO] <OzBarry> a cat just ran into my forest fire[m
+2013-10-04 23:11:39 [INFO] <jemmrich> lol[m
+2013-10-04 23:11:45 [INFO] <jemmrich> did he died[m
+2013-10-04 23:11:51 [INFO] <OzBarry> i think so[m
+2013-10-04 23:13:40 [INFO] <jemmrich> DIAMOND[m
+2013-10-04 23:19:31 [INFO] <OzBarry> grabbing some food, i'll be back[m
+2013-10-04 23:19:38 [INFO] <OzBarry> also, :D for diamonds!!!![m
+2013-10-04 23:19:51 [INFO] <jemmrich> got 4 of them[m
+2013-10-04 23:19:56 [INFO] <jemmrich> ok[m
+2013-10-04 23:20:08 [INFO] <jemmrich> i should get some food too, me hungry[m
+2013-10-04 23:27:53 [INFO] <OzBarry> i return[m
+2013-10-04 23:28:02 [INFO] <jemmrich> yay[m
+2013-10-04 23:48:50 [INFO] <OzBarry> brb[m
+2013-10-04 23:55:38 [INFO] <OzBarry> back[m
+2013-10-04 23:55:50 [INFO] <jemmrich> :_[m
+2013-10-04 23:55:53 [INFO] <jemmrich> :)[m
+2013-10-05 00:01:26 [INFO] <jemmrich> what do the villagers want over there?[m
+2013-10-05 00:01:28 [INFO] <jemmrich> wheat?[m
+2013-10-05 00:01:36 [INFO] <OzBarry> nothing - they are all dead[m
+2013-10-05 00:01:38 [INFO] <OzBarry> :([m
+2013-10-05 00:01:45 [INFO] <jemmrich> :([m
+2013-10-05 00:02:00 [INFO] <OzBarry> when i got here, most of their doors were just left open[m
+2013-10-05 00:02:06 [INFO] <OzBarry> so i guess they all turned to zombies[m
+2013-10-05 00:02:47 [INFO] <jemmrich> that sucks[m
+2013-10-05 00:11:07 [INFO] <OzBarry> i'm going to turn this town into a walled train station[m
+2013-10-05 00:11:17 [INFO] <OzBarry> villagers should spawn here once it's safe, too[m
+2013-10-05 00:11:49 [INFO] <jemmrich> realy?[m
+2013-10-05 00:11:56 [INFO] <OzBarry> yeah[m
+2013-10-05 00:12:07 [INFO] <OzBarry> there is some special spawn rate[m
+2013-10-05 00:12:16 [INFO] <jemmrich> cool[m
+2013-10-05 00:18:57 [INFO] <jemmrich> diamond looks awesome on a horse[m
+2013-10-05 00:29:29 [INFO] <jemmrich> have lots of cobble[m
+2013-10-05 00:29:43 [INFO] <OzBarry> :)[m
+2013-10-05 00:31:50 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-10-05 00:32:38 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-10-05 00:32:42 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-10-05 00:33:10 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-10-05 00:33:24 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-10-05 00:33:54 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-10-05 00:34:17 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-10-05 00:34:24 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-10-05 00:34:45 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-10-05 00:35:01 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-10-05 00:35:27 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-10-05 00:35:50 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-10-05 00:35:58 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-10-05 00:36:19 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-10-05 00:36:46 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-10-05 00:42:16 [INFO] <jemmrich> a lot of wall you are putting up[m
+2013-10-05 00:42:35 [INFO] <OzBarry> gotta keep those zombies out of mah train station[m
+2013-10-05 00:49:08 [INFO] <jemmrich> 4 more diamons[m
+2013-10-05 00:49:26 [INFO] <OzBarry> wooo![m
+2013-10-05 00:56:28 [INFO] <OzBarry> almost have the first wall layer finished[m
+2013-10-05 00:58:09 [INFO] Read timed out
+2013-10-05 00:58:09 [INFO] OzBarry lost connection: disconnect.endOfStream
+2013-10-05 00:58:09 [INFO] §eOzBarry left the game.
+2013-10-05 00:58:52 [INFO] OzBarry[/206.126.92.85:60343] logged in with entity id 845180 at ([world] 55.9145280637137, 67.0, 265.82762982269503)
+2013-10-05 00:58:55 [INFO] <jemmrich> i think i am almost done for the night, arm is getting tired of mining lol[m
+2013-10-05 00:59:01 [INFO] <OzBarry> lol[m
+2013-10-05 00:59:09 [INFO] <OzBarry> you should go check out the village i'm walling[m
+2013-10-05 00:59:36 [INFO] <jemmrich> will do, im deep deep in a mine right now, mining my way out[m
+2013-10-05 00:59:49 [INFO] <OzBarry> lol[m
+2013-10-05 01:00:21 [INFO] <jemmrich> when you mine blocks 3 times in a row... ugh, so tiring[m
+2013-10-05 01:00:30 [INFO] <OzBarry> lol[m
+2013-10-05 01:00:34 [INFO] <OzBarry> still laggy for you?[m
+2013-10-05 01:00:42 [INFO] <jemmrich> yup very[m
+2013-10-05 01:01:12 [INFO] <jemmrich> everything i read says that its slow internet :/[m
+2013-10-05 01:02:03 [INFO] <jemmrich> probably because its the easier answer to give[m
+2013-10-05 01:02:12 [INFO] <OzBarry> i suspect so[m
+2013-10-05 01:02:31 [INFO] <jemmrich> laggy for you?[m
+2013-10-05 01:02:40 [INFO] <OzBarry> intermetently[m
+2013-10-05 01:09:52 [INFO] <jemmrich> need any materials[m
+2013-10-05 01:10:07 [INFO] <OzBarry> unless you have a shit-tonne of rails, naw[m
+2013-10-05 01:10:13 [INFO] <jemmrich> nope[m
+2013-10-05 01:11:33 [INFO] <jemmrich> LOL[m
+2013-10-05 01:11:36 [INFO] <jemmrich> woww!!!![m
+2013-10-05 01:14:10 [INFO] <jemmrich> lol fence coq[m
+2013-10-05 01:14:13 [INFO] <jemmrich> cow[m
+2013-10-05 01:14:24 [INFO] <OzBarry> awww[m
+2013-10-05 01:14:28 [INFO] <OzBarry> baby cow![m
+2013-10-05 01:17:21 [INFO] <OzBarry> i'll have to build some automation stuff here, too, like the autocooker[m
+2013-10-05 01:17:41 [INFO] <jemmrich> ok im done for the night[m
+2013-10-05 01:17:42 [WARNING] jemmrich moved wrongly!
+2013-10-05 01:17:48 [INFO] <OzBarry> yeah, i think i am, too[m
+2013-10-05 01:18:26 [INFO] Connection reset
+2013-10-05 01:18:26 [INFO] jemmrich lost connection: disconnect.quitting
+2013-10-05 01:18:26 [INFO] §ejemmrich left the game.
+2013-10-05 01:18:51 [INFO] OzBarry lost connection: disconnect.quitting
+2013-10-05 01:18:51 [INFO] Connection reset
+2013-10-05 01:18:52 [INFO] §eOzBarry left the game.
+2013-10-05 18:03:07 [INFO] OzBarry[/206.126.92.85:52027] logged in with entity id 884624 at ([world] -255.21168458250997, 67.0, 298.9483289022013)
+2013-10-05 18:15:45 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-10-05 18:56:30 [INFO] Connection reset
+2013-10-05 18:56:30 [INFO] OzBarry lost connection: disconnect.quitting
+2013-10-05 18:56:30 [INFO] §eOzBarry left the game.
+2013-10-05 20:10:47 [INFO] Psi_Tiki[/184.147.202.31:49641] logged in with entity id 950679 at ([world] 54.84912885835115, 67.0, 263.91772764233565)
+2013-10-05 20:31:18 [INFO] OzBarry[/206.126.92.85:52922] logged in with entity id 978077 at ([world] 58.94424771469037, 68.0, 264.63270253390044)
+2013-10-05 20:31:40 [INFO] <Psi_Tiki> dont[m
+2013-10-05 20:31:42 [INFO] <Psi_Tiki> go out[m
+2013-10-05 20:31:49 [INFO] <Psi_Tiki> the front[m
+2013-10-05 20:32:21 [INFO] <Psi_Tiki> they are gone[m
+2013-10-05 20:33:12 [INFO] <Psi_Tiki> there were 2 creepers[m
+2013-10-05 20:42:08 [INFO] <OzBarry> sorry, i went afk for a few moments[m
+2013-10-05 20:42:20 [INFO] <Psi_Tiki> meh[m
+2013-10-05 20:43:21 [INFO] <Psi_Tiki> wanna play League with Brad and them?[m
+2013-10-05 20:43:26 [INFO] <Psi_Tiki> lol :S[m
+2013-10-05 20:43:29 [INFO] <OzBarry> naw, i hate league[m
+2013-10-05 20:43:35 [INFO] <OzBarry> you're free to, though[m
+2013-10-05 20:43:37 [INFO] <OzBarry> is okay[m
+2013-10-05 20:43:39 [INFO] <Psi_Tiki> :([m
+2013-10-05 20:44:03 [INFO] <Psi_Tiki> I'll be back in like an hour :S[m
+2013-10-05 20:44:07 [INFO] <OzBarry> ok[m
+2013-10-05 20:44:12 [INFO] <Psi_Tiki> k :D[m
+2013-10-05 20:44:16 [INFO] Psi_Tiki lost connection: disconnect.quitting
+2013-10-05 20:44:16 [INFO] Connection reset
+2013-10-05 20:44:18 [INFO] §ePsi_Tiki left the game.
+2013-10-05 22:13:16 [INFO] Psi_Tiki[/184.147.202.31:50542] logged in with entity id 1164356 at ([world] 60.82357194557604, 71.0, 256.0968420851831)
+2013-10-05 22:30:25 [INFO] <Psi_Tiki> :([m
+2013-10-05 22:34:42 [INFO] <Psi_Tiki> talk lol[m
+2013-10-05 22:35:04 [INFO] <OzBarry> well, Erinn wants to go out and grab a late night snack, so we're just figuring that out[m
+2013-10-05 22:35:08 [INFO] <OzBarry> once i get back i might[m
+2013-10-05 22:35:14 [INFO] <Psi_Tiki> lmao[m
+2013-10-05 22:35:21 [INFO] <Psi_Tiki> GET POCKEY![m
+2013-10-05 22:35:28 [INFO] <Psi_Tiki> OR SLURPIES!!!!!!!!![m
+2013-10-05 22:35:38 [INFO] <Psi_Tiki> I want a slurpy now[m
+2013-10-05 22:49:09 [INFO] Connection reset
+2013-10-05 22:49:09 [INFO] OzBarry lost connection: disconnect.quitting
+2013-10-05 22:49:09 [INFO] §eOzBarry left the game.
+2013-10-05 23:54:08 [INFO] OzBarry[/206.126.92.85:53266] logged in with entity id 1313456 at ([world] 110.76591758031893, 64.0, 274.73768674294166)
+2013-10-05 23:54:17 [INFO] <OzBarry> hai[m
+2013-10-06 00:04:42 [INFO] <Psi_Tiki> oh hi[m
+2013-10-06 00:05:04 [INFO] <OzBarry> hi hi hi[m
+2013-10-06 00:06:28 [INFO] <Psi_Tiki> you didn't message/call lol[m
+2013-10-06 00:06:42 [INFO] <Psi_Tiki> I have been playing candy crush[m
+2013-10-06 00:07:02 [INFO] <OzBarry> oh, i wasn't sure if you were playing or what[m
+2013-10-06 00:09:21 [INFO] <Psi_Tiki> sureeeeee[m
+2013-10-06 00:09:46 [INFO] <Psi_Tiki> so I made a snowman[m
+2013-10-06 00:09:58 [INFO] <Psi_Tiki> he lived for all of 2 seconds[m
+2013-10-06 00:10:05 [INFO] <OzBarry> i made one the other day...turns out they melt in the junlge bio[m
+2013-10-06 00:10:07 [INFO] <OzBarry> lol[m
+2013-10-06 00:10:14 [INFO] <Psi_Tiki> no[m
+2013-10-06 00:10:22 [INFO] <Psi_Tiki> this one literally lived[m
+2013-10-06 00:10:31 [INFO] <Psi_Tiki> for 2 seconds[m
+2013-10-06 00:10:42 [INFO] <Psi_Tiki> and then suicided on a torch[m
+2013-10-06 00:10:46 [INFO] <OzBarry> lol[m
+2013-10-06 00:10:56 [INFO] <Psi_Tiki> so dumb[m
+2013-10-06 00:11:32 [INFO] <Psi_Tiki> I need a pumpkin........[m
+2013-10-06 00:12:45 [INFO] <Psi_Tiki> yay[m
+2013-10-06 00:13:35 [INFO] <Psi_Tiki> that snoman is an asshat[m
+2013-10-06 00:16:40 [INFO] <Psi_Tiki> cats[m
+2013-10-06 00:16:43 [INFO] <Psi_Tiki> CATSSSSSSSSS[m
+2013-10-06 00:16:48 [INFO] <Psi_Tiki> CATS STOP[m
+2013-10-06 00:17:45 [INFO] <Psi_Tiki> stupid spawn[m
+2013-10-06 00:17:53 [INFO] <Psi_Tiki> you guys need to move that[m
+2013-10-06 00:20:48 [INFO] <Psi_Tiki> :([m
+2013-10-06 00:22:04 [INFO] <Psi_Tiki> SURVIVE IN HERE[m
+2013-10-06 00:22:29 [INFO] <OzBarry> :([m
+2013-10-06 00:22:30 [INFO] <Psi_Tiki> lmao[m
+2013-10-06 00:24:56 [INFO] <Psi_Tiki> how does this work, I don't even[m
+2013-10-06 00:25:48 [INFO] <OzBarry> i'm working on setting up buttons so a car comes in, and they can go left or right, and out the ...[m
+2013-10-06 00:25:53 [INFO] <OzBarry> left or right gate on either side[m
+2013-10-06 00:26:10 [INFO] <Psi_Tiki> and dennnnnnn[m
+2013-10-06 00:26:17 [INFO] <Psi_Tiki> one crashes[m
+2013-10-06 00:26:33 [INFO] <Psi_Tiki> and the other goes somewhere else to crash[m
+2013-10-06 00:30:45 [INFO] <Psi_Tiki> lmao :([m
+2013-10-06 00:31:06 [INFO] <Psi_Tiki> I walked in that place to watch the snowman die :'([m
+2013-10-06 00:31:48 [INFO] <Psi_Tiki> hey wtf[m
+2013-10-06 00:31:57 [INFO] <Psi_Tiki> what did you do with all the ovens[m
+2013-10-06 00:44:34 [INFO] <Psi_Tiki> pojdfgpojadfgjpiaodfjg[m
+2013-10-06 00:47:11 [INFO] <OzBarry> :([m
+2013-10-06 00:47:27 [INFO] <Psi_Tiki> lol[m
+2013-10-06 00:47:48 [INFO] <Psi_Tiki> I guess that wasn't the block option[m
+2013-10-06 00:48:30 [INFO] <Psi_Tiki> I wasted three arrows god damnit[m
+2013-10-06 00:48:42 [INFO] <OzBarry> every arrow counts[m
+2013-10-06 00:49:14 [INFO] <OzBarry> :([m
+2013-10-06 00:49:29 [INFO] <Psi_Tiki> snowball fight[m
+2013-10-06 00:49:46 [INFO] <Psi_Tiki> :([m
+2013-10-06 00:50:02 [INFO] <Psi_Tiki> so where are the ovens that I asked about?[m
+2013-10-06 00:50:12 [INFO] <OzBarry> autocooker?[m
+2013-10-06 00:50:29 [INFO] <Psi_Tiki> no?[m
+2013-10-06 00:50:43 [INFO] <Psi_Tiki> I have raw meats[m
+2013-10-06 00:50:53 [INFO] <OzBarry> auto-cooker works for that, too[m
+2013-10-06 00:51:04 [INFO] <Psi_Tiki> how?[m
+2013-10-06 00:51:13 [INFO] <OzBarry> i'll show you in a second :)[m
+2013-10-06 00:51:48 [INFO] <Psi_Tiki> I am throwing snow at your horse[m
+2013-10-06 00:52:00 [INFO] <Psi_Tiki> will it die?[m
+2013-10-06 00:52:34 [INFO] <OzBarry> food goes in top-most chest[m
+2013-10-06 00:52:43 [INFO] <OzBarry> coal goes in the chest left of the furnace[m
+2013-10-06 00:52:59 [INFO] <OzBarry> things that are finished cooking will appear in the big chest on the right[m
+2013-10-06 00:53:22 [INFO] <OzBarry> you can toss anything that is cookable in the top chest[m
+2013-10-06 00:53:39 [INFO] <OzBarry> there is a pile of coal in the furance, so you don't have to worry about that[m
+2013-10-06 00:54:00 [INFO] <Psi_Tiki> hummmmmm[m
+2013-10-06 00:54:19 [INFO] <OzBarry> lights out here mean that something is cooking[m
+2013-10-06 00:54:46 [INFO] <OzBarry> technically, it's just indicating that the coals are hot[m
+2013-10-06 00:55:02 [INFO] <OzBarry> so things may be done cooking while the light is still on[m
+2013-10-06 01:03:19 [INFO] <Psi_Tiki> ummmmmmmm[m
+2013-10-06 01:03:40 [INFO] <Psi_Tiki> what just exploded?[m
+2013-10-06 01:03:52 [INFO] <OzBarry> creepers are somehow getting into my rail station[m
+2013-10-06 01:05:03 [INFO] <OzBarry> i need to fix that button =/[m
+2013-10-06 01:05:51 [INFO] <OzBarry> fixed[m
+2013-10-06 01:06:11 [INFO] <OzBarry> or not[m
+2013-10-06 01:06:34 [INFO] <OzBarry> okay, now it's fixed[m
+2013-10-06 01:06:37 [INFO] <OzBarry> for realz[m
+2013-10-06 01:16:27 [INFO] <Psi_Tiki> lol[m
+2013-10-06 01:16:38 [INFO] <Psi_Tiki> I am going to bed[m
+2013-10-06 01:16:45 [INFO] <Psi_Tiki> night[m
+2013-10-06 01:16:49 [INFO] <OzBarry> g'night, sir[m
+2013-10-06 01:16:51 [INFO] Connection reset
+2013-10-06 01:16:51 [INFO] Psi_Tiki lost connection: disconnect.quitting
+2013-10-06 01:16:51 [INFO] §ePsi_Tiki left the game.
+2013-10-06 01:47:31 [INFO] Connection reset
+2013-10-06 01:47:31 [INFO] OzBarry lost connection: disconnect.quitting
+2013-10-06 01:47:31 [INFO] §eOzBarry left the game.
+2013-10-06 12:00:18 [INFO] OzBarry[/206.126.92.85:47455] logged in with entity id 1476323 at ([world] 107.25445330940578, 64.0, 267.6010120405599)
+2013-10-06 13:10:21 [INFO] OzBarry lost connection: disconnect.quitting
+2013-10-06 13:10:21 [INFO] Connection reset
+2013-10-06 13:10:21 [INFO] §eOzBarry left the game.
+2013-10-06 20:08:23 [INFO] Psi_Tiki[/184.147.202.31:49252] logged in with entity id 1573816 at ([world] 53.67056812972136, 67.0, 262.85808783189833)
+2013-10-06 20:36:09 [INFO] OzBarry[/206.126.92.85:51189] logged in with entity id 1634863 at ([world] -279.2643327481149, 65.0, 303.22896113576604)
+2013-10-06 20:36:12 [INFO] <Psi_Tiki> hi[m
+2013-10-06 20:36:17 [INFO] <OzBarry> hey sexy[m
+2013-10-06 20:36:19 [INFO] <Psi_Tiki> talking?[m
+2013-10-06 20:36:27 [INFO] <Psi_Tiki> yessssssss?[m
+2013-10-06 20:36:33 [INFO] <OzBarry> can't, Erinn's sleeping in near proximity to me[m
+2013-10-06 20:36:39 [INFO] <Psi_Tiki> meh[m
+2013-10-06 20:36:43 [INFO] <Psi_Tiki> just yell[m
+2013-10-06 20:36:50 [INFO] <Psi_Tiki> it'll be fun[m
+2013-10-06 20:37:05 [INFO] <OzBarry> that may have the opposite affect of attaining her continued affections[m
+2013-10-06 20:37:07 [INFO] <Psi_Tiki> I am finding diamonds[m
+2013-10-06 20:47:11 [INFO] <Psi_Tiki> omgggggggg[m
+2013-10-06 20:47:41 [INFO] <Psi_Tiki> the spawn protection goes all the way to the lowest level?[m
+2013-10-06 20:47:54 [INFO] <OzBarry> i think so :([m
+2013-10-06 20:48:09 [INFO] <Psi_Tiki> so this diamond I can't get[m
+2013-10-06 20:48:28 [INFO] <OzBarry> :([m
+2013-10-06 20:52:58 [INFO] <OzBarry> mark, have you ever had one of those poops that after wiping like 100 times, theres still some left?[m
+2013-10-06 21:09:13 [INFO] <Psi_Tiki> lol :([m
+2013-10-06 21:09:21 [INFO] <Psi_Tiki> it's boring not talking[m
+2013-10-06 21:09:29 [INFO] <OzBarry> :( i'm sorry[m
+2013-10-06 21:10:30 [INFO] <Psi_Tiki> I am still laughing at shooting james from far away with the bow[m
+2013-10-06 21:10:39 [INFO] <OzBarry> what's this?[m
+2013-10-06 21:10:53 [INFO] <Psi_Tiki> that one time last week[m
+2013-10-06 21:11:05 [INFO] <Psi_Tiki> I was like I bet I can hit you[m
+2013-10-06 21:11:32 [INFO] <Psi_Tiki> and the first shot he was like, "That was short"[m
+2013-10-06 21:11:57 [INFO] <Psi_Tiki> so I aimed realy high and shot. Hit him and he fell to his death[m
+2013-10-06 21:12:10 [INFO] <OzBarry> oh that James[m
+2013-10-06 21:12:19 [INFO] <OzBarry> always falling from taking arrows to the knee[m
+2013-10-06 21:14:12 [INFO] <Psi_Tiki> RAVE PARTYYYYYYYYYYYYYYYYY[m
+2013-10-06 21:14:34 [INFO] <Psi_Tiki> the xp is stuck in an infinite loop[m
+2013-10-06 21:14:54 [INFO] <Psi_Tiki> flying into my face and then back[m
+2013-10-06 21:28:08 [INFO] <OzBarry> have you ever karate chopped a baby?[m
+2013-10-06 21:28:19 [INFO] <Psi_Tiki> all the time[m
+2013-10-06 21:28:30 [INFO] <OzBarry> me too![m
+2013-10-06 21:28:55 [INFO] <Psi_Tiki> they never shut up, with all the crying and all[m
+2013-10-06 21:29:24 [INFO] <Psi_Tiki> the karate choping silences them after a few good ones[m
+2013-10-06 21:29:42 [INFO] <OzBarry> sometimes (my favorite) permenantly[m
+2013-10-06 21:29:49 [INFO] <OzBarry> except with better spelling[m
+2013-10-06 21:30:05 [INFO] <Psi_Tiki> shut up nerd[m
+2013-10-06 21:30:06 [INFO] <Psi_Tiki> lol[m
+2013-10-06 21:30:23 [INFO] <OzBarry> naw, i was talking about how I can't spell permenantly[m
+2013-10-06 21:30:52 [INFO] <Psi_Tiki> indefinately[m
+2013-10-06 21:33:34 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-10-06 21:33:56 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-10-06 21:34:14 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-10-06 21:34:39 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-10-06 21:34:51 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-10-06 21:35:13 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-10-06 21:35:27 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-10-06 21:35:48 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-10-06 21:36:06 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-10-06 21:36:27 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-10-06 21:36:44 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-10-06 21:37:10 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-10-06 21:37:36 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-10-06 21:37:48 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-10-06 21:38:20 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-10-06 21:38:47 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-10-06 21:39:00 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-10-06 21:39:39 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-10-06 21:40:02 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-10-06 21:40:11 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-10-06 21:49:57 [INFO] OzBarry issued server command: /help dynmap
+2013-10-06 21:50:09 [INFO] OzBarry issued server command: /dmap
+2013-10-06 21:50:15 [INFO] OzBarry issued server command: /dynmap
+2013-10-06 21:50:32 [INFO] OzBarry issued server command: /dynmap show
+2013-10-06 21:54:01 [INFO] <OzBarry> woo, we have emeralds now[m
+2013-10-06 21:58:55 [INFO] <OzBarry> going to grab a snack, brb[m
+2013-10-06 22:07:45 [INFO] <Psi_Tiki> ewwwww[m
+2013-10-06 22:13:14 [INFO] <Psi_Tiki> I hear something[m
+2013-10-06 22:13:20 [INFO] <Psi_Tiki> ALEX[m
+2013-10-06 22:13:27 [INFO] <Psi_Tiki> I AM SCARED[m
+2013-10-06 22:14:30 [INFO] <OzBarry> hi[m
+2013-10-06 22:14:39 [INFO] <OzBarry> what's this hearing business?[m
+2013-10-06 22:14:40 [INFO] <Psi_Tiki> I am scareddddd[m
+2013-10-06 22:14:46 [INFO] <Psi_Tiki> I dono[m
+2013-10-06 22:15:01 [INFO] <Psi_Tiki> maybe a monster spawner? I dono[m
+2013-10-06 22:15:07 [INFO] <Psi_Tiki> it sounds wierd[m
+2013-10-06 22:15:15 [INFO] <OzBarry> describe the noise[m
+2013-10-06 22:15:27 [INFO] <Psi_Tiki> someone masterbating[m
+2013-10-06 22:15:36 [INFO] <OzBarry> enderman?[m
+2013-10-06 22:15:47 [INFO] <Psi_Tiki> down here?[m
+2013-10-06 22:16:02 [INFO] <OzBarry> are you in the main mine?[m
+2013-10-06 22:16:55 [INFO] <Psi_Tiki> ummmmmmmmm[m
+2013-10-06 22:18:01 [INFO] <Psi_Tiki> where are you[m
+2013-10-06 22:18:06 [INFO] <OzBarry> base[m
+2013-10-06 22:20:27 [INFO] <Psi_Tiki> one sec[m
+2013-10-06 22:23:20 [INFO] <Psi_Tiki> mmmmkay[m
+2013-10-06 22:26:07 [INFO] <OzBarry> rail lines ftw[m
+2013-10-06 22:26:25 [INFO] <Psi_Tiki> where are you?[m
+2013-10-06 22:26:37 [INFO] <OzBarry> heading towards my fortified city[m
+2013-10-06 22:26:38 [INFO] <OzBarry> :D[m
+2013-10-06 22:26:44 [INFO] <Psi_Tiki> no[m
+2013-10-06 22:26:49 [INFO] <Psi_Tiki> come to the noise[m
+2013-10-06 22:26:58 [INFO] <OzBarry> ok[m
+2013-10-06 22:29:56 [INFO] <Psi_Tiki> this[m
+2013-10-06 22:29:58 [INFO] <Psi_Tiki> lol[m
+2013-10-06 22:30:06 [INFO] <OzBarry> i can't hear anything[m
+2013-10-06 22:30:15 [INFO] <Psi_Tiki> turn up sound?[m
+2013-10-06 22:30:35 [INFO] <OzBarry> hmmm[m
+2013-10-06 22:30:41 [INFO] <OzBarry> sounds like a clock[m
+2013-10-06 22:31:13 [INFO] <OzBarry> it's one of those green cube mobs[m
+2013-10-06 22:31:13 [INFO] <Psi_Tiki> loud up here[m
+2013-10-06 22:31:19 [INFO] <OzBarry> not sure where it is, though[m
+2013-10-06 22:31:50 [INFO] <Psi_Tiki> here[m
+2013-10-06 22:32:09 [INFO] <Psi_Tiki> humm[m
+2013-10-06 22:32:22 [INFO] <Psi_Tiki> that was it?[m
+2013-10-06 22:32:24 [INFO] <Psi_Tiki> lol[m
+2013-10-06 22:32:28 [INFO] <OzBarry> yup :D[m
+2013-10-06 22:32:43 [INFO] <Psi_Tiki> awww I thought it was something more[m
+2013-10-06 22:33:41 [INFO] <Psi_Tiki> found another one[m
+2013-10-06 22:33:45 [INFO] <OzBarry> :D[m
+2013-10-06 22:33:51 [INFO] <OzBarry> they spawn in flat places[m
+2013-10-06 22:34:14 [INFO] <OzBarry> they are hell in single player super-flat maps[m
+2013-10-06 22:38:01 [INFO] <Psi_Tiki> oh[m
+2013-10-06 22:38:06 [INFO] <Psi_Tiki> you gave me one[m
+2013-10-06 22:38:53 [INFO] <OzBarry> yup :)[m
+2013-10-06 22:39:24 [INFO] <Psi_Tiki> meh, I ran up[m
+2013-10-06 22:39:39 [INFO] <Psi_Tiki> so sharing my folder on ubuntu[m
+2013-10-06 22:39:52 [INFO] <Psi_Tiki> it still asks for credentials?[m
+2013-10-06 22:40:12 [INFO] <OzBarry> samba? or on a vm?[m
+2013-10-06 22:40:24 [INFO] <Psi_Tiki> samba[m
+2013-10-06 22:40:54 [INFO] <Psi_Tiki> like I shared it, I enter in the user name and pass of the system[m
+2013-10-06 22:40:59 [INFO] <Psi_Tiki> wont let me in[m
+2013-10-06 22:41:26 [INFO] <OzBarry> you might need to add your user to the samba group[m
+2013-10-06 22:42:16 [INFO] <Psi_Tiki> where is that[m
+2013-10-06 22:42:26 [INFO] <Psi_Tiki> samba isn't in my prgrams[m
+2013-10-06 22:42:40 [INFO] <Psi_Tiki> do I need to google doing it in terminal?[m
+2013-10-06 22:42:41 [INFO] <OzBarry> naw, you'll need to modify your unix user account[m
+2013-10-06 22:43:02 [INFO] <OzBarry> yeah - i don't think samba has any front-ends[m
+2013-10-06 22:46:27 [INFO] <Psi_Tiki> pdbedit?[m
+2013-10-06 22:48:15 [INFO] <OzBarry> not sure[m
+2013-10-06 22:49:16 [INFO] <OzBarry> http://rbgeek.wordpress.com/2012/04/25/how-to-install-samba-server-on-ubuntu-12-04/[m
+2013-10-06 22:50:34 [INFO] <Psi_Tiki> lmao[m
+2013-10-06 22:50:40 [INFO] <Psi_Tiki> yeahhhhhhhh[m
+2013-10-06 22:53:35 [INFO] <Psi_Tiki> I am confused[m
+2013-10-06 22:53:43 [INFO] <Psi_Tiki> I thought it installed[m
+2013-10-06 22:54:05 [INFO] <Psi_Tiki> now it is telling me that samba wasn't on yet I shared a folder.... okay[m
+2013-10-06 22:55:04 [INFO] <OzBarry> maybe it was just installing the samba-common stuff?[m
+2013-10-06 22:55:12 [INFO] <Psi_Tiki> I dono[m
+2013-10-06 22:55:19 [INFO] <Psi_Tiki> did a restart[m
+2013-10-06 22:55:29 [INFO] <Psi_Tiki> and then I'll go from there[m
+2013-10-06 22:56:22 [INFO] <Psi_Tiki> lmao[m
+2013-10-06 22:56:27 [INFO] <Psi_Tiki> fuck that[m
+2013-10-06 22:56:36 [INFO] <Psi_Tiki> doing a restart worked[m
+2013-10-06 22:56:39 [INFO] <Psi_Tiki> ther hell[m
+2013-10-06 22:57:10 [INFO] <Psi_Tiki> I thought it told me it already restarted but it just sat there when I said okay[m
+2013-10-06 22:57:24 [INFO] <Psi_Tiki> so I asumed it was resetting the app[m
+2013-10-06 22:57:31 [INFO] <Psi_Tiki> meh[m
+2013-10-06 22:57:34 [INFO] <Psi_Tiki> hurray[m
+2013-10-06 22:57:53 [INFO] <Psi_Tiki> LMAO[m
+2013-10-06 22:58:02 [INFO] <OzBarry> :D[m
+2013-10-06 22:58:08 [INFO] <Psi_Tiki> it is raining in a 5x5 radious[m
+2013-10-06 22:58:22 [INFO] <OzBarry> it's only raining in a certain biome[m
+2013-10-06 22:58:24 [INFO] <Psi_Tiki> MINECRAFT YOU ARE DRUNK[m
+2013-10-06 22:58:45 [INFO] <Psi_Tiki> oh[m
+2013-10-06 22:59:23 [INFO] <Psi_Tiki> well then[m
+2013-10-06 23:00:02 [INFO] <OzBarry> well, i think i need to head to bed[m
+2013-10-06 23:00:28 [INFO] <OzBarry> good night, my good sir[m
+2013-10-06 23:00:36 [INFO] <Psi_Tiki> same[m
+2013-10-06 23:00:38 [INFO] <Psi_Tiki> night[m
+2013-10-06 23:00:43 [INFO] Connection reset
+2013-10-06 23:00:43 [INFO] OzBarry lost connection: disconnect.quitting
+2013-10-06 23:00:43 [INFO] §eOzBarry left the game.
+2013-10-06 23:01:02 [INFO] Connection reset
+2013-10-06 23:01:02 [INFO] Psi_Tiki lost connection: disconnect.quitting
+2013-10-06 23:01:02 [INFO] §ePsi_Tiki left the game.
+2013-10-07 08:09:56 [INFO] OzBarry[/206.126.92.85:59075] logged in with entity id 1962097 at ([world] 107.04672596453746, 64.0, 267.1805683456774)
+2013-10-07 08:51:05 [INFO] Connection reset
+2013-10-07 08:51:05 [INFO] OzBarry lost connection: disconnect.quitting
+2013-10-07 08:51:05 [INFO] §eOzBarry left the game.
+2013-10-07 15:10:31 [INFO] OzBarry[/206.126.92.85:32829] logged in with entity id 2096743 at ([world] -268.92792982085507, 64.0, 294.9797648710992)
+2013-10-07 16:02:21 [INFO] jemmrich[/209.213.246.191:47448] logged in with entity id 2153516 at ([world] -261.74690569035437, 65.0, 288.92500001192093)
+2013-10-07 16:02:25 [INFO] <OzBarry> hey hey[m
+2013-10-07 16:02:36 [INFO] <jemmrich> lol hai[m
+2013-10-07 16:02:57 [INFO] <OzBarry> come here[m
+2013-10-07 16:04:27 [INFO] <jemmrich> lol![m
+2013-10-07 16:04:29 [INFO] <jemmrich> awesome![m
+2013-10-07 16:04:49 [INFO] <jemmrich> that door is a wee bit delayed[m
+2013-10-07 16:05:06 [INFO] <OzBarry> fixed :P[m
+2013-10-07 16:05:15 [INFO] <jemmrich> very cool, it needs to make that BEE BOO sound[m
+2013-10-07 16:06:06 [INFO] <OzBarry> come down the the basement here[m
+2013-10-07 16:06:15 [INFO] <OzBarry> i'll show you how to change tracks[m
+2013-10-07 16:06:41 [INFO] <OzBarry> this middle swich controls whether a cart goes to the front or back stop[m
+2013-10-07 16:07:00 [INFO] <jemmrich> need a sign[m
+2013-10-07 16:07:10 [INFO] <jemmrich> so i know how to run this contraption[m
+2013-10-07 16:07:17 [INFO] <OzBarry> there are buttons on the left and right that control which gate the train will leave from[m
+2013-10-07 16:07:41 [INFO] <jemmrich> whats that for[m
+2013-10-07 16:07:48 [INFO] <OzBarry> that's a gate button[m
+2013-10-07 16:07:50 [INFO] <jemmrich> oh i see[m
+2013-10-07 16:07:51 [INFO] <OzBarry> come here[m
+2013-10-07 16:08:05 [INFO] <OzBarry> controls whether this goes left or right[m
+2013-10-07 16:08:24 [INFO] <jemmrich> wow[m
+2013-10-07 16:08:31 [INFO] <OzBarry> going to the mine :)[m
+2013-10-07 16:08:40 [INFO] <jemmrich> aahhhh[m
+2013-10-07 16:09:27 [INFO] <jemmrich> :O[m
+2013-10-07 16:09:29 [INFO] <OzBarry> gave you an emerald :)[m
+2013-10-07 16:09:34 [INFO] <OzBarry> found a few[m
+2013-10-07 16:09:53 [INFO] <OzBarry> lol[m
+2013-10-07 16:09:57 [INFO] <jemmrich> lol[m
+2013-10-07 16:10:26 [INFO] <jemmrich> very cool[m
+2013-10-07 16:10:45 [INFO] <jemmrich> lol[m
+2013-10-07 16:10:47 [INFO] <OzBarry> i'll be setting up another station at the other place[m
+2013-10-07 16:10:52 [INFO] <jemmrich> :p[m
+2013-10-07 16:11:24 [INFO] <jemmrich> geesh[m
+2013-10-07 16:11:31 [INFO] <jemmrich> you been workin had on this[m
+2013-10-07 16:11:38 [INFO] <jemmrich> its awesome[m
+2013-10-07 16:14:45 [INFO] <OzBarry> yeah, it's pretty neat[m
+2013-10-07 16:15:01 [INFO] <OzBarry> also did a pile of exploring[m
+2013-10-07 16:15:44 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-10-07 16:16:17 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-10-07 16:16:31 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-10-07 16:16:40 [INFO] <jemmrich> i noticed, find anything interesting?[m
+2013-10-07 16:16:41 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-10-07 16:17:01 [INFO] <OzBarry> pyramid[m
+2013-10-07 16:17:06 [INFO] <OzBarry> and a witches hut[m
+2013-10-07 16:17:11 [INFO] <jemmrich> did you get the tnt?[m
+2013-10-07 16:17:20 [INFO] <OzBarry> pyramid had some emeralds and tnt[m
+2013-10-07 16:17:28 [INFO] <OzBarry> yup, we have 18 tnt now[m
+2013-10-07 16:17:42 [INFO] <jemmrich> plus some in the secret chest[m
+2013-10-07 16:17:43 [INFO] <OzBarry> it's in the fortified village[m
+2013-10-07 16:17:57 [INFO] <OzBarry> we have a secret chest?[m
+2013-10-07 16:18:26 [INFO] <jemmrich> yup[m
+2013-10-07 16:18:30 [INFO] <jemmrich> ill show you in a bit[m
+2013-10-07 16:18:36 [INFO] <jemmrich> hunting enderman[m
+2013-10-07 16:18:40 [INFO] <OzBarry> ok[m
+2013-10-07 16:18:47 [INFO] <OzBarry> how did the firearms stuff go?[m
+2013-10-07 16:18:53 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-10-07 16:19:20 [INFO] Connection reset
+2013-10-07 16:19:20 [INFO] OzBarry lost connection: disconnect.quitting
+2013-10-07 16:19:20 [INFO] §eOzBarry left the game.
+2013-10-07 16:19:32 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-10-07 16:19:37 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-10-07 16:19:42 [INFO] OzBarry[/206.126.92.85:33026] logged in with entity id 2186110 at ([world] 88.25705295083118, 69.0, 300.0)
+2013-10-07 16:19:55 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-10-07 16:20:08 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-10-07 16:20:22 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-10-07 16:20:37 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-10-07 16:21:09 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-10-07 16:21:14 [INFO] <jemmrich> enderpearl :D[m
+2013-10-07 16:21:17 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-10-07 16:21:20 [INFO] <OzBarry> woo[m
+2013-10-07 16:21:39 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-10-07 16:21:49 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-10-07 16:22:52 [INFO] <jemmrich> where are you[m
+2013-10-07 16:23:00 [INFO] <OzBarry> fortified village[m
+2013-10-07 16:23:07 [INFO] <jemmrich> k[m
+2013-10-07 16:25:15 [WARNING] jemmrich moved wrongly!
+2013-10-07 16:30:21 [INFO] <jemmrich> are village people spawning?[m
+2013-10-07 16:31:13 [INFO] <OzBarry> not yet[m
+2013-10-07 16:31:28 [INFO] <OzBarry> i'm trying to build buildings with multiple doors to help the processes[m
+2013-10-07 16:32:04 [INFO] <jemmrich> are we sure that they do spawn[m
+2013-10-07 16:40:30 [INFO] <OzBarry> huh, turns out it may not be possible, BUT it is possible to get a zombie villager, and turn it back[m
+2013-10-07 16:40:44 [INFO] <OzBarry> so maybe i'll build a mob trap to try that[m
+2013-10-07 16:41:14 [INFO] <jemmrich> :( they dont spawn?[m
+2013-10-07 16:41:59 [INFO] <OzBarry> i thought they did[m
+2013-10-07 16:42:15 [INFO] <OzBarry> might just give myself some villager spawner eggs[m
+2013-10-07 16:42:28 [INFO] <jemmrich> k[m
+2013-10-07 16:43:01 [INFO] OzBarry issued server command: /give
+2013-10-07 16:43:19 [INFO] OzBarry issued server command: /give OzBarry 120 2
+2013-10-07 16:43:19 [INFO] OzBarry: Gave OzBarry some 120 (ENDER_PORTAL_FRAME)[m
+2013-10-07 16:43:23 [INFO] <OzBarry> what[m
+2013-10-07 16:43:28 [INFO] <jemmrich> lol[m
+2013-10-07 16:43:29 [INFO] <OzBarry> that's not what i wanted at all[m
+2013-10-07 16:43:41 [INFO] OzBarry issued server command: /give
+2013-10-07 16:43:54 [INFO] <jemmrich> holy crap barry[m
+2013-10-07 16:44:09 [INFO] <jemmrich> you have done a SHIT TON of mineing[m
+2013-10-07 16:44:16 [INFO] <OzBarry> and mark[m
+2013-10-07 16:44:33 [INFO] <jemmrich> im in the middle of the jungle i think[m
+2013-10-07 16:44:40 [INFO] OzBarry issued server command: /give
+2013-10-07 16:45:57 [INFO] OzBarry issued server command: /give OzBarry 383 1 120
+2013-10-07 16:45:57 [INFO] OzBarry: Gave OzBarry some 383 (MONSTER_EGG)[m
+2013-10-07 16:46:19 [INFO] OzBarry issued server command: /give OzBarry 383 1 120
+2013-10-07 16:46:19 [INFO] OzBarry: Gave OzBarry some 383 (MONSTER_EGG)[m
+2013-10-07 16:46:42 [INFO] <OzBarry> this give command isn't working =/[m
+2013-10-07 16:47:02 [INFO] <OzBarry> or maybe it is[m
+2013-10-07 16:53:56 [INFO] <OzBarry> oh, are you in the mine out near the fortified town?[m
+2013-10-07 16:54:07 [INFO] <jemmrich> yeah i think so[m
+2013-10-07 16:54:16 [INFO] <OzBarry> oh, okay - i'll join you momentarily[m
+2013-10-07 16:54:34 [INFO] <jemmrich> bring a crafting table and some wood planks[m
+2013-10-07 16:54:56 [INFO] <OzBarry> one of the villagers here will trade 20 coal for 1 emerald, fyi[m
+2013-10-07 16:55:12 [INFO] <jemmrich> cool[m
+2013-10-07 16:55:21 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-10-07 16:55:38 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-10-07 16:55:57 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-10-07 16:56:12 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-10-07 16:56:28 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-10-07 16:56:44 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-10-07 16:56:58 [INFO] <jemmrich> no lag today :o[m
+2013-10-07 16:57:02 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-10-07 16:57:38 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-10-07 16:58:08 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-10-07 16:58:16 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-10-07 16:58:46 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-10-07 16:59:42 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-10-07 17:00:05 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-10-07 17:02:29 [INFO] <OzBarry> i think you are in marks mine[m
+2013-10-07 17:02:35 [INFO] <OzBarry> not sure on where the entrace is[m
+2013-10-07 17:02:35 [INFO] <jemmrich> i found a new area of the mine[m
+2013-10-07 17:02:56 [INFO] <jemmrich> found tracks :D[m
+2013-10-07 17:04:07 [INFO] Read timed out
+2013-10-07 17:04:07 [INFO] OzBarry lost connection: disconnect.endOfStream
+2013-10-07 17:04:07 [INFO] §eOzBarry left the game.
+2013-10-07 17:05:09 [INFO] OzBarry[/206.126.92.85:33272] logged in with entity id 2286734 at ([world] -22.387329474122733, 62.05826423198535, 369.1939610892989)
+2013-10-07 17:05:33 [INFO] <jemmrich> i have to leave very soon[m
+2013-10-07 17:05:40 [INFO] <OzBarry> ok :([m
+2013-10-07 17:05:53 [INFO] <jemmrich> :([m
+2013-10-07 17:06:14 [INFO] <OzBarry> so where is this mine you're in?[m
+2013-10-07 17:11:18 [INFO] <OzBarry> what level are you on?[m
+2013-10-07 17:11:33 [INFO] <jemmrich> 30[m
+2013-10-07 17:14:03 [INFO] <jemmrich> lol[m
+2013-10-07 17:14:09 [INFO] <jemmrich> want some tracks[m
+2013-10-07 17:14:19 [INFO] <OzBarry> ok[m
+2013-10-07 17:17:43 [INFO] <jemmrich> yikes! i gotta go lol[m
+2013-10-07 17:17:47 [INFO] <jemmrich> back later[m
+2013-10-07 17:17:49 [INFO] <OzBarry> ok[m
+2013-10-07 17:17:50 [INFO] <OzBarry> bai[m
+2013-10-07 17:17:52 [INFO] Connection reset
+2013-10-07 17:17:52 [INFO] jemmrich lost connection: disconnect.quitting
+2013-10-07 17:17:52 [INFO] §ejemmrich left the game.
+2013-10-07 17:21:47 [INFO] OzBarry lost connection: disconnect.quitting
+2013-10-07 17:21:47 [INFO] Connection reset
+2013-10-07 17:21:47 [INFO] §eOzBarry left the game.
+2013-10-07 21:41:57 [INFO] jemmrich[/209.213.246.191:47628] logged in with entity id 2450279 at ([world] 19.340244453755243, 33.0, 398.69999998807907)
+2013-10-07 22:52:43 [INFO] jemmrich fell from a high place
+2013-10-07 22:57:20 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-10-07 22:57:52 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-10-08 00:42:54 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-10-08 01:36:33 [INFO] Connection reset
+2013-10-08 01:36:33 [INFO] jemmrich lost connection: disconnect.quitting
+2013-10-08 01:36:33 [INFO] §ejemmrich left the game.
+2013-10-08 07:55:49 [INFO] OzBarry[/206.126.92.85:58597] logged in with entity id 3089434 at ([world] 56.72508802874563, 67.0, 265.1884136028843)
+2013-10-08 07:56:40 [INFO] Connection reset
+2013-10-08 07:56:40 [INFO] OzBarry lost connection: disconnect.quitting
+2013-10-08 07:56:40 [INFO] §eOzBarry left the game.
+2013-10-08 07:56:52 [INFO] OzBarry[/206.126.92.85:58624] logged in with entity id 3091230 at ([world] 59.09503314688759, 67.0, 265.8967678840022)
+2013-10-08 07:59:22 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-10-08 07:59:51 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-10-08 08:00:05 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-10-08 08:00:26 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-10-08 08:00:38 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-10-08 08:00:54 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-10-08 08:07:44 [INFO] Read timed out
+2013-10-08 08:07:44 [INFO] OzBarry lost connection: disconnect.endOfStream
+2013-10-08 08:07:44 [INFO] §eOzBarry left the game.
+2013-10-08 08:08:14 [INFO] OzBarry[/206.126.92.85:58637] logged in with entity id 3112718 at ([world] 118.72353019253089, 64.0, 255.34600023786544)
+2013-10-08 08:18:09 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-10-08 08:35:33 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-10-08 08:36:12 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-10-08 08:36:50 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-10-08 08:37:23 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-10-08 08:37:57 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-10-08 08:40:22 [INFO] OzBarry issued server command: /time set 0
+2013-10-08 08:40:22 [INFO] OzBarry: Set time to 0[m
+2013-10-08 08:43:26 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-10-08 08:47:57 [INFO] Connection reset
+2013-10-08 08:47:57 [INFO] OzBarry lost connection: disconnect.quitting
+2013-10-08 08:47:57 [INFO] §eOzBarry left the game.
+2013-10-08 14:40:23 [INFO] OzBarry[/206.126.92.85:32784] logged in with entity id 3440381 at ([world] 680.2465589036432, 68.0, 762.3623005418265)
+2013-10-08 14:55:35 [INFO] OzBarry was shot by Skeleton
+2013-10-08 15:12:49 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-10-08 15:13:09 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-10-08 15:15:24 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-10-08 15:15:54 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-10-08 15:16:07 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-10-08 15:16:33 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-10-08 15:16:47 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-10-08 15:17:13 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-10-08 15:17:32 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-10-08 15:17:57 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-10-08 15:18:08 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-10-08 15:18:31 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-10-08 15:18:42 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-10-08 15:19:09 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-10-08 15:19:13 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-10-08 15:19:38 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-10-08 15:19:52 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-10-08 15:20:37 [INFO] OzBarry was slain by Zombie
+2013-10-08 15:20:50 [INFO] OzBarry issued server command: /time set 0
+2013-10-08 15:20:50 [INFO] OzBarry: Set time to 0[m
+2013-10-08 15:21:02 [INFO] OzBarry issued server command: /tp
+2013-10-08 15:21:58 [INFO] OzBarry issued server command: /tp 700 65 730
+2013-10-08 15:21:58 [INFO] OzBarry: Teleported OzBarry to 700.50, 65.50, 730.50[m
+2013-10-08 15:22:24 [INFO] OzBarry was slain by Zombie
+2013-10-08 15:22:29 [INFO] OzBarry issued server command: /tp 700 65 730
+2013-10-08 15:22:29 [INFO] OzBarry: Teleported OzBarry to 700.50, 65.50, 730.50[m
+2013-10-08 15:34:01 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-10-08 15:34:21 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-10-08 15:34:36 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-10-08 15:34:51 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-10-08 15:35:09 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-10-08 15:35:27 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-10-08 15:35:46 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-10-08 15:35:47 [INFO] Connection reset
+2013-10-08 15:35:47 [INFO] OzBarry lost connection: disconnect.quitting
+2013-10-08 15:35:47 [INFO] §eOzBarry left the game.
+2013-10-08 15:47:52 [INFO] OzBarry[/206.126.92.85:33017] logged in with entity id 3558208 at ([world] 655.8187116624284, 67.0, 756.0253621600867)
+2013-10-08 15:47:59 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-10-08 15:48:18 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-10-08 15:48:32 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-10-08 15:48:48 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-10-08 15:49:10 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-10-08 15:49:29 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-10-08 15:53:14 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-10-08 15:53:37 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-10-08 15:53:49 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-10-08 15:54:06 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-10-08 15:54:17 [INFO] jemmrich[/209.213.246.191:60844] logged in with entity id 3568436 at ([world] 46.8445698480613, 67.0, 261.1276340444197)
+2013-10-08 15:54:41 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-10-08 15:54:46 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-10-08 15:55:49 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-10-08 15:55:55 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-10-08 15:57:01 [INFO] <OzBarry> so how is the gun stuff?[m
+2013-10-08 15:57:30 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-10-08 15:57:30 [INFO] <jemmrich> today is the exams :([m
+2013-10-08 15:57:36 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-10-08 15:58:18 [INFO] <jemmrich> not bad though, its not hard, yesterday we skipped through half the book lol[m
+2013-10-08 15:59:12 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-10-08 15:59:19 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-10-08 15:59:29 [INFO] <jemmrich> ill have to leave soon, about 30 mins[m
+2013-10-08 15:59:34 [INFO] <OzBarry> ok[m
+2013-10-08 15:59:43 [INFO] <OzBarry> lol[m
+2013-10-08 15:59:47 [INFO] <OzBarry> books...who needs books?[m
+2013-10-08 15:59:59 [INFO] <jemmrich> yup lol[m
+2013-10-08 16:00:50 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-10-08 16:00:57 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-10-08 16:00:57 [INFO] Read timed out
+2013-10-08 16:00:57 [INFO] jemmrich lost connection: disconnect.endOfStream
+2013-10-08 16:00:57 [INFO] §ejemmrich left the game.
+2013-10-08 16:01:07 [INFO] jemmrich[/209.213.246.191:60944] logged in with entity id 3572092 at ([world] 291.30000001192093, 66.0, 120.08586643847998)
+2013-10-08 16:03:01 [INFO] <OzBarry> so many mobs over here[m
+2013-10-08 16:03:07 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-10-08 16:03:13 [INFO] <jemmrich> non over here[m
+2013-10-08 16:03:15 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-10-08 16:03:53 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-10-08 16:04:00 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-10-08 16:04:47 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-10-08 16:04:49 [INFO] <OzBarry> this night in game is taking forever[m
+2013-10-08 16:04:58 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-10-08 16:05:09 [INFO] <jemmrich> yeah :S[m
+2013-10-08 16:05:43 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-10-08 16:05:44 [INFO] <jemmrich> i think i have bad lag[m
+2013-10-08 16:05:51 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-10-08 16:06:34 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-10-08 16:06:42 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-10-08 16:07:52 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-10-08 16:07:54 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-10-08 16:08:10 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-10-08 16:14:47 [INFO] <OzBarry> sorry[m
+2013-10-08 16:14:50 [INFO] <OzBarry> i got excited[m
+2013-10-08 16:14:51 [INFO] <jemmrich> lol[m
+2013-10-08 16:15:02 [INFO] <jemmrich> trying to put a rubber fist in my anus?[m
+2013-10-08 16:15:12 [INFO] <OzBarry> you mean to say....he was a homosexual?[m
+2013-10-08 16:15:32 [INFO] <jemmrich> :D[m
+2013-10-08 16:15:46 [INFO] <jemmrich> joani says that we HAVE to go to that play[m
+2013-10-08 16:15:56 [INFO] <jemmrich> apperently it is about the band, the who[m
+2013-10-08 16:16:19 [INFO] <OzBarry> well, the unfortunate thing is that Erinn and I need to do lots of cleanup for Saturday[m
+2013-10-08 16:16:34 [INFO] <OzBarry> and Friday nights are typically our free nights[m
+2013-10-08 16:16:38 [INFO] <jemmrich> ohhh[m
+2013-10-08 16:16:40 [INFO] <jemmrich> i see[m
+2013-10-08 16:16:50 [INFO] <OzBarry> plus i don't like the theatre[m
+2013-10-08 16:17:17 [INFO] <jemmrich> me neither[m
+2013-10-08 16:17:36 [INFO] <OzBarry> i saw we blow them off[m
+2013-10-08 16:17:40 [INFO] <OzBarry> *say[m
+2013-10-08 16:17:45 [INFO] <jemmrich> i told joani she could scalp them lmao[m
+2013-10-08 16:17:57 [INFO] <OzBarry> lol[m
+2013-10-08 16:18:02 [INFO] <jemmrich> i have to go, oh well[m
+2013-10-08 16:18:05 [INFO] <OzBarry> :([m
+2013-10-08 16:18:10 [INFO] <OzBarry> okay, have fun examing[m
+2013-10-08 16:18:26 [INFO] <jemmrich> lmao[m
+2013-10-08 16:19:05 [INFO] <jemmrich> lol[m
+2013-10-08 16:19:37 [INFO] <jemmrich> puking tracks :|[m
+2013-10-08 16:19:45 [INFO] <OzBarry> sorry, i have a problem[m
+2013-10-08 16:19:49 [INFO] <OzBarry> eating tracks[m
+2013-10-08 16:20:00 [INFO] <jemmrich> you should be on freaky eaters[m
+2013-10-08 16:20:14 [INFO] <OzBarry> shhhhhhhhhhhhhhhhhhh[m
+2013-10-08 16:22:08 [INFO] <OzBarry> i'm laying a new track out to the village to the north east :)[m
+2013-10-08 16:22:26 [INFO] <jemmrich> i saw :o[m
+2013-10-08 16:22:36 [INFO] <OzBarry> train network![m
+2013-10-08 16:22:40 [INFO] <OzBarry> it's like the internet[m
+2013-10-08 16:22:43 [INFO] <OzBarry> but with trains[m
+2013-10-08 16:22:55 [INFO] <jemmrich> a series of tracks?[m
+2013-10-08 16:23:01 [INFO] <OzBarry> tubes[m
+2013-10-08 16:23:05 [INFO] <OzBarry> iron tubes[m
+2013-10-08 16:23:39 [INFO] <jemmrich> ZOMBIES IN TOWN[m
+2013-10-08 16:24:02 [INFO] <jemmrich> attacking our poor villagers[m
+2013-10-08 16:24:49 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-10-08 16:25:06 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-10-08 16:25:26 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-10-08 16:25:43 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-10-08 16:25:58 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-10-08 16:26:04 [INFO] <jemmrich> only one villager?[m
+2013-10-08 16:26:14 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-10-08 16:26:32 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-10-08 16:26:49 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-10-08 16:27:12 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-10-08 16:27:26 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-10-08 16:27:50 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-10-08 16:28:13 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-10-08 16:28:29 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-10-08 16:28:37 [INFO] <OzBarry> the lag is quite bad[m
+2013-10-08 16:28:44 [INFO] <OzBarry> :([m
+2013-10-08 16:28:53 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-10-08 16:29:45 [INFO] <OzBarry> didn't you have to go?[m
+2013-10-08 16:29:53 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-10-08 16:29:57 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-10-08 16:30:24 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-10-08 16:30:28 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-10-08 16:30:56 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-10-08 16:31:00 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-10-08 16:31:10 [INFO] <jemmrich> ender was first priority[m
+2013-10-08 16:31:37 [INFO] <jemmrich> i have to be there for 6 but i should be 3 min early[m
+2013-10-08 16:31:45 [INFO] <jemmrich> 10 more mins :D[m
+2013-10-08 16:31:46 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-10-08 16:31:50 [INFO] <OzBarry> how far away is it?[m
+2013-10-08 16:31:50 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-10-08 16:31:56 [INFO] <jemmrich> 20 mins[m
+2013-10-08 16:32:37 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-10-08 16:32:41 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-10-08 16:32:55 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-10-08 16:33:16 [INFO] <jemmrich> lol omg[m
+2013-10-08 16:33:59 [INFO] <jemmrich> wow[m
+2013-10-08 16:34:04 [INFO] <jemmrich> what a nightmare[m
+2013-10-08 16:34:09 [INFO] <OzBarry> did a creeper hang out there?[m
+2013-10-08 16:34:13 [INFO] <jemmrich> yes[m
+2013-10-08 16:35:37 [INFO] <jemmrich> sorry about that[m
+2013-10-08 16:35:45 [INFO] <OzBarry> it's okay :)[m
+2013-10-08 16:35:53 [INFO] <jemmrich> peaked out and they all rushed me[m
+2013-10-08 16:36:36 [INFO] <jemmrich> that will work great as a mob catcher/farm[m
+2013-10-08 16:36:56 [INFO] <jemmrich> careful[m
+2013-10-08 16:37:00 [INFO] <jemmrich> creeper above you[m
+2013-10-08 16:37:16 [INFO] <OzBarry> thanks :)[m
+2013-10-08 16:38:04 [INFO] <jemmrich> damn door[m
+2013-10-08 16:38:16 [INFO] <jemmrich> lol[m
+2013-10-08 16:38:23 [INFO] <jemmrich> they be hatin[m
+2013-10-08 16:38:51 [INFO] <jemmrich> ok i must go, see ya tomorrow at the orfice[m
+2013-10-08 16:39:00 [INFO] <OzBarry> oh, you'll see me there ![m
+2013-10-08 16:39:11 [INFO] <jemmrich> lol[m
+2013-10-08 16:39:11 [INFO] jemmrich lost connection: disconnect.quitting
+2013-10-08 16:39:11 [INFO] Connection reset
+2013-10-08 16:39:11 [INFO] §ejemmrich left the game.
+2013-10-08 16:46:12 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-10-08 16:46:29 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-10-08 16:46:49 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-10-08 16:47:03 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-10-08 16:47:21 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-10-08 16:47:45 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-10-08 16:47:49 [INFO] Connection reset
+2013-10-08 16:47:49 [INFO] OzBarry lost connection: disconnect.quitting
+2013-10-08 16:47:49 [INFO] §eOzBarry left the game.
+2013-10-08 17:47:50 [INFO] Psi_Tiki[/184.147.202.31:50266] logged in with entity id 3632464 at ([world] 55.753882414720564, 67.0, 264.5945143638374)
+2013-10-08 17:53:09 [INFO] Psi_Tiki was shot by Skeleton
+2013-10-08 18:05:43 [INFO] Psi_Tiki was slain by Zombie
+2013-10-08 18:06:05 [INFO] Connection reset
+2013-10-08 18:06:05 [INFO] Psi_Tiki lost connection: disconnect.quitting
+2013-10-08 18:06:05 [INFO] §ePsi_Tiki left the game.
+2013-10-09 18:19:44 [INFO] jemmrich[/209.213.246.191:47775] logged in with entity id 3671225 at ([world] -281.90499858760893, 65.0, 287.2133082684237)
+2013-10-09 18:19:49 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-10-09 18:20:19 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-10-09 18:20:29 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-10-09 18:20:47 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-10-09 18:21:00 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-10-09 18:21:16 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-10-09 18:27:29 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-10-09 18:27:50 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-10-09 18:32:50 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-10-09 18:33:22 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-10-09 18:34:27 [INFO] OzBarry[/206.126.92.85:50023] logged in with entity id 3678912 at ([world] -277.25275971296776, 65.0, 302.1453561096228)
+2013-10-09 18:35:59 [INFO] <OzBarry> hey sexy[m
+2013-10-09 18:54:44 [INFO] <jemmrich> yay i saved the village[m
+2013-10-09 18:54:54 [INFO] <OzBarry> woo![m
+2013-10-09 18:55:13 [INFO] <OzBarry> need some walling supplies?[m
+2013-10-09 18:55:47 [INFO] <jemmrich> yes please[m
+2013-10-09 18:55:57 [INFO] <OzBarry> cobble? fence? something else?[m
+2013-10-09 18:56:02 [INFO] <jemmrich> cobble[m
+2013-10-09 18:56:32 [INFO] <OzBarry> i have two stacks right now[m
+2013-10-09 18:59:24 [INFO] <OzBarry> pssst[m
+2013-10-09 18:59:29 [INFO] <jemmrich> :)[m
+2013-10-09 19:03:01 [INFO] <jemmrich> what do these people trade[m
+2013-10-09 19:08:24 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-10-09 19:08:42 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-10-09 19:09:08 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-10-09 19:09:21 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-10-09 19:09:42 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-10-09 19:10:04 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-10-09 19:10:19 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-10-09 19:10:41 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-10-09 19:10:55 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-10-09 19:11:17 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-10-09 19:11:30 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-10-09 19:11:47 [INFO] <OzBarry> lots of light now :)[m
+2013-10-09 19:11:52 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-10-09 19:11:52 [INFO] <OzBarry> oh, no idea what they're trading[m
+2013-10-09 19:12:07 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-10-09 19:12:21 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-10-09 19:12:40 [INFO] <jemmrich> :D[m
+2013-10-09 19:13:11 [INFO] <OzBarry> this is a pretty big town[m
+2013-10-09 19:13:15 [INFO] <OzBarry> bigger than it seems, anyway[m
+2013-10-09 19:13:38 [INFO] <jemmrich> i agree[m
+2013-10-09 19:13:56 [INFO] <OzBarry> i went through over 128 torches lighting it up[m
+2013-10-09 19:14:23 [INFO] <OzBarry> want a door system?[m
+2013-10-09 19:14:41 [INFO] <jemmrich> love to have a rail system all the way here, lots of villagers[m
+2013-10-09 19:14:55 [INFO] <OzBarry> yeah, i'll bring the rail up this way[m
+2013-10-09 19:15:37 [INFO] <jemmrich> i want to make an enderchest system, one in each town[m
+2013-10-09 19:15:44 [INFO] <OzBarry> that's be cool[m
+2013-10-09 19:15:51 [INFO] <jemmrich> but it seems that enderchests are only for individuals[m
+2013-10-09 19:27:37 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-10-09 19:28:05 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-10-09 19:28:20 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-10-09 19:28:37 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-10-09 19:28:56 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-10-09 19:29:13 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-10-09 19:29:29 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-10-09 19:29:42 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-10-09 19:30:12 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-10-09 19:30:16 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-10-09 19:30:44 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-10-09 19:30:48 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-10-09 19:31:15 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-10-09 19:31:23 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-10-09 19:31:54 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-10-09 19:31:58 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-10-09 19:32:08 [INFO] <jemmrich> where are you[m
+2013-10-09 19:32:17 [INFO] <OzBarry> my villag3[m
+2013-10-09 19:32:21 [INFO] <OzBarry> *village[m
+2013-10-09 19:32:24 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-10-09 19:32:31 [INFO] <OzBarry> getting the train ready to be able to head out your direction[m
+2013-10-09 19:32:36 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-10-09 19:32:37 [INFO] <jemmrich> sweeet[m
+2013-10-09 19:32:54 [INFO] <jemmrich> i have made a bed over here, youshould have one there too[m
+2013-10-09 19:33:07 [INFO] <OzBarry> :( no, but i can get back to the base quickly[m
+2013-10-09 19:33:07 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-10-09 19:33:12 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-10-09 19:33:23 [INFO] <jemmrich> no worries[m
+2013-10-09 19:33:29 [INFO] <OzBarry> i don't mind[m
+2013-10-09 19:33:41 [INFO] <OzBarry> however, riding the minecart is laggy :([m
+2013-10-09 19:33:48 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-10-09 19:33:53 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-10-09 19:34:28 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-10-09 19:34:32 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-10-09 19:35:00 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-10-09 19:35:04 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-10-09 19:35:43 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-10-09 19:35:47 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-10-09 19:35:48 [INFO] <OzBarry> lol - found Mark's fencing in the door[m
+2013-10-09 19:35:59 [INFO] <OzBarry> i'm in bed[m
+2013-10-09 19:36:22 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-10-09 19:36:28 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-10-09 19:37:15 [INFO] <OzBarry> no, no bedding?[m
+2013-10-09 19:37:19 [INFO] <OzBarry> because i'm black?[m
+2013-10-09 19:37:24 [INFO] <jemmrich> lol[m
+2013-10-09 19:37:34 [INFO] <jemmrich> im under attack[m
+2013-10-09 19:37:40 [INFO] <OzBarry> oh :([m
+2013-10-09 19:37:41 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-10-09 19:38:07 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-10-09 19:38:19 [INFO] <jemmrich> should be almost light[m
+2013-10-09 19:38:21 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-10-09 19:38:52 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-10-09 19:39:08 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-10-09 19:39:31 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-10-09 19:39:51 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-10-09 19:40:04 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-10-09 19:42:53 [INFO] <jemmrich> wish i had iron over here[m
+2013-10-09 19:43:03 [INFO] <OzBarry> i'll bring some with me :)[m
+2013-10-09 19:43:09 [INFO] <jemmrich> lots please[m
+2013-10-09 19:51:56 [INFO] <jemmrich> i have no weapons D:[m
+2013-10-09 19:52:59 [INFO] <jemmrich> im using some of the wall to make weapons[m
+2013-10-09 19:52:59 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-10-09 19:53:00 [INFO] <jemmrich> lol[m
+2013-10-09 19:53:10 [INFO] <OzBarry> i know that feeling :P[m
+2013-10-09 19:53:18 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-10-09 19:53:36 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-10-09 19:53:46 [INFO] <jemmrich> SHIT[m
+2013-10-09 19:53:52 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-10-09 19:54:09 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-10-09 19:54:13 [INFO] <OzBarry> LIVE!!!![m
+2013-10-09 19:54:27 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-10-09 19:54:55 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-10-09 19:55:06 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-10-09 19:55:22 [INFO] <jemmrich> creeper blew up half a house with people in in[m
+2013-10-09 19:55:25 [INFO] <jemmrich> it[m
+2013-10-09 19:55:44 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-10-09 19:55:50 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-10-09 19:56:58 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-10-09 19:57:01 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-10-09 19:57:15 [INFO] <OzBarry> behind you :)[m
+2013-10-09 19:57:19 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-10-09 19:57:23 [INFO] <OzBarry> sword[m
+2013-10-09 19:57:29 [INFO] <jemmrich> :D[m
+2013-10-09 19:57:44 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-10-09 19:57:54 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-10-09 19:58:18 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-10-09 19:58:41 [INFO] <jemmrich> iwonder what happens if you enchant horse armor[m
+2013-10-09 19:59:43 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-10-09 20:00:07 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-10-09 20:00:19 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-10-09 20:00:42 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-10-09 20:00:56 [INFO] <jemmrich> im going to need to run back to the main base, im lvl 30[m
+2013-10-09 20:01:07 [INFO] <jemmrich> i want to finish enchanting your set of armor[m
+2013-10-09 20:01:19 [INFO] <OzBarry> ok[m
+2013-10-09 20:03:13 [INFO] <jemmrich> need anythiung when im there[m
+2013-10-09 20:03:21 [INFO] <OzBarry> come here[m
+2013-10-09 20:03:22 [INFO] <OzBarry> and no[m
+2013-10-09 20:03:42 [INFO] <jemmrich> :)[m
+2013-10-09 20:04:06 [INFO] <jemmrich> ill bring more cobble[m
+2013-10-09 20:08:22 [INFO] <OzBarry> can you check the auto-cooker for any iron, while you're there?[m
+2013-10-09 20:08:32 [INFO] <jemmrich> up[m
+2013-10-09 20:08:34 [INFO] <jemmrich> yup[m
+2013-10-09 20:13:26 [INFO] <jemmrich> nothing in the cooker[m
+2013-10-09 20:13:34 [INFO] <OzBarry> that's too bad[m
+2013-10-09 20:15:11 [INFO] <jemmrich> there is a bed in that town[m
+2013-10-09 20:15:13 [INFO] <OzBarry> just saw a zombie sexing a cow[m
+2013-10-09 20:15:22 [INFO] <OzBarry> yeah, i just made one on my way through[m
+2013-10-09 20:15:26 [INFO] <jemmrich> lol[m
+2013-10-09 20:15:42 [INFO] <jemmrich> sleep?[m
+2013-10-09 20:15:48 [INFO] <jemmrich> ill make my way back[m
+2013-10-09 20:15:55 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-10-09 20:16:00 [INFO] <OzBarry> i don't mind sleeping - where did you put the bed here?[m
+2013-10-09 20:16:06 [INFO] <jemmrich> umm[m
+2013-10-09 20:16:13 [INFO] <jemmrich> in with the shop keeper[m
+2013-10-09 20:16:17 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-10-09 20:16:20 [INFO] <jemmrich> kinda big building[m
+2013-10-09 20:16:26 [INFO] <jemmrich> tfence in the back i think[m
+2013-10-09 20:16:32 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-10-09 20:16:41 [INFO] <OzBarry> yup :)[m
+2013-10-09 20:16:54 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-10-09 20:17:08 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-10-09 20:17:21 [INFO] <jemmrich> where does the train station take me in the current confi[m
+2013-10-09 20:17:31 [INFO] <OzBarry> to the first fortified town[m
+2013-10-09 20:17:42 [INFO] <jemmrich> kk[m
+2013-10-09 20:17:42 [INFO] <OzBarry> if the train is on the side of the doorway[m
+2013-10-09 20:17:54 [INFO] <OzBarry> i labelled the tracks at their exits[m
+2013-10-09 20:33:08 [INFO] <jemmrich> lol a spider climbed the wall after you[m
+2013-10-09 20:33:14 [INFO] <OzBarry> yeah, i got him[m
+2013-10-09 20:36:17 [INFO] <jemmrich> they are reallllllly attracted to the villagers wow[m
+2013-10-09 20:38:06 [INFO] <OzBarry> :P[m
+2013-10-09 20:38:08 [INFO] <jemmrich> thanks[m
+2013-10-09 20:38:23 [INFO] <OzBarry> like my soon to be train station? :P[m
+2013-10-09 20:38:33 [INFO] <jemmrich> looking good![m
+2013-10-09 20:38:53 [INFO] <OzBarry> i'm actually going to expand it a little to make way for the out going track[m
+2013-10-09 20:39:49 [INFO] <jemmrich> looks like you have the layout memorized[m
+2013-10-09 20:43:16 [INFO] <jemmrich> we will have an enchantment place here too[m
+2013-10-09 20:47:57 [INFO] <jemmrich> rain in the desert :o[m
+2013-10-09 20:49:48 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-10-09 20:50:12 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-10-09 20:50:24 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-10-09 20:50:49 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-10-09 20:51:35 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-10-09 20:51:56 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-10-09 20:52:13 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-10-09 20:52:32 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-10-09 20:52:50 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-10-09 20:54:11 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-10-09 20:54:31 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-10-09 20:54:43 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-10-09 21:10:27 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-10-09 21:10:44 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-10-09 21:14:41 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-10-09 21:15:01 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-10-09 21:15:17 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-10-09 21:15:38 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-10-09 21:15:53 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-10-09 21:16:08 [INFO] <OzBarry> more coal in the furnace if you need any[m
+2013-10-09 21:16:09 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-10-09 21:16:16 [INFO] <OzBarry> and some iron cooking :)[m
+2013-10-09 21:16:27 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-10-09 21:16:47 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-10-09 21:16:55 [INFO] <jemmrich> k[m
+2013-10-09 21:17:07 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-10-09 21:17:26 [INFO] <OzBarry> nice[m
+2013-10-09 21:17:27 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-10-09 21:17:42 [INFO] <jemmrich> wanna use glowstone for the floor of it[m
+2013-10-09 21:17:47 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-10-09 21:17:54 [INFO] <OzBarry> we have more than enough back at the base[m
+2013-10-09 21:18:06 [INFO] <jemmrich> yep[m
+2013-10-09 21:18:07 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-10-09 21:18:29 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-10-09 21:18:47 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-10-09 21:19:06 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-10-09 21:20:07 [INFO] <jemmrich> need anything from base?[m
+2013-10-09 21:20:24 [INFO] <OzBarry> can't think of anything off hand[m
+2013-10-09 21:23:39 [INFO] <OzBarry> i gotta go pick Erinn up[m
+2013-10-09 21:23:43 [INFO] <OzBarry> not sure if i'll be back[m
+2013-10-09 21:24:40 [INFO] <OzBarry> :([m
+2013-10-09 21:24:47 [INFO] <jemmrich> :( ok[m
+2013-10-09 21:26:08 [INFO] <jemmrich> quite the place you have here barry[m
+2013-10-09 21:26:22 [INFO] <OzBarry> it'll be nicer when the tracks are all laid out[m
+2013-10-09 21:26:28 [INFO] <OzBarry> anywho, later gater[m
+2013-10-09 21:26:33 [INFO] <jemmrich> k laters[m
+2013-10-09 21:26:36 [INFO] OzBarry lost connection: disconnect.quitting
+2013-10-09 21:26:36 [INFO] Connection reset
+2013-10-09 21:26:36 [INFO] §eOzBarry left the game.
+2013-10-09 21:52:56 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-10-09 21:53:16 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-10-09 21:58:01 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-10-09 22:17:07 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-10-09 22:17:27 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-10-09 22:17:57 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-10-09 22:18:16 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-10-09 22:18:33 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-10-09 22:18:51 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-10-09 22:19:06 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-10-09 22:37:14 [INFO] Read timed out
+2013-10-09 22:37:14 [INFO] jemmrich lost connection: disconnect.endOfStream
+2013-10-09 22:37:15 [INFO] §ejemmrich left the game.
+2013-10-09 22:37:21 [INFO] jemmrich[/209.213.246.191:49006] logged in with entity id 4059117 at ([world] -724.8647879448104, 11.0, 247.34629268376614)
+2013-10-09 23:11:29 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-10-09 23:11:55 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-10-09 23:12:07 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-10-09 23:23:58 [INFO] Connection reset
+2013-10-09 23:23:58 [INFO] jemmrich lost connection: disconnect.quitting
+2013-10-09 23:23:58 [INFO] §ejemmrich left the game.
+2013-10-10 04:08:59 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-10-10 12:12:50 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-10-10 16:23:02 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-10-10 19:34:14 [INFO] OzBarry[/206.126.92.85:50929] logged in with entity id 6718510 at ([world] -681.0860348457304, 66.0, 225.24512525563293)
+2013-10-10 19:38:10 [INFO] jemmrich[/209.213.246.191:60167] logged in with entity id 6726357 at ([world] -683.5421704584941, 69.0, 207.2130251595554)
+2013-10-10 19:38:39 [INFO] <OzBarry> i'm in the mine :)[m
+2013-10-10 19:39:18 [INFO] <jemmrich> :)[m
+2013-10-10 19:39:22 [INFO] <jemmrich> whatcha think[m
+2013-10-10 19:39:28 [INFO] <OzBarry> super nice[m
+2013-10-10 19:42:52 [INFO] <OzBarry> temporary relocation :P[m
+2013-10-10 19:42:59 [INFO] <jemmrich> :o[m
+2013-10-10 19:43:06 [INFO] <OzBarry> building the auto-cooker[m
+2013-10-10 19:43:13 [INFO] <jemmrich> k[m
+2013-10-10 19:44:39 [INFO] <jemmrich> big mine isnt it[m
+2013-10-10 19:53:24 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-10-10 19:53:44 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-10-10 19:54:03 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-10-10 19:54:23 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-10-10 19:54:37 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-10-10 19:55:00 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-10-10 19:55:17 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-10-10 19:55:32 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-10-10 19:55:35 [INFO] <OzBarry> auto-cooker is up[m
+2013-10-10 19:55:50 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-10-10 19:56:12 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-10-10 19:56:23 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-10-10 19:56:44 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-10-10 19:56:55 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-10-10 19:57:16 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-10-10 19:57:37 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-10-10 19:57:47 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-10-10 19:58:09 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-10-10 19:58:19 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-10-10 19:58:43 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-10-10 19:58:53 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-10-10 19:59:22 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-10-10 19:59:27 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-10-10 20:00:02 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-10-10 20:00:07 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-10-10 20:00:48 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-10-10 20:00:53 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-10-10 20:01:51 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-10-10 20:01:57 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-10-10 20:02:54 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-10-10 20:02:59 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-10-10 20:03:53 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-10-10 20:03:58 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-10-10 20:04:46 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-10-10 20:04:51 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-10-10 20:05:38 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-10-10 20:10:59 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-10-10 20:13:17 [INFO] <OzBarry> i was afk, did i miss anything?[m
+2013-10-10 20:13:33 [INFO] <jemmrich> nein[m
+2013-10-10 20:14:17 [INFO] Read timed out
+2013-10-10 20:14:17 [INFO] jemmrich lost connection: disconnect.endOfStream
+2013-10-10 20:14:17 [INFO] §ejemmrich left the game.
+2013-10-10 20:14:38 [INFO] jemmrich[/209.213.246.191:60235] logged in with entity id 6805042 at ([world] -652.1918388674096, 25.0, 350.7002699765986)
+2013-10-10 20:18:36 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-10-10 20:27:26 [INFO] <jemmrich> oops[m
+2013-10-10 20:27:33 [INFO] <OzBarry> it's alright :)[m
+2013-10-10 20:27:52 [INFO] <jemmrich> i miss clicked[m
+2013-10-10 20:28:38 [INFO] <jemmrich> i put a crafting table by the entrance down here[m
+2013-10-10 20:28:44 [INFO] <OzBarry> ok :)[m
+2013-10-10 20:29:08 [INFO] <jemmrich> and a chest[m
+2013-10-10 20:29:16 [INFO] <jemmrich> im going back to the surface[m
+2013-10-10 20:30:25 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-10-10 20:35:52 [INFO] <OzBarry> two beds, eh?[m
+2013-10-10 20:35:56 [INFO] <OzBarry> ;)[m
+2013-10-10 20:36:01 [INFO] <jemmrich> ;)[m
+2013-10-10 20:36:09 [INFO] <OzBarry> gotta call my parents, i'll be back[m
+2013-10-10 20:36:10 [INFO] <jemmrich> moar penis pumps!![m
+2013-10-10 20:36:14 [INFO] <jemmrich> k[m
+2013-10-10 20:36:16 [INFO] <OzBarry> i'll just idle on here[m
+2013-10-10 20:36:24 [INFO] <OzBarry> that'll keep the cooker going :)[m
+2013-10-10 20:38:34 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-10-10 20:39:01 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-10-10 20:39:20 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-10-10 20:39:38 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-10-10 20:39:47 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-10-10 20:42:12 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-10-10 20:42:33 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-10-10 20:42:53 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-10-10 20:43:13 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-10-10 20:43:28 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-10-10 20:43:45 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-10-10 20:43:59 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-10-10 20:45:13 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-10-10 20:45:31 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-10-10 20:46:48 [INFO] <OzBarry> i return :)[m
+2013-10-10 20:47:00 [INFO] <jemmrich> just had a breach in the wall[m
+2013-10-10 20:47:26 [INFO] <OzBarry> need me to do a moat? (mote? I dunno the spelling)[m
+2013-10-10 20:47:41 [INFO] <jemmrich> nah i was just farming but a crepper got me[m
+2013-10-10 20:47:57 [INFO] <OzBarry> oh, ok[m
+2013-10-10 20:49:47 [INFO] <OzBarry> want me to dispose that zombie meat?[m
+2013-10-10 20:49:55 [INFO] <jemmrich> sure[m
+2013-10-10 20:50:34 [INFO] <OzBarry> nice disco floor :P[m
+2013-10-10 20:50:42 [INFO] <jemmrich> need more sugar cane![m
+2013-10-10 20:50:46 [INFO] <jemmrich> lol nice eh[m
+2013-10-10 20:51:04 [INFO] <jemmrich> travolta would be proud[m
+2013-10-10 20:51:10 [INFO] <OzBarry> :P[m
+2013-10-10 21:00:22 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-10-10 21:00:39 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-10-10 21:01:53 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-10-10 21:04:33 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-10-10 21:04:52 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-10-10 21:05:10 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-10-10 21:05:23 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-10-10 21:06:21 [INFO] <OzBarry> lots of iron cooking now :)[m
+2013-10-10 21:06:24 [INFO] <jemmrich> :D[m
+2013-10-10 21:06:43 [INFO] <jemmrich> nice lots of goods :D[m
+2013-10-10 21:07:05 [INFO] <OzBarry> so the auto cooker is the same deal - left chest is coal, top is items to cook[m
+2013-10-10 21:07:15 [INFO] <jemmrich> yup ive been adding stuff[m
+2013-10-10 21:07:19 [INFO] <OzBarry> woo :)[m
+2013-10-10 21:20:07 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-10-10 21:20:26 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-10-10 21:20:44 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-10-10 21:21:06 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-10-10 21:21:24 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-10-10 21:21:50 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-10-10 21:22:03 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-10-10 21:22:23 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-10-10 21:22:51 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-10-10 21:22:57 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-10-10 21:23:38 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-10-10 21:23:44 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-10-10 21:24:36 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-10-10 21:24:45 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-10-10 21:25:18 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-10-10 21:25:21 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-10-10 21:26:11 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-10-10 21:26:15 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-10-10 21:26:41 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-10-10 21:26:51 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-10-10 21:27:17 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-10-10 21:27:28 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-10-10 21:27:45 [INFO] <OzBarry> thanks :)[m
+2013-10-10 21:27:52 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-10-10 21:27:54 [INFO] <jemmrich> :)[m
+2013-10-10 21:28:04 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-10-10 21:28:34 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-10-10 21:28:39 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-10-10 21:29:29 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-10-10 21:29:34 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-10-10 21:30:23 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-10-10 21:30:27 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-10-10 21:31:05 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-10-10 21:31:07 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-10-10 21:31:29 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-10-10 21:31:48 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-10-10 21:32:00 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-10-10 21:40:04 [INFO] <OzBarry> zombie trap :P[m
+2013-10-10 21:40:13 [INFO] <jemmrich> :o[m
+2013-10-10 21:40:51 [INFO] Read timed out
+2013-10-10 21:40:51 [INFO] OzBarry lost connection: disconnect.endOfStream
+2013-10-10 21:40:51 [INFO] §eOzBarry left the game.
+2013-10-10 21:41:23 [INFO] OzBarry[/206.126.92.85:51011] logged in with entity id 7010316 at ([world] -678.4318179200226, 70.0, 197.4890624994128)
+2013-10-10 21:44:33 [INFO] <OzBarry> it's working :D[m
+2013-10-10 21:44:40 [INFO] <jemmrich> :D be right there[m
+2013-10-10 21:46:14 [INFO] <OzBarry> got three waiting for you :)[m
+2013-10-10 21:47:23 [INFO] <OzBarry> down here :)[m
+2013-10-10 21:47:24 [INFO] <jemmrich> lol nice[m
+2013-10-10 21:47:33 [INFO] <OzBarry> noticed they were piling up over here[m
+2013-10-10 21:47:37 [INFO] <jemmrich> just have to worry about creepers[m
+2013-10-10 21:47:53 [INFO] <OzBarry> water should limit their explosives :)[m
+2013-10-10 21:48:06 [INFO] <jemmrich> TRUE[m
+2013-10-10 21:48:07 [INFO] <jemmrich> :D[m
+2013-10-10 21:48:20 [INFO] <OzBarry> anyway, i'm tired, i need to hit the hay[m
+2013-10-10 21:48:34 [INFO] <jemmrich> ok[m
+2013-10-10 21:48:38 [INFO] <jemmrich> me too[m
+2013-10-10 21:48:45 [INFO] <OzBarry> have a good one :)[m
+2013-10-10 21:48:52 [INFO] <jemmrich> you too[m
+2013-10-10 21:49:08 [INFO] Connection reset
+2013-10-10 21:49:08 [INFO] OzBarry lost connection: disconnect.quitting
+2013-10-10 21:49:08 [INFO] §eOzBarry left the game.
+2013-10-10 22:21:12 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-10-10 22:21:29 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-10-10 22:21:46 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-10-10 22:46:07 [INFO] jemmrich lost connection: disconnect.quitting
+2013-10-10 22:46:07 [INFO] Connection reset
+2013-10-10 22:46:07 [INFO] §ejemmrich left the game.
+2013-10-10 22:47:30 [INFO] jemmrich[/209.213.246.191:60768] logged in with entity id 7180631 at ([world] 55.385196413179585, 67.0, 266.15348228800957)
+2013-10-10 22:48:07 [WARNING] jemmrich moved too quickly! 0.6867427292245978,4.0,10.125152178976748 (0.6867427292245978, 4.0, 10.125152178976748)
+2013-10-10 22:52:33 [INFO] Read timed out
+2013-10-10 22:52:33 [INFO] jemmrich lost connection: disconnect.endOfStream
+2013-10-10 22:52:33 [INFO] §ejemmrich left the game.
+2013-10-10 22:52:41 [INFO] Connection reset
+2013-10-10 22:52:51 [INFO] jemmrich[/209.213.246.191:60815] logged in with entity id 7187424 at ([world] 57.90530739175995, 71.0, 522.5995060675425)
+2013-10-10 22:56:01 [WARNING] jemmrich moved too quickly! -0.1727169745718129,1.1707870772188045,-23.562651250743272 (0.1727169745718129, 1.1707870772188045, 23.562651250743272)
+2013-10-10 22:57:05 [INFO] Connection reset
+2013-10-10 22:57:05 [INFO] jemmrich lost connection: disconnect.quitting
+2013-10-10 22:57:05 [INFO] §ejemmrich left the game.
+2013-10-11 16:03:12 [INFO] jemmrich[/129.97.143.48:59720] logged in with entity id 7867409 at ([world] 30.300000011920925, 64.0, 405.30000001192093)
+2013-10-11 16:03:15 [INFO] Connection reset
+2013-10-11 16:03:15 [INFO] jemmrich lost connection: disconnect.quitting
+2013-10-11 16:03:15 [INFO] §ejemmrich left the game.
+2013-10-11 16:04:15 [INFO] OzBarry[/129.97.143.48:39746] logged in with entity id 7868299 at ([world] -672.6999999880791, 63.0, 195.99990488698847)
+2013-10-11 16:10:21 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-10-11 16:13:29 [INFO] jemmrich[/129.97.143.48:59744] logged in with entity id 7886005 at ([world] 30.26311672109328, 63.0, 405.2408156920069)
+2013-10-11 16:13:33 [INFO] Connection reset
+2013-10-11 16:13:33 [INFO] jemmrich lost connection: disconnect.quitting
+2013-10-11 16:13:33 [INFO] §ejemmrich left the game.
+2013-10-11 16:13:49 [INFO] jemmrich[/129.97.143.48:59752] logged in with entity id 7886625 at ([world] 30.30000001192093, 63.0, 405.30000001192093)
+2013-10-11 16:13:54 [INFO] Connection reset
+2013-10-11 16:13:54 [INFO] jemmrich lost connection: disconnect.quitting
+2013-10-11 16:13:54 [INFO] §ejemmrich left the game.
+2013-10-11 16:14:13 [INFO] jemmrich[/129.97.143.48:59757] logged in with entity id 7887232 at ([world] 25.825559654081054, 63.0, 413.4533382235673)
+2013-10-11 16:15:44 [INFO] jemmrich lost connection: disconnect.quitting
+2013-10-11 16:15:44 [INFO] Connection reset
+2013-10-11 16:15:44 [INFO] §ejemmrich left the game.
+2013-10-11 16:24:18 [INFO] jemmrich[/129.97.143.48:59816] logged in with entity id 7915110 at ([world] 69.60861726412021, 66.0, 276.44161744414197)
+2013-10-11 16:25:54 [INFO] <jemmrich> see what i mean about brad hehe[m
+2013-10-11 16:31:04 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-10-11 16:31:32 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-10-11 16:31:44 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-10-11 16:32:01 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-10-11 16:32:18 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-10-11 16:32:36 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-10-11 16:32:53 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-10-11 16:33:10 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-10-11 16:33:27 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-10-11 16:33:49 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-10-11 16:34:07 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-10-11 16:34:25 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-10-11 16:34:37 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-10-11 16:34:53 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-10-11 16:35:13 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-10-11 16:35:29 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-10-11 16:36:16 [INFO] Connection reset
+2013-10-11 16:36:16 [INFO] jemmrich lost connection: disconnect.quitting
+2013-10-11 16:36:17 [INFO] §ejemmrich left the game.
+2013-10-11 16:36:24 [INFO] OzBarry lost connection: disconnect.quitting
+2013-10-11 16:36:24 [INFO] Connection reset
+2013-10-11 16:36:24 [INFO] §eOzBarry left the game.
+2013-10-11 17:42:24 [INFO] jemmrich[/209.213.246.191:60810] logged in with entity id 7945456 at ([world] 89.95364689312308, 66.0, 283.69999998807907)
+2013-10-11 18:43:18 [INFO] jemmrich lost connection: disconnect.quitting
+2013-10-11 18:43:18 [INFO] Connection reset
+2013-10-11 18:43:18 [INFO] §ejemmrich left the game.
+2013-10-11 18:49:07 [INFO] jemmrich[/209.213.246.191:32792] logged in with entity id 8036318 at ([world] -768.4496679004224, 7.0, 53.85457567726899)
+2013-10-11 18:56:36 [INFO] Psi_Tiki[/76.66.121.26:50409] logged in with entity id 8046475 at ([world] 53.83695784005914, 71.0, 259.88007258911455)
+2013-10-11 19:16:10 [INFO] Connection reset
+2013-10-11 19:16:10 [INFO] jemmrich lost connection: disconnect.endOfStream
+2013-10-11 19:16:10 [INFO] §ejemmrich left the game.
+2013-10-11 19:16:20 [INFO] jemmrich[/209.213.246.191:32885] logged in with entity id 8094488 at ([world] -723.3077684772584, 15.0, 79.14314176466888)
+2013-10-11 19:20:04 [INFO] Psi_Tiki lost connection: disconnect.quitting
+2013-10-11 19:20:04 [INFO] Connection reset
+2013-10-11 19:20:04 [INFO] §ePsi_Tiki left the game.
+2013-10-11 19:21:17 [INFO] Read timed out
+2013-10-11 19:21:17 [INFO] jemmrich lost connection: disconnect.endOfStream
+2013-10-11 19:21:17 [INFO] §ejemmrich left the game.
+2013-10-11 19:21:34 [INFO] jemmrich[/209.213.246.191:32907] logged in with entity id 8101512 at ([world] -737.8449115473873, 18.0, 57.88382498839947)
+2013-10-11 19:22:24 [INFO] jemmrich issued server command: /help
+2013-10-11 19:22:24 [INFO] jemmrich lost connection: disconnect.endOfStream
+2013-10-11 19:22:24 [INFO] §ejemmrich left the game.
+2013-10-11 19:22:26 [INFO] jemmrich[/209.213.246.191:32925] logged in with entity id 8101870 at ([world] -736.2244583037583, 18.0, 58.10714076247401)
+2013-10-11 19:23:13 [INFO] Connection reset
+2013-10-11 19:23:13 [INFO] jemmrich lost connection: disconnect.quitting
+2013-10-11 19:23:13 [INFO] §ejemmrich left the game.
+2013-10-11 19:23:28 [INFO] jemmrich[/209.213.246.191:32962] logged in with entity id 8102185 at ([world] -739.8063419315852, 18.0, 59.69999998807907)
+2013-10-11 19:25:29 [INFO] Connection reset
+2013-10-11 19:25:29 [INFO] jemmrich lost connection: disconnect.quitting
+2013-10-11 19:25:29 [INFO] §ejemmrich left the game.
+2013-10-11 19:26:02 [INFO] jemmrich[/209.213.246.191:32972] logged in with entity id 8103984 at ([world] -723.0037816965778, 18.0, 59.1584995687382)
+2013-10-11 19:27:23 [INFO] OzBarry[/206.126.92.85:39057] logged in with entity id 8104921 at ([world] -278.12843924018046, 65.0, 301.55431821115866)
+2013-10-11 19:27:29 [INFO] OzBarry issued server command: /help
+2013-10-11 19:27:37 [INFO] OzBarry issued server command: /help 5
+2013-10-11 19:27:40 [INFO] OzBarry issued server command: /help 4
+2013-10-11 19:27:45 [INFO] OzBarry issued server command: /save-all
+2013-10-11 19:27:45 [INFO] OzBarry: Forcing save..[m
+2013-10-11 19:27:45 [INFO] OzBarry: Save complete.[m
+2013-10-11 19:28:25 [INFO] OzBarry issued server command: /dynmap
+2013-10-11 19:29:04 [INFO] OzBarry issued server command: /help
+2013-10-11 19:29:12 [INFO] OzBarry issued server command: /bukkit
+2013-10-11 19:29:15 [INFO] OzBarry issued server command: /Bukkit
+2013-10-11 19:29:22 [INFO] OzBarry issued server command: /help Bukkit
+2013-10-11 19:29:30 [INFO] OzBarry issued server command: /effect
+2013-10-11 19:29:37 [INFO] OzBarry issued server command: /help
+2013-10-11 19:30:00 [INFO] OzBarry issued server command: /help 2
+2013-10-11 19:30:05 [INFO] OzBarry issued server command: /dmarker
+2013-10-11 19:30:18 [INFO] OzBarry issued server command: /dmarker addarea
+2013-10-11 19:30:43 [INFO] OzBarry issued server command: /dmarker addcorner
+2013-10-11 19:31:06 [INFO] OzBarry issued server command: /dmarker addcorner
+2013-10-11 19:31:15 [INFO] OzBarry issued server command: /dmarker addcorner
+2013-10-11 19:31:20 [INFO] OzBarry issued server command: /dmarker addcorner
+2013-10-11 19:31:27 [INFO] OzBarry issued server command: /dmarker addcorner
+2013-10-11 19:31:51 [INFO] OzBarry issued server command: /dmarker addcorner
+2013-10-11 19:33:27 [INFO] OzBarry issued server command: /addarea
+2013-10-11 19:33:35 [INFO] OzBarry issued server command: /dmarker addarea
+2013-10-11 19:33:47 [INFO] OzBarry issued server command: /dmarker
+2013-10-11 19:34:13 [INFO] OzBarry issued server command: /dmarker add
+2013-10-11 19:34:22 [INFO] OzBarry issued server command: /dmarker add Beard-Town
+2013-10-11 19:34:40 [INFO] OzBarry issued server command: /dmarker update
+2013-10-11 19:34:54 [INFO] OzBarry issued server command: /dmarker update Beard-Town
+2013-10-11 19:35:29 [INFO] §ejemmrich left the game.
+2013-10-11 19:35:29 [INFO] jemmrich[/209.213.246.191:33026] logged in with entity id 8125945 at ([world] -715.6995515124893, 41.0, 225.5590935906222)
+2013-10-11 19:35:31 [INFO] Connection reset
+2013-10-11 19:36:30 [INFO] OzBarry issued server command: /dmarker
+2013-10-11 19:36:57 [INFO] OzBarry issued server command: /dmarker update Beard-Town
+2013-10-11 19:37:31 [INFO] OzBarry issued server command: /dynmap
+2013-10-11 19:37:41 [INFO] OzBarry issued server command: /dynmap show
+2013-10-11 19:37:54 [INFO] OzBarry issued server command: /dynmap updaterenderer
+2013-10-11 19:38:09 [INFO] OzBarry issued server command: /dynmap updaterender
+2013-10-11 19:40:35 [INFO] <OzBarry> syncronized sleep?[m
+2013-10-11 19:40:39 [INFO] OzBarry issued server command: /dynmap stats
+2013-10-11 19:40:43 [INFO] <jemmrich> ill log out[m
+2013-10-11 19:40:49 [INFO] <OzBarry> ?[m
+2013-10-11 19:40:55 [INFO] <jemmrich> i dont have a bed[m
+2013-10-11 19:41:01 [INFO] <OzBarry> :([m
+2013-10-11 19:41:02 [INFO] <OzBarry> ok[m
+2013-10-11 19:41:06 [INFO] Connection reset
+2013-10-11 19:41:06 [INFO] jemmrich lost connection: disconnect.quitting
+2013-10-11 19:41:06 [INFO] §ejemmrich left the game.
+2013-10-11 19:42:23 [INFO] jemmrich[/209.213.246.191:33053] logged in with entity id 8139161 at ([world] -731.8170375592462, 8.0, 27.377568758376896)
+2013-10-11 19:43:26 [INFO] <OzBarry> where did mark go?[m
+2013-10-11 19:43:33 [INFO] <jemmrich> food i think[m
+2013-10-11 19:50:04 [INFO] <OzBarry> thanks for the rails :D[m
+2013-10-11 19:50:09 [INFO] <jemmrich> :)[m
+2013-10-11 19:54:35 [INFO] <OzBarry> brb[m
+2013-10-11 19:54:39 [INFO] OzBarry lost connection: disconnect.quitting
+2013-10-11 19:54:39 [INFO] Connection reset
+2013-10-11 19:54:39 [INFO] §eOzBarry left the game.
+2013-10-11 20:03:00 [INFO] OzBarry[/206.126.92.85:39212] logged in with entity id 8172139 at ([world] -570.7371962618571, 70.0, 246.40122063513326)
+2013-10-11 20:13:05 [INFO] Psi_Tiki[/76.66.121.26:50888] logged in with entity id 8206767 at ([world] 55.88344970198125, 67.0, 264.571763274751)
+2013-10-11 20:14:50 [INFO] <Psi_Tiki> omgggggggggg[m
+2013-10-11 20:14:59 [INFO] <Psi_Tiki> james is laggin outttttttt[m
+2013-10-11 20:17:00 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-10-11 20:17:34 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-10-11 20:17:55 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-10-11 20:18:09 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-10-11 20:18:24 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-10-11 20:20:37 [INFO] <jemmrich> i think i found an end portal[m
+2013-10-11 20:20:46 [INFO] <OzBarry> huzzah[m
+2013-10-11 20:21:00 [INFO] <jemmrich> i just dont know the exact location, but i got attacked by one of those[m
+2013-10-11 20:21:13 [INFO] <jemmrich> cobblestone mobs[m
+2013-10-11 20:21:23 [INFO] Psi_Tiki was slain by Zombie
+2013-10-11 20:21:25 [INFO] <OzBarry> the hedgehog things?[m
+2013-10-11 20:21:32 [INFO] <OzBarry> noooooooooooooo!!!!!!!!!! Mark!!!!!!!!!![m
+2013-10-11 20:21:56 [INFO] Connection reset
+2013-10-11 20:21:56 [INFO] jemmrich lost connection: disconnect.endOfStream
+2013-10-11 20:21:56 [INFO] §ejemmrich left the game.
+2013-10-11 20:22:00 [INFO] jemmrich[/209.213.246.191:33151] logged in with entity id 8252102 at ([world] -751.5864765833151, 7.0, 42.319470831819345)
+2013-10-11 20:25:04 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-10-11 20:25:28 [INFO] <Psi_Tiki> good[m
+2013-10-11 20:25:32 [INFO] <Psi_Tiki> I hated living[m
+2013-10-11 20:26:56 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-10-11 20:27:54 [INFO] <Psi_Tiki> are there no wolves in this game?[m
+2013-10-11 20:28:05 [INFO] <OzBarry> they're all hiding :([m
+2013-10-11 20:28:13 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-10-11 20:28:50 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-10-11 20:30:12 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-10-11 20:33:40 [INFO] <Psi_Tiki> so[m
+2013-10-11 20:33:47 [INFO] <Psi_Tiki> lets buy that game k[m
+2013-10-11 20:34:16 [INFO] <OzBarry> what game?[m
+2013-10-11 20:34:29 [INFO] <Psi_Tiki> keep up[m
+2013-10-11 20:34:40 [INFO] <Psi_Tiki> read your chats[m
+2013-10-11 20:34:43 [INFO] <Psi_Tiki> lol[m
+2013-10-11 20:35:17 [INFO] <Psi_Tiki> or....[m
+2013-10-11 20:35:22 [INFO] §ejemmrich left the game.
+2013-10-11 20:35:22 [INFO] Read timed out
+2013-10-11 20:35:22 [INFO] jemmrich[/209.213.246.191:33246] logged in with entity id 8323392 at ([world] -745.4990095507593, 10.0, 34.59104976072407)
+2013-10-11 20:35:27 [INFO] <Psi_Tiki> were you not in that chat[m
+2013-10-11 20:35:45 [INFO] <OzBarry> james, bring your fortune pick, i have more diamonds[m
+2013-10-11 20:43:17 [INFO] <Psi_Tiki> THE TAGGER: All previous non-limited Tiers + A custom message or graffiti tag (your first name) adde[m
+2013-10-11 20:44:23 [INFO] Read timed out
+2013-10-11 20:44:23 [INFO] jemmrich lost connection: disconnect.endOfStream
+2013-10-11 20:44:23 [INFO] §ejemmrich left the game.
+2013-10-11 20:44:50 [INFO] jemmrich[/209.213.246.191:33520] logged in with entity id 8348727 at ([world] -742.5268162649813, 7.0, 46.874027083628604)
+2013-10-11 20:44:56 [INFO] <Psi_Tiki> join the call?[m
+2013-10-11 20:45:09 [INFO] <OzBarry> Erinn's still watching a movie[m
+2013-10-11 20:49:39 [INFO] Read timed out
+2013-10-11 20:49:39 [INFO] jemmrich lost connection: disconnect.endOfStream
+2013-10-11 20:49:39 [INFO] §ejemmrich left the game.
+2013-10-11 20:50:24 [INFO] jemmrich[/209.213.246.191:33584] logged in with entity id 8379220 at ([world] -767.5474836763556, 7.0, 35.446047331358905)
+2013-10-11 20:54:25 [INFO] <jemmrich> we need a better chest thing here[m
+2013-10-11 20:54:41 [INFO] <OzBarry> yeah....[m
+2013-10-11 20:54:45 [INFO] <OzBarry> got your fortune pick on you?[m
+2013-10-11 20:55:01 [INFO] <jemmrich> how about we do it on this wall here, 3 high[m
+2013-10-11 20:55:14 [INFO] <OzBarry> ok[m
+2013-10-11 20:55:21 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-10-11 20:55:35 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-10-11 20:55:35 [INFO] <jemmrich> k ill do that in a bit, yes i have it on me[m
+2013-10-11 20:55:35 [INFO] <jemmrich> i have 40 diamonds down in the mine :o[m
+2013-10-11 20:55:54 [INFO] <OzBarry> i have some diamonds, too, if you're interested[m
+2013-10-11 20:56:27 [INFO] jemmrich lost connection: disconnect.endOfStream
+2013-10-11 20:56:27 [INFO] §ejemmrich left the game.
+2013-10-11 20:56:33 [INFO] jemmrich[/209.213.246.191:33620] logged in with entity id 8401889 at ([world] -685.2914571845022, 68.0, 209.48010454803025)
+2013-10-11 20:57:04 [INFO] Read timed out
+2013-10-11 20:57:04 [INFO] jemmrich lost connection: disconnect.endOfStream
+2013-10-11 20:57:04 [INFO] §ejemmrich left the game.
+2013-10-11 20:57:09 [INFO] jemmrich[/209.213.246.191:33629] logged in with entity id 8402807 at ([world] -685.2914571845022, 68.0, 209.48010454803025)
+2013-10-11 21:01:45 [INFO] <Psi_Tiki> TALK DA<MIT[m
+2013-10-11 21:02:09 [INFO] Connection reset
+2013-10-11 21:02:09 [INFO] jemmrich lost connection: disconnect.genericReason
+2013-10-11 21:02:09 [INFO] §ejemmrich left the game.
+2013-10-11 21:02:13 [INFO] jemmrich[/209.213.246.191:33647] logged in with entity id 8410291 at ([world] -685.463184951604, 68.0, 208.71236581624308)
+2013-10-11 21:04:53 [INFO] <OzBarry> two enderpearls in here if you want them[m
+2013-10-11 21:05:17 [INFO] <jemmrich> cool :D[m
+2013-10-11 21:06:07 [INFO] Connection reset
+2013-10-11 21:06:07 [INFO] jemmrich lost connection: disconnect.genericReason
+2013-10-11 21:06:07 [INFO] §ejemmrich left the game.
+2013-10-11 21:06:13 [INFO] jemmrich[/209.213.246.191:33677] logged in with entity id 8419519 at ([world] -673.8391218600138, 66.0, 218.52249921203074)
+2013-10-11 21:06:27 [INFO] <jemmrich> this game hates me[m
+2013-10-11 21:10:25 [INFO] jemmrich lost connection: disconnect.endOfStream
+2013-10-11 21:10:25 [INFO] §ejemmrich left the game.
+2013-10-11 21:10:31 [INFO] jemmrich[/209.213.246.191:33703] logged in with entity id 8431914 at ([world] -680.6002265965242, 66.0, 215.70017827168087)
+2013-10-11 21:12:06 [INFO] Connection reset
+2013-10-11 21:12:07 [INFO] jemmrich lost connection: disconnect.endOfStream
+2013-10-11 21:12:07 [INFO] §ejemmrich left the game.
+2013-10-11 21:13:52 [INFO] <Psi_Tiki> HI[m
+2013-10-11 21:14:03 [INFO] <OzBarry> hi[m
+2013-10-11 21:14:12 [INFO] <Psi_Tiki> talk in our talk[m
+2013-10-11 21:14:16 [INFO] <Psi_Tiki> gawd[m
+2013-10-11 21:15:29 [INFO] jemmrich[/184.151.61.241:45620] logged in with entity id 8442104 at ([world] -685.2093173235397, 68.0, 208.59922376004994)
+2013-10-11 21:15:40 [INFO] <jemmrich> using my cell for internet[m
+2013-10-11 21:15:49 [INFO] <OzBarry> why?[m
+2013-10-11 21:15:52 [INFO] <Psi_Tiki> lol[m
+2013-10-11 21:15:56 [INFO] <Psi_Tiki> NOOB[m
+2013-10-11 21:15:59 [INFO] <jemmrich> because i keep getting disconnected[m
+2013-10-11 21:16:09 [INFO] <Psi_Tiki> move to stratford[m
+2013-10-11 21:16:13 [INFO] <Psi_Tiki> this is a sign[m
+2013-10-11 21:16:24 [INFO] <jemmrich> you move to stratford[m
+2013-10-11 21:16:30 [INFO] <Psi_Tiki> k[m
+2013-10-11 21:16:33 [INFO] <Psi_Tiki> done[m
+2013-10-11 21:16:36 [INFO] <Psi_Tiki> now you[m
+2013-10-11 21:17:08 [INFO] <OzBarry> rail now connects beard down to Emmrich-City[m
+2013-10-11 21:17:41 [INFO] <jemmrich> sweeet![m
+2013-10-11 21:18:29 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-10-11 21:18:54 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-10-11 21:19:20 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-10-11 21:19:20 [INFO] <Psi_Tiki> and it connects to stratford[m
+2013-10-11 21:19:44 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-10-11 21:19:57 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-10-11 21:20:05 [INFO] <jemmrich> ok emmrich town is now all sorted[m
+2013-10-11 21:20:15 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-10-11 21:20:39 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-10-11 21:21:11 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-10-11 21:21:22 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-10-11 21:21:43 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-10-11 21:21:57 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-10-11 21:22:15 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-10-11 21:22:34 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-10-11 21:22:47 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-10-11 21:23:06 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-10-11 21:23:25 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-10-11 21:23:39 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-10-11 21:23:56 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-10-11 21:24:13 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-10-11 21:24:36 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-10-11 21:24:52 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-10-11 21:25:14 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-10-11 21:25:25 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-10-11 21:32:48 [INFO] Connection reset
+2013-10-11 21:32:48 [INFO] Psi_Tiki lost connection: disconnect.quitting
+2013-10-11 21:32:48 [INFO] §ePsi_Tiki left the game.
+2013-10-11 21:40:44 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-10-11 21:41:02 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-10-11 21:45:13 [INFO] <OzBarry> takes 2:00 on the minecart to get from Emmrich City to the main base[m
+2013-10-11 21:46:01 [INFO] <jemmrich> where did mark go[m
+2013-10-11 21:46:05 [INFO] <OzBarry> no idea[m
+2013-10-11 21:46:11 [INFO] <OzBarry> probably bored of us not talking[m
+2013-10-11 21:46:13 [INFO] <OzBarry> :([m
+2013-10-11 21:46:14 [INFO] <jemmrich> wow 2 mins thats a lot of walking saved[m
+2013-10-11 21:46:31 [INFO] <jemmrich> he was just mumbling nonsense anyways[m
+2013-10-11 21:46:56 [INFO] <OzBarry> at BeardTown, when it parks, you need to flip the switch in front of the cart before pressing ...[m
+2013-10-11 21:47:06 [INFO] <OzBarry> ...the button to keep going[m
+2013-10-11 21:47:11 [INFO] <OzBarry> oh that Mark[m
+2013-10-11 21:47:52 [INFO] <jemmrich> not sure what you mean[m
+2013-10-11 21:48:16 [INFO] <OzBarry> in BeardTown, there is a toggle switch that switches a track from left to right[m
+2013-10-11 21:48:34 [INFO] <OzBarry> when facing the switch, left goes to emmrich city, right goes to the main base[m
+2013-10-11 21:48:34 [INFO] <jemmrich> oh ok[m
+2013-10-11 21:49:48 [INFO] OzBarry issued server command: /give OzBarry 383 1 120
+2013-10-11 21:49:48 [INFO] OzBarry: Gave OzBarry some 383 (MONSTER_EGG)[m
+2013-10-11 21:49:57 [INFO] <jemmrich> GASP[m
+2013-10-11 21:50:05 [INFO] <OzBarry> a villager died in my town :([m
+2013-10-11 21:50:10 [INFO] <jemmrich> :([m
+2013-10-11 21:51:09 [INFO] <jemmrich> ive been mining a lot of emeral[m
+2013-10-11 21:51:15 [INFO] <jemmrich> emerald[m
+2013-10-11 21:51:17 [INFO] <OzBarry> woo![m
+2013-10-11 21:51:28 [INFO] <jemmrich> and diamond its crazy[m
+2013-10-11 21:57:37 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-10-11 21:57:58 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-10-11 21:58:16 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-10-11 21:58:26 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-10-11 21:58:44 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-10-11 21:59:01 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-10-11 21:59:26 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-10-11 21:59:42 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-10-11 21:59:58 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-10-11 22:00:18 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-10-11 22:00:31 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-10-11 22:00:55 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-10-11 22:01:21 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-10-11 22:01:34 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-10-11 22:02:02 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-10-11 22:02:06 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-10-11 22:02:44 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-10-11 22:02:49 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-10-11 22:03:33 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-10-11 22:03:38 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-10-11 22:04:24 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-10-11 22:04:28 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-10-11 22:05:10 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-10-11 22:05:15 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-10-11 22:06:13 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-10-11 22:06:18 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-10-11 22:07:20 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-10-11 22:07:24 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-10-11 22:08:00 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-10-11 22:08:04 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-10-11 22:08:34 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-10-11 22:25:06 [INFO] <OzBarry> i'm starting to mine the abandoned mine under beardtown - is nice[m
+2013-10-11 22:25:12 [INFO] <jemmrich> nice![m
+2013-10-11 22:34:31 [INFO] <jemmrich> wow got a roof over the mine cart station at emmrich town[m
+2013-10-11 22:34:38 [INFO] <OzBarry> :)[m
+2013-10-11 22:38:40 [INFO] <jemmrich> i have zero lag using my cell internet :/[m
+2013-10-11 22:38:44 [INFO] <jemmrich> so weird[m
+2013-10-11 22:41:17 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-10-11 22:44:15 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-10-11 22:44:39 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-10-11 22:46:04 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-10-11 22:46:27 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-10-11 22:46:40 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-10-11 22:46:58 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-10-11 22:47:12 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-10-11 22:47:29 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-10-11 22:47:48 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-10-11 22:48:03 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-10-11 22:48:21 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-10-11 23:07:59 [INFO] Connection reset
+2013-10-11 23:07:59 [INFO] jemmrich lost connection: disconnect.quitting
+2013-10-11 23:07:59 [INFO] §ejemmrich left the game.
+2013-10-11 23:09:02 [INFO] jemmrich[/184.151.61.241:37592] logged in with entity id 8706564 at ([world] -696.6999999880791, 21.684467148450164, -24.699999988079067)
+2013-10-11 23:09:22 [INFO] Connection reset
+2013-10-11 23:09:22 [INFO] jemmrich lost connection: disconnect.quitting
+2013-10-11 23:09:22 [INFO] §ejemmrich left the game.
+2013-10-11 23:12:35 [INFO] OzBarry issued server command: /help
+2013-10-11 23:12:41 [INFO] OzBarry issued server command: /help Bukkit
+2013-10-11 23:12:47 [INFO] OzBarry issued server command: /god
+2013-10-11 23:13:08 [INFO] OzBarry issued server command: /help effect
+2013-10-11 23:14:54 [INFO] OzBarry issued server command: /tp
+2013-10-11 23:17:43 [INFO] OzBarry issued server command: /help
+2013-10-11 23:17:48 [INFO] OzBarry issued server command: /defaultgamemode
+2013-10-11 23:17:52 [INFO] OzBarry issued server command: /defaultgamemode creative
+2013-10-11 23:17:52 [INFO] OzBarry: Default game mode set to creative[m
+2013-10-11 23:18:37 [INFO] jemmrich[/184.151.61.241:52200] logged in with entity id 8727315 at ([world] -697.2058359439561, 20.01803750026878, -21.9566398842614)
+2013-10-11 23:18:38 [INFO] OzBarry issued server command: /tp jemmrich OzBarry
+2013-10-11 23:18:38 [INFO] OzBarry: Teleported jemmrich to OzBarry[m
+2013-10-11 23:18:47 [INFO] <jemmrich> wow[m
+2013-10-11 23:19:02 [INFO] <jemmrich> it never even showed me on the map lol[m
+2013-10-11 23:19:13 [INFO] <OzBarry> :([m
+2013-10-11 23:19:19 [INFO] <jemmrich> thanks though :)[m
+2013-10-11 23:19:25 [INFO] <jemmrich> half a heart lol[m
+2013-10-11 23:23:15 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-10-11 23:23:30 [INFO] <jemmrich> is tp'ing cheating you think?[m
+2013-10-11 23:23:46 [INFO] <OzBarry> only as much as spawning villagers[m
+2013-10-11 23:24:06 [INFO] <jemmrich> k, well that was a good idea, creative would have been lol[m
+2013-10-11 23:24:10 [INFO] OzBarry issued server command: /defaultgamemode survival
+2013-10-11 23:24:10 [INFO] OzBarry: Default game mode set to survival[m
+2013-10-11 23:24:27 [INFO] <jemmrich> it was on creative! haha oh wells[m
+2013-10-11 23:26:19 [INFO] OzBarry was slain by Enderman
+2013-10-11 23:34:10 [INFO] jemmrich was shot by Skeleton
+2013-10-11 23:34:15 [INFO] <OzBarry> oh noes![m
+2013-10-11 23:34:26 [INFO] <jemmrich> lol[m
+2013-10-11 23:35:11 [INFO] <jemmrich> iforgot to eat[m
+2013-10-11 23:38:14 [INFO] <jemmrich> going to try to get my stuff bak[m
+2013-10-11 23:38:21 [INFO] <OzBarry> do it![m
+2013-10-11 23:39:34 [INFO] <jemmrich> got it all :D[m
+2013-10-11 23:42:37 [INFO] <OzBarry> found a sweet mine[m
+2013-10-11 23:42:44 [INFO] <OzBarry> with abandon mine[m
+2013-10-11 23:42:49 [INFO] <jemmrich> lots of goodies?[m
+2013-10-11 23:43:39 [INFO] <OzBarry> some[m
+2013-10-11 23:43:45 [INFO] <OzBarry> haven't explored too much of it yet[m
+2013-10-11 23:44:03 [INFO] <jemmrich> i found some more tracks im just securing the place[m
+2013-10-11 23:44:09 [INFO] <OzBarry> :D[m
+2013-10-11 23:48:45 [INFO] <jemmrich> im finding a lot of mine carts down here[m
+2013-10-11 23:48:59 [INFO] <jemmrich> here must have been another barry here[m
+2013-10-11 23:49:12 [INFO] <OzBarry> whut?[m
+2013-10-11 23:49:20 [INFO] <jemmrich> lol[m
+2013-10-11 23:49:32 [INFO] <jemmrich> lots of mine carts with chests in them[m
+2013-10-11 23:57:12 [INFO] <OzBarry> i think i found ocean[m
+2013-10-11 23:57:46 [INFO] <jemmrich> indeed you have lol[m
+2013-10-11 23:57:57 [INFO] <jemmrich> lots of it above you[m
+2013-10-12 00:00:49 [INFO] <OzBarry> so, it turns out you can crash boats[m
+2013-10-12 00:01:06 [INFO] <jemmrich> yup[m
+2013-10-12 00:05:27 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-10-12 00:15:05 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-10-12 00:22:52 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-10-12 00:25:13 [INFO] OzBarry issued server command: /
+2013-10-12 00:37:55 [WARNING] jemmrich moved wrongly!
+2013-10-12 00:41:46 [INFO] <jemmrich> finding anything good[m
+2013-10-12 00:41:56 [INFO] <OzBarry> yes and no[m
+2013-10-12 00:42:08 [INFO] <OzBarry> found how to breed villagers efficiently :P[m
+2013-10-12 00:42:16 [INFO] <jemmrich> :o[m
+2013-10-12 00:42:18 [INFO] <jemmrich> how[m
+2013-10-12 00:42:37 [INFO] <OzBarry> come to beard city, and i will show you[m
+2013-10-12 00:42:50 [INFO] <jemmrich> ok lemme stock up and come[m
+2013-10-12 00:44:13 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-10-12 00:44:37 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-10-12 00:44:52 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-10-12 00:45:15 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-10-12 00:45:41 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-10-12 00:45:53 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-10-12 00:46:17 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-10-12 00:46:30 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-10-12 00:46:31 [INFO] <jemmrich> you have lots of rail at emmrich city[m
+2013-10-12 00:46:36 [INFO] <OzBarry> woo[m
+2013-10-12 00:46:38 [INFO] <OzBarry> thanks[m
+2013-10-12 00:46:56 [INFO] <jemmrich> want me to bring anything[m
+2013-10-12 00:47:06 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-10-12 00:47:11 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-10-12 00:47:14 [INFO] <OzBarry> naw, not necessary for now[m
+2013-10-12 00:48:03 [INFO] <jemmrich> is it safe to use the rail at night[m
+2013-10-12 00:48:05 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-10-12 00:48:09 [INFO] <OzBarry> safe enough[m
+2013-10-12 00:48:11 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-10-12 00:49:05 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-10-12 00:49:08 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-10-12 00:49:34 [INFO] <jemmrich> very cool[m
+2013-10-12 00:49:36 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-10-12 00:49:47 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-10-12 00:50:05 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-10-12 00:50:20 [INFO] <jemmrich> im here[m
+2013-10-12 00:50:27 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-10-12 00:50:40 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-10-12 00:51:02 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-10-12 00:51:14 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-10-12 00:51:19 [INFO] <jemmrich> LOL[m
+2013-10-12 00:51:31 [INFO] <jemmrich> this works?[m
+2013-10-12 00:51:36 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-10-12 00:51:44 [INFO] <OzBarry> i need to get the two villagers in here, and they'll start breeding[m
+2013-10-12 00:51:50 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-10-12 00:52:02 [INFO] <jemmrich> can you use a lead?[m
+2013-10-12 00:52:11 [INFO] <OzBarry> ?[m
+2013-10-12 00:52:11 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-10-12 00:52:14 [INFO] <jemmrich> one sec[m
+2013-10-12 00:52:17 [INFO] <OzBarry> oh[m
+2013-10-12 00:52:18 [INFO] <jemmrich> do you have slime?[m
+2013-10-12 00:52:20 [INFO] <OzBarry> yes :)[m
+2013-10-12 00:52:24 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-10-12 00:53:14 [INFO] <jemmrich> wow this guy is in love[m
+2013-10-12 00:53:30 [INFO] <OzBarry> you take one, i take one?[m
+2013-10-12 00:53:42 [INFO] <jemmrich> aww you can use it[m
+2013-10-12 00:53:48 [INFO] <jemmrich> lol a baby[m
+2013-10-12 00:53:58 [INFO] <OzBarry> from all those doors :P[m
+2013-10-12 00:54:03 [INFO] <jemmrich> THEY ARE GAY[m
+2013-10-12 00:54:41 [INFO] <jemmrich> i think just having the doors there they think there is more houses[m
+2013-10-12 00:54:55 [INFO] <jemmrich> lol theres a baby in here[m
+2013-10-12 00:55:21 [INFO] <jemmrich> hes in there[m
+2013-10-12 00:55:42 [INFO] <OzBarry> wanna rope them in, i'll man the door?[m
+2013-10-12 00:56:05 [INFO] <jemmrich> LOL[m
+2013-10-12 00:56:29 [INFO] <jemmrich> i wonder if we can name them[m
+2013-10-12 00:57:00 [INFO] <jemmrich> wow what a mine![m
+2013-10-12 00:57:22 [INFO] <OzBarry> :D[m
+2013-10-12 00:57:50 [INFO] <OzBarry> lol[m
+2013-10-12 00:57:59 [INFO] <jemmrich> lol[m
+2013-10-12 01:13:27 [INFO] <jemmrich> awesome mine![m
+2013-10-12 01:16:32 [INFO] <OzBarry> up to 4 villagers, and a baby[m
+2013-10-12 01:16:44 [INFO] <jemmrich> amazing[m
+2013-10-12 01:21:20 [INFO] <OzBarry> another baby![m
+2013-10-12 01:21:25 [INFO] <jemmrich> wow[m
+2013-10-12 01:21:33 [INFO] <OzBarry> science![m
+2013-10-12 01:28:47 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-10-12 01:29:03 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-10-12 01:31:40 [INFO] <jemmrich> i like your mine entrance[m
+2013-10-12 01:32:19 [INFO] <OzBarry> thankie[m
+2013-10-12 01:32:20 [INFO] <jemmrich> got a stack almost of rail for you[m
+2013-10-12 01:33:26 [INFO] <jemmrich> you need more chests here[m
+2013-10-12 01:33:32 [INFO] <OzBarry> yeah..[m
+2013-10-12 01:33:38 [INFO] <jemmrich> where would you like them so i can sort stuff[m
+2013-10-12 01:34:29 [INFO] <OzBarry> how about the house next to the rail house?[m
+2013-10-12 01:34:47 [INFO] <jemmrich> where[m
+2013-10-12 01:35:13 [INFO] <jemmrich> ok[m
+2013-10-12 01:35:19 [INFO] <jemmrich> it shall be done[m
+2013-10-12 01:35:43 [INFO] <OzBarry> brb[m
+2013-10-12 01:39:39 [INFO] <OzBarry> sort faster!!!![m
+2013-10-12 01:39:40 [INFO] <OzBarry> lol[m
+2013-10-12 01:39:42 [INFO] <jemmrich> lol[m
+2013-10-12 01:42:01 [INFO] <OzBarry> i think i'm ready for bed[m
+2013-10-12 01:42:12 [INFO] <jemmrich> me too!![m
+2013-10-12 01:42:33 [INFO] <OzBarry> alright - have a good night, my good sir[m
+2013-10-12 01:42:36 [INFO] <jemmrich> welll.. maybe some jean luc first[m
+2013-10-12 01:42:51 [INFO] <jemmrich> you have a great weekend, happy bday![m
+2013-10-12 01:43:04 [INFO] <OzBarry> thanks :) Captain, take a look at this![m
+2013-10-12 01:43:06 [INFO] Connection reset
+2013-10-12 01:43:06 [INFO] OzBarry lost connection: disconnect.quitting
+2013-10-12 01:43:06 [INFO] §eOzBarry left the game.
+2013-10-12 01:44:10 [INFO] jemmrich lost connection: disconnect.quitting
+2013-10-12 01:44:10 [INFO] Connection reset
+2013-10-12 01:44:10 [INFO] §ejemmrich left the game.
+2013-10-12 13:13:40 [INFO] OzBarry[/206.126.92.85:51103] logged in with entity id 9301022 at ([world] -267.6134101215763, 64.0, 294.928820075386)
+2013-10-12 13:27:47 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-10-12 13:28:08 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-10-12 13:28:23 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-10-12 13:28:40 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-10-12 13:29:51 [INFO] Connection reset
+2013-10-12 13:29:51 [INFO] OzBarry lost connection: disconnect.quitting
+2013-10-12 13:29:51 [INFO] §eOzBarry left the game.
+2013-10-12 13:37:00 [INFO] OzBarry[/206.126.92.85:51211] logged in with entity id 9320598 at ([world] -282.9281556630258, 31.0, 275.02283140927926)
+2013-10-12 14:08:41 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-10-12 14:09:21 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-10-12 14:09:38 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-10-12 14:09:52 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-10-12 14:10:08 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-10-12 14:10:29 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-10-12 14:21:17 [INFO] OzBarry lost connection: disconnect.quitting
+2013-10-12 14:21:17 [INFO] Connection reset
+2013-10-12 14:21:17 [INFO] §eOzBarry left the game.

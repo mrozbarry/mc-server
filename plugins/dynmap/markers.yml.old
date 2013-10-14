@@ -1,0 +1,43 @@
+icons: {
+    }
+sets:
+    markers:
+        circles: {
+            }
+        hide: false
+        markers: {
+            }
+        layerprio: 0
+        areas:
+            area_1:
+                markup: false
+                fillColor: 16711680
+                label: area_1
+                ytop: 65.0
+                z:
+                - 236.0
+                - 318.0
+                - 318.0
+                - 310.0
+                - 310.0
+                - 241.0
+                strokeColor: 16711680
+                world: world
+                ybottom: 65.0
+                fillOpacity: 0.35
+                strokeOpacity: 0.8
+                strokeWeight: 3
+                x:
+                - -308.0
+                - -303.0
+                - -272.0
+                - -272.0
+                - -253.0
+                - -253.0
+        deficon: default
+        lines: {
+            }
+        label: Markers
+        minzoom: 0
+playersets: {
+    }

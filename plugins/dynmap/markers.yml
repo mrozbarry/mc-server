@@ -5,11 +5,42 @@ sets:
         circles: {
             }
         hide: false
-        markers: {
-            }
+        markers:
+            marker_1:
+                icon: default
+                markup: false
+                label: Beard-Town
+                z: 240.0
+                world: world
+                y: 66.0
+                x: -303.0
         layerprio: 0
-        areas: {
-            }
+        areas:
+            area_1:
+                markup: false
+                fillColor: 16711680
+                label: area_1
+                ytop: 65.0
+                z:
+                - 236.0
+                - 318.0
+                - 318.0
+                - 310.0
+                - 310.0
+                - 241.0
+                strokeColor: 16711680
+                world: world
+                ybottom: 65.0
+                fillOpacity: 0.35
+                strokeOpacity: 0.8
+                strokeWeight: 3
+                x:
+                - -308.0
+                - -303.0
+                - -272.0
+                - -272.0
+                - -253.0
+                - -253.0
         deficon: default
         lines: {
             }
