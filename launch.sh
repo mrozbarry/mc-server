@@ -1,3 +1,3 @@
 #!/bin/sh
 
-java -Xmx1024M -Xms1024M -jar minecraft_server.1.6.2.jar nogui
+nohup java -Xmx2048M -Xms1024M -jar minecraft_server.1.7.5.jar nogui 2>/dev/null 1>/dev/null &
